@@ -1,8 +1,8 @@
-@font-face { 
-  font-family: News Cycle; 
-    src: url('../fonts/NewsCycle-Regular.eot'); 
-    src: local("News Cycle"), url('../fonts/NewsCycle-Regular.ttf'); 
-} 
+@font-face {
+  font-family: News Cycle;
+    src: url('../fonts/NewsCycle-Regular.eot');
+    src: local("News Cycle"), url('../fonts/NewsCycle-Regular.ttf');
+}
 
 html
 { height: 100%;}
@@ -12,13 +12,13 @@ html
   padding: 0;}
 
 body
-{ font: normal 80% Arial, Helvetica, sans-serif;
+{ font: normal 90% Arial, Helvetica, sans-serif;
   color: #FFF;
   text-shadow: 1px 1px #000;
-  background: transparent url(../images/background.jpg) repeat;}
+  background: #21070c url(../images/background.jpg) repeat;}
 
 /* tell the browser to render HTML 5 elements as block */
-article, aside, figure, footer, header, hgroup, nav, section { 
+article, aside, figure, footer, header, hgroup, nav, section {
   display:block;
 }
 
@@ -29,7 +29,7 @@ p
 img
 { border: 0;}
 
-h1, h2, h3, h4, h5, h6 
+h1, h2, h3, h4, h5, h6
 { font: normal 250% 'News Cycle', Arial, sans-serif;
   color: #FFF;
   letter-spacing: -1px;
@@ -50,9 +50,9 @@ h4, h5, h6
 h5, h6
 { font: normal 95% Arial, Helvetica, sans-serif;
   padding-bottom: 15px;}
-  
+
 span
-{ color: #676767;
+{ color: #6556ea;
   text-shadow: 1px 1px #FFF;}
 
 a, a:hover
@@ -77,12 +77,12 @@ ol li
 { margin: 0 0 11px 0;}
 
 #main, header, #banner, #menubar, #site_content, footer, #content_grey, nav
-{ margin-left: auto; 
+{ margin-left: auto;
   margin-right: auto;}
 
 #main
 { background: transparent;}
-  
+
 header
 { height: 120px;}
 
@@ -92,32 +92,32 @@ header
   height: 50px;
   padding: 15px 0 0 0;
   background: transparent;}
- 
+
 nav
-{ height: 50px;}  
-  
+{ height: 50px;}
+
 #menubar
 { width: 940px;
   height: 50px;
-  text-align: center; 
-  margin: 0 auto;} 
-  
+  text-align: center;
+  margin: 0 auto;}
+
 #welcome
 { width: 880px;
   float: left;
   height: 50px;
   margin: 0 auto;
   padding-left: 20px;
-  background: transparent;} 
-  
+  background: transparent;}
+
 #welcome_slogan
 { width: 880px;
   float: left;
   height: 50px;
   margin: 0 auto;
   padding-left: 20px;
-  background: transparent;}   
-   
+  background: transparent;}
+
 #welcome H3
 { font: normal 300% 'News Cycle', Arial, sans-serif;
   letter-spacing: -3px;
@@ -128,8 +128,8 @@ nav
 { font: normal 200% 'News Cycle', Arial, sans-serif;
   letter-spacing: -2px;
   text-shadow: 1px 1px #000;
-  color: #FFF;}  
-  
+  color: #FFF;}
+
 ul#nav
 { margin:0;}
 
@@ -147,20 +147,20 @@ ul#nav li a
   margin: 10px 0 0 20px;
   text-shadow: 0px -1px 0px #000;
   padding: 6px 20px 0 20px;
-  background: transparent; 
+  background: transparent;
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
   -webkit-border: 7px 7px 7px 7px;
   text-align: center;
   color: #FFF;
-  text-decoration: none;} 
-  
+  text-decoration: none;}
+
 ul#nav li.current a, ul#nav li:hover a
 { color: #000;
   background: #CCC;
   background: -moz-linear-gradient(#FFF, #BBB);
   background: -o-linear-gradient(#FFF, #BBB);
-  background: -webkit-linear-gradient(#FFF, #BBB);  
+  background: -webkit-linear-gradient(#FFF, #BBB);
   text-shadow: none;}
 
 #site_content
@@ -173,7 +173,7 @@ ul#nav li.current a, ul#nav li:hover a
   -webkit-border: 0px 0px 7px 7px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;} 
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
 
 #content
 { width: 900px;
@@ -183,15 +183,15 @@ ul#nav li.current a, ul#nav li:hover a
 .content_item
 { width: 900px;
   margin-bottom: 20px;}
- 
+
 .content_imagetext
 { width: 890px;
   padding: 5px;
   margin: 20px 0 0 0;
   float: left;}
- 
+
 .content_image
-{ float: left; 
+{ float: left;
   width: 300px;
   height: 150px;
   margin: 0 20px 10px 0;
@@ -199,21 +199,21 @@ ul#nav li.current a, ul#nav li:hover a
   -moz-box-shadow:    inset 0 0 20px #ADADAD;
   -webkit-box-shadow: inset 0 0 20px #ADADAD;
   box-shadow:         inset 0 0 20px #ADADAD;}
-  
+
 .content_container
 { width: 275px;
   padding: 5px;
   margin: 10px 10px 20px 0;
   float: left;}
-  
+
 footer
 { width: 940px;
-  height: 50px;
+  height: 25px;
   padding-top: 15px;
   padding-bottom: 15px;
-  margin-bottom: 30px;  
+  margin-bottom: 30px;
   font-weight: bold;
-  text-align: center; 
+  text-align: center;
   background: transparent url(../images/transparent.png) repeat;
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
@@ -230,26 +230,26 @@ footer a, footer a:hover
 
 footer a:hover
 { text-decoration: underline;}
- 
+
  .button_small
 { font: normal 110% Arial, Helvetica, sans-serif;
-  width: 80px;
+  width: 110px;
   padding: 5px 2px 7px 2px;
   background: #CCC;
   background: -moz-linear-gradient(#FFF, #BBB);
   background: -o-linear-gradient(#FFF, #BBB);
-  background: -webkit-linear-gradient(#FFF, #BBB); 
+  background: -webkit-linear-gradient(#FFF, #BBB);
   border-radius: 7px 7px 7px 7px;
   -moz-border-radius: 7px 7px 7px 7px;
   -webkit-border: 7px 7px 7px 7px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
-  
+
 .button_small a
 { color: #000;
   text-shadow: 1px 1px #FFF;
-  padding-left: 5px;}
+  padding-left: 5px; }
 
 .form_settings
 { margin: 15px 0 0 0;}
@@ -258,42 +258,42 @@ footer a:hover
 { padding: 0 0 4px 0;}
 
 .form_settings span
-{ float: left; 
-  width: 280px; 
+{ float: left;
+  width: 280px;
   text-align: left;
   text-shadow: none;
   color: #FFF;
   text-shadow: 1px 1px #000;}
-  
+
 .form_settings input, .form_settings textarea
-{ padding: 2px; 
-  width: 299px; 
-  font: 100% arial; 
-  border: 1px solid #E5E5DB; 
-  background: #FFF; 
+{ padding: 2px;
+  width: 299px;
+  font: 100% arial;
+  border: 1px solid #E5E5DB;
+  background: #FFF;
   color: #47433F;}
-  
+
 .form_settings input[type="checkbox"]
-{ padding: 2px 0; 
-  width: 15px; 
-  font: 100% arial; 
-  border: 0; 
-  background: #FFF; 
+{ padding: 2px 0;
+  width: 15px;
+  font: 100% arial;
+  border: 0;
+  background: #FFF;
   color: #47433F;
   margin: 28px 0;}
 
 .form_settings .submit
-{ font: 100% arial; 
-  border: none; 
-  width: 99px; 
-  margin: 0 0 0 206px; 
+{ font: 100% arial;
+  border: none;
+  width: 99px;
+  margin: 0 0 0 206px;
   height: 26px;
   padding: 2px 0 3px 0;
-  cursor: pointer; 
+  cursor: pointer;
   background: #CCC;
   background: -moz-linear-gradient(#FFF, #BBB);
   background: -o-linear-gradient(#FFF, #BBB);
-  background: -webkit-linear-gradient(#FFF, #BBB); 
+  background: -webkit-linear-gradient(#FFF, #BBB);
   color: #000;
   text-shadow: 1px 1px #FFF;
   border-radius: 7px 7px 7px 7px;
@@ -306,8 +306,8 @@ footer a:hover
   margin-left: 20px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;}  
-  
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;}
+
 /* styling for the slideshow on the homepage */
 ul.slideshow {
   list-style: none;
@@ -316,36 +316,35 @@ ul.slideshow {
   overflow: hidden;
   position: relative;
   margin: 20px 0 0 0;}
-  
+
 ul.slideshow li {
   position: absolute;
   margin: 0;
   padding: 0;
   left: 0;
   right: 0;}
- 
+
 ul.slideshow li.show {
   z-index: 500;}
- 
+
 ul img {
   border: none;}
- 
+
 #slideshow-caption {
   width: 900px;
   height: 38px;
   position: absolute;
   bottom: 0;
-  left: 0; 
+  left: 0;
   z-index: 500;}
- 
+
 #slideshow-caption .slideshow-caption-container {
-  padding: 10px 25px 10px 25px; 
-  background: transparent url(../images/transparent.png) repeat;  
+  padding: 10px 25px 10px 25px;
+  background: transparent url(../images/transparent.png) repeat;
   z-index: 1000;}
- 
+
 #slideshow-caption p {
   padding: 0;
   font: normal 130% arial, sans-serif;
   color: #FFF;
   text-shadow: 1px 1px #000;}
- 
