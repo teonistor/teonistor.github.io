@@ -14,5 +14,8 @@ tnmod.controller ('mainCtl', ['$scope',
       {name: 'Avocado', score: 10}
     ];
     $scope.bar = 'sh';
+    $scope.stories = [
+      'bar.html'
+    ];
   }
 ]);
