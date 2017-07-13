@@ -1,9 +1,15 @@
 var tnmod = angular.module('TNmod', ['ngRoute']);
 // console.log ('Initiating Angular...')
 
-tnmod.config (['$routeProvider',
-  function ($routeProvider) {
-    $routeProvider.otherwise({templateUrl: 'foo.htm', controller: 'mainCtl'})
+tnmod.config (['$routeProvider', '$locationProvider',
+  function ($routeProvider, $locationProvider) {
+    $routeProvider
+    .when('home', {templateUrl: 'home.htm', controller: 'mainCtl'})
+    .otherwise({templateUrl: 'foo.htm', controller: 'mainCtl'})
+    // $locationProvider.html5Mode({
+    //   enabled: true,
+    //   requireBase: false
+    // });
   }
 ]);
 
