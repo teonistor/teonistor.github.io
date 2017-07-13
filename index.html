@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Angular Test 89˚</title>
+  </head>
+  <body ng-app="TNmod">
+    <div ng-for="f in fruit">
+      <p> {{ f.name }} has a score of {{ f.score }} </p>
+      <p> {{ 2+2 }} A {{ $scope }}
+    </div>
+    <ng-view></ng-view>
+    <!-- <div>
+      <p>Name: <input type="text" ng-model="name"></p>
+      <p ng-bind="name"></p>
+    </div> -->
+  </body>
+
+  <!-- Scripts TODO change to minified when all working OK -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.js"></script>
+    <script src="main.js"></script>
+</html>
