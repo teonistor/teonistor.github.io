@@ -30,18 +30,19 @@ tnmod.config (['$routeProvider', '$locationProvider',
   }
 ]);
 
-// tnmod.run(['$rootScope', function ($rootScope) {
-//
-//   $rootScope.activeNav = ['', '', ''];
-// }])
+// TODO perhaps a less object-premature-death-prone way?
+tnmod.run(['$rootScope', function ($rootScope) {
+  function noActiveNav() { return  ['', '', '']; }
+  $rootScope.activeNav = noActiveNav();
+  $rootScope.setActiveNav = function (n) {
+    $rootScope.activeNav = noActiveNav();
+    $rootScope.activeNav[n] = 'active';
+  };
+}]);
 
 tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    // $scope.where = 'Home controller at ' + $location.absUrl();
-    $scope.isNavActive = isAnyNavActive ('home');
-    $scope.isNavActiveH = 'active'
-
-    $rootScope.activeNav = ['active', '', ''];
+    $rootScope.setActiveNav(0);
     // $scope.fruit = [
     //   {name: 'Banana', score: 7},
     //   {name: 'Avocado', score: 10}
@@ -53,9 +54,9 @@ tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   }
 ]);
 
-tnmod.controller ('stories', ['$scope', '$location',
-  function ($scope, $location) {
-    $scope.isNavActive = isAnyNavActive ('stories');
+tnmod.controller ('stories', ['$scope', '$location', '$rootScope',
+  function ($scope, $location, $rootScope) {
+    $rootScope.setActiveNav(1);
     function story (title, filename) { return {title: title, filename: filename}};
 
     // Enumerate HTM files in /stories and their titles, in desired order of appearance
@@ -66,10 +67,9 @@ tnmod.controller ('stories', ['$scope', '$location',
   }
 ]);
 
-tnmod.controller ('treasure', ['$scope', '$location',
-  function ($scope, $location) {
-    $scope.isNavActive = isAnyNavActive ('treasure');
-
+tnmod.controller ('treasure', ['$scope', '$location', '$rootScope',
+  function ($scope, $location, $rootScope) {
+    $rootScope.setActiveNav(2);
 
   }
 ]);
