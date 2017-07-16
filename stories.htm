@@ -1,0 +1,8 @@
+<p>
+  <!-- This is Foo {{ bar }} -->
+  <div class="jumbotron" ng-repeat="story in stories">
+    <h1>{{ story.title }}</h1>
+    <hr>
+    <div ng-include src="'stories/' + story.filename"></div>
+  </div>
+</p>

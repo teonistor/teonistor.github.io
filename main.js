@@ -1,11 +1,27 @@
+// Let us begin with some all-useful functions.
+function isAnyNavActive (whichPage) {
+  return function (whichNav) {
+  console.log('Gone through ' + whichNav + whichPage)
+    if (whichPage == whichNav) return 'active';
+    return '';
+  }
+}
+
+function hashCode (code) {
+  // TODO
+}
+
+// And now Angular stuff.
 var tnmod = angular.module('TNmod', ['ngRoute']);
-// console.log ('Initiating Angular...')
 
 tnmod.config (['$routeProvider', '$locationProvider',
   function ($routeProvider, $locationProvider) {
     $routeProvider
-    .when('/home', {templateUrl: 'home.htm', controller: 'home'})
-    .otherwise({templateUrl: 'foo.htm', controller: 'stories'});
+      .when('/', {templateUrl: 'home.htm', controller: 'home'})
+      .when('/home', {templateUrl: 'home.htm', controller: 'home'})
+      .when('/stories', {templateUrl: 'stories.htm', controller: 'stories'})
+      .when('/treasure', {templateUrl: 'treasure.htm', controller: 'treasure'})
+      .otherwise({templateUrl: '4O4.htm'});
     $locationProvider.hashPrefix('');
     // $locationProvider.html5Mode({
     //   enabled: true,
@@ -14,34 +30,47 @@ tnmod.config (['$routeProvider', '$locationProvider',
   }
 ]);
 
-tnmod.controller ('home', ['$scope', '$location',
-  function ($scope, $location) {
-    $scope.where = 'Home controller at ' + $location.absUrl();
-    $scope.isNavActive = function (str) {
-      if (str === 'Home') return 'active';
-      return '';
-    };
-    $scope.fruit = [
-      {name: 'Banana', score: 7},
-      {name: 'Avocado', score: 10}
-    ];
-    $scope.bar = 'sh';
+//
+tnmod.run(['$rootScope', function ($rootScope) {
+  var previouslyActiveNav = 0;
+  $rootScope.activeNav = ['', '', ''];
+  $rootScope.setActiveNav = function (n) {
+    $rootScope.activeNav[previouslyActiveNav] = '';
+    $rootScope.activeNav[n] = 'active';
+    previouslyActiveNav = n;
+  };
+}]);
+
+tnmod.controller ('home', ['$scope', '$location', '$rootScope',
+  function ($scope, $location, $rootScope) {
+    $rootScope.setActiveNav(0);
+    // $scope.fruit = [
+    //   {name: 'Banana', score: 7},
+    //   {name: 'Avocado', score: 10}
+    // ];
+    // $scope.bar = 'sh';
+    // $scope.stories = [
+    //   'bar.html'
+    // ];
+  }
+]);
+
+tnmod.controller ('stories', ['$scope', '$location', '$rootScope',
+  function ($scope, $location, $rootScope) {
+    $rootScope.setActiveNav(1);
+    function story (title, filename) { return {title: title, filename: filename}};
+
+    // Enumerate HTM files in /stories and their titles, in desired order of appearance
     $scope.stories = [
-      'bar.html'
+      story ('First story on this site', 'placeholder.htm'),
+      story ('Second story on this site', 'placeholder0.htm')
     ];
   }
 ]);
 
-tnmod.controller ('stories', ['$scope', '$location',
-  function ($scope, $location) {
-    $scope.where = 'Stories controller at ' + $location.absUrl();
-    $scope.fruit = [
-      {name: 'Banana', score: 7},
-      {name: 'Avocado', score: 10}
-    ];
-    $scope.bar = 'sh';
-    $scope.stories = [
-      'bar.html'
-    ];
+tnmod.controller ('treasure', ['$scope', '$location', '$rootScope',
+  function ($scope, $location, $rootScope) {
+    $rootScope.setActiveNav(2);
+
   }
 ]);
