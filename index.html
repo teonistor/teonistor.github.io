@@ -13,9 +13,9 @@
         <div class="container-fluid">
           <a class="navbar-brand" href="/"> My Site </a>
           <ul class="nav navbar-nav navbar-right">
-            <li class="{{ isNavActive('Home') }}"><a href="/">Home</a></li>
-            <li class="{{ isNavActive('Stories') }}"><a href="/">Stories</a></li>
-            <li class="{{ isNavActive('Treasure') }}"><a href="/">Treasure</a></li>
+            <li class="{{ activeNav[0] }}"><a href="/#/home">Home</a></li>
+            <li class="{{ activeNav[1] }}"><a href="/#/stories">Stories</a></li>
+            <li class="{{ activeNav[2] }}"><a href="/#/treasure">Treasure Hunt</a></li>
           </ul>
       </div>
         <!-- How about Bum-Album on the site?? -->
@@ -32,5 +32,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.js"></script>
     <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+    <script type="text/javascript" src="https://cdn.rawgit.com/chrisveness/crypto/master/sha1.js"></script>
     <script src="main.js"></script>
 </html>
