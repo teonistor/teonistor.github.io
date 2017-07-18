@@ -30,13 +30,14 @@ tnmod.config (['$routeProvider', '$locationProvider',
   }
 ]);
 
-// TODO perhaps a less object-premature-death-prone way?
+//
 tnmod.run(['$rootScope', function ($rootScope) {
-  function noActiveNav() { return  ['', '', '']; }
-  $rootScope.activeNav = noActiveNav();
+  var previouslyActiveNav = 0;
+  $rootScope.activeNav = ['', '', ''];
   $rootScope.setActiveNav = function (n) {
-    $rootScope.activeNav = noActiveNav();
+    $rootScope.activeNav[previouslyActiveNav] = '';
     $rootScope.activeNav[n] = 'active';
+    previouslyActiveNav = n;
   };
 }]);
 
