@@ -11,24 +11,27 @@
   <body ng-app="TNmod">
   <div class="navbar navbar-inverse">
       <!-- <p> Navbar, logo and all that jazz goes here -->
-        <div class="container-fluid">
-          <a class="navbar-brand" href="/#/home"> Stories <span class="tiny">at an</span> Angle </a>
-          <ul class="nav navbar-nav navbar-right">
-            <li class="{{ activeNav[0] }}"><a href="/#/home">Home</a></li>
-            <li class="{{ activeNav[1] }}"><a href="/#/compsci">Comp Sci</a></li>
-            <li class="{{ activeNav[2] }}"><a href="/#/stories">Stories</a></li>
-            <li class="{{ activeNav[3] }}"><a href="/#/treasure/">Treasure Hunt</a></li>
-          </ul>
-      </div>
-        <!-- How about Bum-Album on the site?? -->
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/#/home"> Stories <span class="tiny">at an</span> Angle </a>
+        <ul class="nav navbar-nav navbar-right">
+          <li class="{{ activeNav[0] }}"><a href="/#/home">Home</a></li>
+          <li class="{{ activeNav[1] }}"><a href="/#/compsci">Comp Sci</a></li>
+          <li class="{{ activeNav[2] }}"><a href="/#/stories">Stories</a></li>
+          <li class="{{ activeNav[3] }}"><a href="/#/treasure/">Treasure Hunt</a></li>
+        </ul>
     </div>
-    <div class="container">
-      <ng-view>
-    <!-- <div>
-      <p>Name: <input type="text" ng-model="name"></p>
-      <p ng-bind="name"></p> -->
-    </div>
-  </body>
+      <!-- How about Bum-Album on the site?? -->
+  </div>
+  <div class="container">
+    <ng-view>
+  <!-- <div>
+    <p>Name: <input type="text" ng-model="name"></p>
+    <p ng-bind="name"></p> -->
+  </div>
+  <p style="color: #222; font-style: oblique; text-align: center">
+    Last revision 1st August
+  </p>
+</body>
 
   <!-- Scripts TODO change to minified when all working OK -->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.js"></script>
