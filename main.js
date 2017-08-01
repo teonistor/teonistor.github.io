@@ -22,7 +22,7 @@ tnmod.config (['$routeProvider', '$locationProvider',
       .when('/compsci', {templateUrl: 'compsci.htm', controller: 'compsci'})
       .when('/suhc', {templateUrl: 'suhc.htm', controller: 'suhc'})
       .when('/stories', {templateUrl: 'stories.htm', controller: 'stories'})
-      .when('/treasure', {templateUrl: 'treasure.htm', controller: 'treasure'})
+      .when('/treasure/:codeHash', {templateUrl: 'treasure.htm', controller: 'treasure'})
       .otherwise({templateUrl: '4O4.htm'});
     $locationProvider.hashPrefix('');
     // $locationProvider.html5Mode({
@@ -79,9 +79,29 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope',
   }
 ]);
 
-tnmod.controller ('treasure', ['$scope', '$location', '$rootScope',
-  function ($scope, $location, $rootScope) {
+/*
+ *
+ */
+tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
+  function ($scope, $location, $rootScope, $routeParams, $http) {
     $rootScope.setActiveNav(3);
 
+    $scope.huntCode = '';
+    $scope.includeSrc = '/hashes/' + $routeParams.codeHash + '.htm';
+    $scope.fail = $scope.success = false;
+
+    $scope.hunt = function() {
+      $location.path('/treasure/' + Sha1.hash($scope.huntCode));
+    }
+
+    $http.get($scope.includeSrc).then(
+      function() {
+        $scope.success = true;
+      },
+      function() {
+        console.log($routeParams.codeHash);
+        $scope.fail = !! $routeParams.codeHash;
+      }
+    );
   }
 ]);

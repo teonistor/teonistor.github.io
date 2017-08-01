@@ -70,3 +70,19 @@ body {
   height: 3px; background-color: #203060;
   border-bottom: 3px solid #102040;
 }
+
+input {
+  margin: 15px;
+  text-align: center;
+  color: white;
+  background-color: #222;
+  border-color: black;
+  border-radius: 8px;
+}
+
+button {
+  color: white;
+  background-color: #222;
+  border-color: black;
+  border-radius: 8px;
+}

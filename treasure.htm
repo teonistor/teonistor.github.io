@@ -1,0 +1,14 @@
+<h2>Treasure Hunt</h2>
+<p>There are secrets on this page that you will know only if you do. Enter the code and unleash the dark powers.</p>
+<form ng-submit="hunt()">
+  <input type="password" placeholder="Code" ng-model="huntCode" />
+  <button type="button" ng-click="hunt()">Enter</button>
+</form>
+<br>
+<div ng-show="success||fail">
+  <hr>
+</div>
+<div ng-show="fail">
+  That code, my friend, didn't open any treasures.
+</div>
+<div ng-show="success" ng-include="includeSrc"></div>
