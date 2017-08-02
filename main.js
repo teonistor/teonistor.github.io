@@ -1,17 +1,3 @@
-// Let us begin with some all-useful functions.
-// function isAnyNavActive (whichPage) {
-//   return function (whichNav) {
-//   console.log('Gone through ' + whichNav + whichPage)
-//     if (whichPage == whichNav) return 'active';
-//     return '';
-//   }
-// }
-
-function hashCode (code) {
-  // TODO
-}
-
-// And now Angular stuff.
 var tnmod = angular.module('TNmod', ['ngRoute']);
 
 tnmod.config (['$routeProvider', '$locationProvider',
@@ -46,14 +32,6 @@ tnmod.run(['$rootScope', function ($rootScope) {
 tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
     $rootScope.setActiveNav(0);
-    // $scope.fruit = [
-    //   {name: 'Banana', score: 7},
-    //   {name: 'Avocado', score: 10}
-    // ];
-    // $scope.bar = 'sh';
-    // $scope.stories = [
-    //   'bar.html'
-    // ];
   }
 ]);
 
