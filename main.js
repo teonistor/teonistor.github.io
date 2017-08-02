@@ -75,7 +75,7 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope',
     function story (title, filename) { return {title: title, filename: filename}};
 
     // Enumerate HTM files in /stories and their titles, in desired order of appearance
-    $scope.stories = ['placeholder.htm', 'placeholder0.htm'];
+    $scope.stories = ['angular-site.htm'];
   }
 ]);
 
