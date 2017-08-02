@@ -40,6 +40,7 @@ body {
   background-color: black;
   color: white;
   font-family: Ubuntu,Arial,sans-serif,Helvetica;
+  font-size: 16px;
 }
 
 .navbar-inverse {
@@ -71,16 +72,15 @@ body {
   border-bottom: 3px solid #102040;
 }
 
-input {
-  margin: 15px;
-  text-align: center;
-  color: white;
-  background-color: #222;
-  border-color: black;
-  border-radius: 8px;
+.jumbotron p {
+  font-size: inherit;
+  font-weight: inherit;
+  text-align: justify;
 }
 
-button {
+input,button {
+  margin: 15px;
+  text-align: center;
   color: white;
   background-color: #222;
   border-color: black;
