@@ -50,7 +50,6 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope',
 tnmod.controller ('stories', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
     $rootScope.setActiveNav(2);
-    function story (title, filename) { return {title: title, filename: filename}};
 
     // Enumerate HTM files in /stories and their titles, in desired order of appearance
     $scope.stories = ['angular-site.htm'];
