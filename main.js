@@ -6,7 +6,8 @@ tnmod.config (['$routeProvider', '$locationProvider',
       .when('/', {templateUrl: 'home.htm', controller: 'home'})
       .when('/home', {templateUrl: 'home.htm', controller: 'home'})
       .when('/compsci', {templateUrl: 'compsci.htm', controller: 'compsci'})
-      .when('/suhc', {templateUrl: 'suhc.htm', controller: 'suhc'})
+      .when('/suhc', {templateUrl: 'suhc.htm', controller: 'hidden'})
+      .when('/nightwish', {templateUrl: 'nightwish.htm', controller: 'hidden'})
       .when('/stories', {templateUrl: 'stories.htm', controller: 'stories'})
       .when('/treasure/:codeHash', {templateUrl: 'treasure.htm', controller: 'treasure'})
       .otherwise({templateUrl: '4O4.htm'});
@@ -29,6 +30,14 @@ tnmod.run(['$rootScope', function ($rootScope) {
   };
 }]);
 
+
+// Controller for the hidden pages with nothing special going on
+tnmod.controller ('hidden', ['$rootScope',
+  function ($rootScope) {
+    $rootScope.activeNav = ['', '', '', ''];
+  }
+]);
+
 tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
     $rootScope.setActiveNav(0);
@@ -38,12 +47,6 @@ tnmod.controller ('home', ['$scope', '$location', '$rootScope',
 tnmod.controller ('compsci', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
     $rootScope.setActiveNav(1);
-  }
-]);
-
-tnmod.controller ('suhc', ['$scope', '$location', '$rootScope',
-  function ($scope, $location, $rootScope) {
-    $rootScope.activeNav = ['', '', '', ''];
   }
 ]);
 
