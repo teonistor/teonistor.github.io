@@ -55,7 +55,7 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope',
     $rootScope.setActiveNav(2);
 
     // Enumerate HTM files in /stories and their titles, in desired order of appearance
-    $scope.stories = ['angular-site.htm'];
+    $scope.stories = ['zoom.htm', 'angular-site.htm'];
   }
 ]);
 
