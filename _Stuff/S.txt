@@ -1,0 +1,35 @@
+Teodor-Gherasim Nistor’s summer internship retrospective
+As I started working within the Solution Architecture team at J.P. Morgan, I quickly dived into the main ongoing project, the Solution Architecture Tool. 
+Once I had set up my development environment, I could start thinking about what to work on, and one of the very first missing features that I noticed was the absence of permanent links to specific views. When navigating the web interface, the URL did not reflect the user’s search query, meaning that the query was lost upon refresh and the user could not, for instance, bookmark a view or send a URL to another user. Adding permanent links to SAT was the first serious feature I implemented.
+ 
+Before:
+   
+After:
+  
+ 
+Hand-in-hand with the permanent links feature went that of clickable links in tables where other assets are referenced, which the team had been thinking about for a while [SAT-93]. So I gave it a go and implemented it quite quickly, although it should be noted that at the time I knew very little about Angular JS, upon which the whole tool relies heavily, and my solutions to these two issues fell into the realm of “hacking” and were not too elegant. Later however, I will have revisited them and built a more robust solution.
+ 
+Before: 
+After:  
+Towards the end of our internship, we decided to have a refactor-and-fix sprint, where no new features were to be added, but SAT was to be made more stable and its codebase more readable (self-docu¬menting code where possible). Code duplication had been a major issue since before we joined, and our work in the first few weeks, when we did not fully understand the bigger picture, had not helped too much. But at this point we made major improvements and simplifications, as it turned out there were several extraneous queries and computations throughout the server code, the results of which were never used, but the failures of which caused the entire SAT server to fail. I identified several such issues and made the server more stable and more efficient by correcting them [SAT-186] [SAT-187] [SAT-216] [SAT-217].
+ 
+Before:   
+After:  
+ 
+At one point during the internship, my technical mentor recruited me to help another workstream within Infrastructure Development that was aiming to create a simple informative website about what it means to be an infrastructure developer and various events organised by the team [SAT-144] [SAT-155]. I put together a static website, and although when I handed it over it contained no useful information, I explained to the people who were going to provide the information exactly what they needed to do to make it available, and this is what the website has become since:
+ 
+ 
+I also did significant work on the SAT Rules Engine [SAT-147] [SAT-217] [SAT-221], a get-only Rest API which had been created at a time when API standards and the API Governance Program had not yet been established. Since our wider team aims to set an example of how Rest APIs are to be created and used, and to show what great potential they have, it is paramount that our own APIs follow the standards closely. Therefore, the Rules Engine API needed to be restructured, and as part of the process I also created a Swagger definition [SAT-184] [SAT-218] which users can now view through a Swagger UI attached to our API:
+ 
+ 
+Particularly relaxing and positively unusual were the days when I began working on a new logo for our Solution Architecture Tool [SAT-141]. Since it had forked from a different project, it needed a new name and a new look. Rebranding [SAT-135] was a tedious process which permeated both SAT and RE reposi¬tories where I changed the names of the tools behind the scenes, sometimes with no direct impact on the UI. The visual rebranding began with a joke, reusing the same old logo but giving it a “confused” aspect. Ultimately we ended up with so many options we are still not sure if we made the right choice.
+ 
+Before
+ 
+ 
+After
+             
+    
+Also unusual, but in a less positive way due to the high pressure, were the few days when I suspended my usual work on SAT in order to help a team in India with an imminent deadline for a senior manage-ment presentation. They needed a way to automatically generate app migration contracts based on app information stored in various databases accessible through Rest APIs. Some of the information also needed processing by rules services accessible through yet other Rest APIs. Together with just one other member of my team of interns, we managed to pull together a web service in just two days, which generates the required contract at the click of a button (provided required data is available) and displays it as HTML, which can then easily be exported as PDF for various purposes [SAT-173].
+(Unfortunately I cannot attach a screenshot of this because at the time of writing this document some depen¬dencies of this web service have been temporarily taken down by their owners.)
+Other more minor cards I worked on, not detailed here: SAT-112 SAT-148 SAT-149 SAT-150 SAT-162 SAT-198 SAT-175 SAT-230
