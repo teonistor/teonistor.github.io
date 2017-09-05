@@ -7,8 +7,9 @@ tnmod.config (['$routeProvider', '$locationProvider',
       .when('/home', {templateUrl: 'home.htm', controller: 'home'})
       .when('/compsci', {templateUrl: 'compsci.htm', controller: 'compsci'})
       .when('/suhc', {templateUrl: 'suhc.htm', controller: 'hidden'})
+      .when('/cristi', {templateUrl: 'cristi.htm', controller: 'hidden'})
       .when('/nightwish', {templateUrl: 'nightwish.htm', controller: 'hidden'})
-      .when('/stories', {templateUrl: 'stories.htm', controller: 'stories'})
+      .when('/stories/:story', {templateUrl: 'stories.htm', controller: 'stories'})
       .when('/treasure/:codeHash', {templateUrl: 'treasure.htm', controller: 'treasure'})
       .otherwise({templateUrl: '4O4.htm'});
     $locationProvider.hashPrefix('');
@@ -56,6 +57,12 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope',
 
     // Enumerate HTM files in /stories and their titles, in desired order of appearance
     $scope.stories = ['zoom.htm', 'angular-site.htm'];
+
+    // Enumerate stories giving title and location (interpreted as file name under /stories)
+    $scope.storiesNew = [
+      ['Anatomy of Zoom', 'zoom'],
+      ['An Angular Website', 'angular-site.htm']
+    ];
   }
 ]);
 
