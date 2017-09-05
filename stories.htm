@@ -1,5 +1,17 @@
 <p>
-  <div class="jumbotron" ng-repeat="story in stories">
-    <div ng-include src="'stories/' + story"></div>
+  <div class="row">
+    <div class="col-md-3">
+      <h4 align=center>Contents</h4>
+      <ul ng-repeat="story in stories">
+        <li><a ng-href="/#/stories/{{ story[0] }}">{{ story[1] }}</a></li>
+      </ul>
+    </div>
+    <div class="col-md-9">
+      <div class="jumbotron">
+        <h2>{{ chosenStory[0][1] }}</h2>
+        <hr>
+        <div ng-include src="'/stories/' + chosenStory[0][0] + '.htm'"></div>
+      </div>
+    </div>
   </div>
 </p>
