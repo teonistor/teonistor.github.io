@@ -11,6 +11,7 @@ tnmod.config (['$routeProvider', '$locationProvider',
       .when('/nightwish', {templateUrl: 'nightwish.htm', controller: 'hidden'})
       .when('/stories/:story', {templateUrl: 'stories.htm', controller: 'stories'})
       .when('/treasure/:codeHash', {templateUrl: 'treasure.htm', controller: 'treasure'})
+      .when('/:what', {templateUrl: 'smth.htm', controller: 'hidden'})
       .otherwise({templateUrl: '4O4.htm'});
     $locationProvider.hashPrefix('');
 
@@ -39,9 +40,10 @@ tnmod.run(['$rootScope', function ($rootScope) {
 
 
 // Controller for the hidden pages with nothing special going on
-tnmod.controller ('hidden', ['$rootScope',
-  function ($rootScope) {
+tnmod.controller ('hidden', ['$rootScope', '$routeParams',
+  function ($rootScope, $routeParams) {
     $rootScope.activeNav = ['', '', '', ''];
+    console.log ($routeParams.what);
   }
 ]);
 
