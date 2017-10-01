@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.888">
+    <title>Poezii cu unghi | teonistor.github.io</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="/common/style.css">
+  </head>
+  <body ng-app="TNmod">
+    <div class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/#/home"> Poezii <span class="tiny">cu</span> unghi </a>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="/#/home">&nbsp;</a></li> <!-- Fixes menu displacement on narrow/mobile devices -->
+          <li class="{{ activeNav['intrare'] }}"><a href="/ro/#/intrare/">Intrare</a></li>
+          <li class="{{ activeNav['muzica'] }}"><a href="/ro/#/muzica/">Muzică</a></li>
+          <li class="{{ activeNav['poezie'] }}"><a href="/ro/#/poezie/">Poezie</a></li>
+          <li class="{{ activeNav['comoara'] }}"><a href="/ro/#/comoara/">Comoară</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container">
+      <ng-view></ng-view>
+    </div>
+    <p style="color: #234; font-style: oblique; text-align: center">
+      Ultima actualizare: întâi octombrie
+    </p>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.min.js"></script>
+  <script src="https://cdn.rawgit.com/chrisveness/crypto/master/sha1.js"></script>
+  <script src="main.js"></script>
+</html>
