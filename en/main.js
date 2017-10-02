@@ -7,7 +7,7 @@ tnmod.config (['$routeProvider', '$locationProvider',
       .when('/home', {templateUrl: '/en/home.htm', controller: 'home'})
       .when('/compsci', {templateUrl: '/en/compsci.htm', controller: 'compsci'})
       .when('/suhc', {templateUrl: '/en/suhc.htm', controller: 'hidden'})
-      .when('/nightwish', {templateUrl: '/en/nightwish.htm', controller: 'hidden'})
+      .when('/nightwish', {templateUrl: '/en/nightwish.htm', controller: 'hidden'}) // Remove?
       .when('/stories/:story', {templateUrl: '/en/stories.htm', controller: 'stories'})
       .when('/music/:m', {templateUrl: '/en/music.htm', controller: 'music'})
       .when('/treasure/:codeHash', {templateUrl: '/en/treasure.htm', controller: 'treasure'})
@@ -74,6 +74,17 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
   }
 ]);
 
+/* Discount Story controller */
+tnmod.controller ('music', ['$scope', '$location', '$rootScope', '$routeParams',
+  function ($scope, $location, $rootScope, $routeParams) {
+    $rootScope.activeNav = 4;
+
+    $scope.which = $routeParams.m;
+    if (!$scope.which)
+      $location.path('/music/nightwish');
+  }
+]);
+
 /* Controller for Treasure Hunt provides the following $scope elements:
  * * huntCode: mapping for contents of code text box
  * * includeSrc: path to file to include, whether correct or not
@@ -83,10 +94,10 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
  */
 tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
-    $rootScope.activeNav = 4;
+    $rootScope.activeNav = 5;
 
     $scope.huntCode = '';
-    $scope.includeSrc = '/hashes/' + $routeParams.codeHash + '.htm';
+    $scope.includeSrc = '/common/treasures/' + $routeParams.codeHash + '.htm';
     $scope.fail = $scope.success = false;
 
     $scope.hunt = function() {
