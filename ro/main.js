@@ -3,12 +3,12 @@ var tnmod = angular.module('TNmod', ['ngRoute']);
 tnmod.config (['$routeProvider', '$locationProvider',
   function ($routeProvider, $locationProvider) {
     $routeProvider
-      .when('/', {templateUrl: '/ro/intrare.htm', controller: 'home'})
-      .when('/intrare', {templateUrl: '/ro/intrare.htm', controller: 'home'})
-      .when('/compsci', {templateUrl: '/ro/muzica.htm', controller: 'music'})
-      .when('/poezie/:poe', {templateUrl: '/ro/poezie.htm', controller: 'hidden'})
-      .when('/comoara/:codeHash', {templateUrl: '/ro/comoara.htm', controller: 'treasure'})
-      .otherwise({templateUrl: '/ro/4o4.htm'});
+      .when('/', {templateUrl: '/ro/intrare.htm', controller: 'intrare'})
+      .when('/intrare/', {templateUrl: '/ro/intrare.htm', controller: 'intrare'})
+      .when('/muzica/:m', {templateUrl: '/ro/muzica.htm', controller: 'muzica'})
+      .when('/poezie/:p', {templateUrl: '/ro/poezie.htm', controller: 'poezie'})
+      .when('/comoara/:c', {templateUrl: '/ro/comoara.htm', controller: 'comoara'})
+      .otherwise({templateUrl: '/ro/4O4.htm'});
     $locationProvider.hashPrefix('');
 
     // If HTML5 ever becomes reasonably feasible on github.io, or if this is reused as template
@@ -25,44 +25,40 @@ tnmod.config (['$routeProvider', '$locationProvider',
  * page to easily and correctly alter this array.
  */
 tnmod.run(['$rootScope', function ($rootScope) {
-  var previouslyActiveNav = 'intrare';
-  $rootScope.activeNav = {
-    'intrare': 'active',
-    'muzica': '',
-    'poezie': '',
-    'comoara': '',
-  };
-  $rootScope.setActiveNav = function (n) {
-    $rootScope.activeNav[previouslyActiveNav] = '';
-    $rootScope.activeNav[n] = 'active';
-    previouslyActiveNav = n;
-  };
+  $rootScope.activeNav = 0;
 }]);
 
+tnmod.directive('titleAuto', ['$rootScope', function($rootScope){
+  return {
+    restrict: 'A',
+    link: function (scope, element) {
+      theelem = element
+    }
+  };
+}]);
 
 // Controller for the hidden pages with nothing special going on
 tnmod.controller ('hidden', ['$rootScope', '$routeParams',
   function ($rootScope, $routeParams) {
-    $rootScope.activeNav = ['', '', '', ''];
-    console.log ($routeParams.what);
+    $rootScope.activeNav = 0;
   }
 ]);
 
-tnmod.controller ('home', ['$scope', '$location', '$rootScope',
+tnmod.controller ('intrare', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    $rootScope.setActiveNav(0);
+    $rootScope.activeNav = 1;
   }
 ]);
 
-tnmod.controller ('compsci', ['$scope', '$location', '$rootScope',
+tnmod.controller ('muzica', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    $rootScope.setActiveNav(1);
+    $rootScope.activeNav = 2;
   }
 ]);
 
-tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams',
+tnmod.controller ('poezie', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
-    $rootScope.setActiveNav(2);
+    $rootScope.activeNav = 3;
 
     /* Enumerate stories giving location and title. This will be used in the table of contents.
      * Location is interpreted as the name of a file inside /stories, sans the .htm extension
@@ -90,12 +86,12 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
  * * success: whether to show the included file
  * * hunt: function called by Button / Enter key. Hashes typed code and updates path accordingly
  */
-tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
+tnmod.controller ('comoara', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
-    $rootScope.setActiveNav(3);
+    $rootScope.activeNav = 4;
 
     $scope.huntCode = '';
-    $scope.includeSrc = '/hashes/' + $routeParams.codeHash + '.htm';
+    $scope.includeSrc = '/hashes/' + $routeParams.c + '.htm';
     $scope.fail = $scope.success = false;
 
     $scope.hunt = function() {
@@ -110,8 +106,8 @@ tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParam
         $scope.success = true;
       },
       function() {
-        console.log($routeParams.codeHash);
-        $scope.fail = !! $routeParams.codeHash;
+        console.log($routeParams.c);
+        $scope.fail = !! $routeParams.c;
       }
     );
   }

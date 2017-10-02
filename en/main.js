@@ -3,16 +3,15 @@ var tnmod = angular.module('TNmod', ['ngRoute']);
 tnmod.config (['$routeProvider', '$locationProvider',
   function ($routeProvider, $locationProvider) {
     $routeProvider
-      .when('/', {templateUrl: 'home.htm', controller: 'home'})
-      .when('/home', {templateUrl: 'home.htm', controller: 'home'})
-      .when('/compsci', {templateUrl: 'compsci.htm', controller: 'compsci'})
-      .when('/suhc', {templateUrl: 'suhc.htm', controller: 'hidden'})
-      .when('/cristi', {templateUrl: 'cristi.htm', controller: 'hidden'})
-      .when('/nightwish', {templateUrl: 'nightwish.htm', controller: 'hidden'})
-      .when('/stories/:story', {templateUrl: 'stories.htm', controller: 'stories'})
-      .when('/treasure/:codeHash', {templateUrl: 'treasure.htm', controller: 'treasure'})
-      .when('/:what', {templateUrl: 'smth.htm', controller: 'hidden'})
-      .otherwise({templateUrl: '4O4.htm'});
+      .when('/', {templateUrl: '/en/home.htm', controller: 'home'})
+      .when('/home', {templateUrl: '/en/home.htm', controller: 'home'})
+      .when('/compsci', {templateUrl: '/en/compsci.htm', controller: 'compsci'})
+      .when('/suhc', {templateUrl: '/en/suhc.htm', controller: 'hidden'})
+      .when('/nightwish', {templateUrl: '/en/nightwish.htm', controller: 'hidden'})
+      .when('/stories/:story', {templateUrl: '/en/stories.htm', controller: 'stories'})
+      .when('/music/:m', {templateUrl: '/en/music.htm', controller: 'music'})
+      .when('/treasure/:codeHash', {templateUrl: '/en/treasure.htm', controller: 'treasure'})
+      .otherwise({templateUrl: '/en/4O4.htm'});
     $locationProvider.hashPrefix('');
 
     // If HTML5 ever becomes reasonably feasible on github.io, or if this is reused as template
@@ -29,39 +28,32 @@ tnmod.config (['$routeProvider', '$locationProvider',
  * page to easily and correctly alter this array.
  */
 tnmod.run(['$rootScope', function ($rootScope) {
-  var previouslyActiveNav = 0;
-  $rootScope.activeNav = ['', '', '', ''];
-  $rootScope.setActiveNav = function (n) {
-    $rootScope.activeNav[previouslyActiveNav] = '';
-    $rootScope.activeNav[n] = 'active';
-    previouslyActiveNav = n;
-  };
+  $rootScope.activeNav = 0;
 }]);
 
 
 // Controller for the hidden pages with nothing special going on
 tnmod.controller ('hidden', ['$rootScope', '$routeParams',
   function ($rootScope, $routeParams) {
-    $rootScope.activeNav = ['', '', '', ''];
-    console.log ($routeParams.what);
+    $rootScope.activeNav = 0;
   }
 ]);
 
 tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    $rootScope.setActiveNav(0);
+    $rootScope.activeNav = 1;
   }
 ]);
 
 tnmod.controller ('compsci', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    $rootScope.setActiveNav(1);
+    $rootScope.activeNav = 2;
   }
 ]);
 
 tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
-    $rootScope.setActiveNav(2);
+    $rootScope.activeNav = 3;
 
     /* Enumerate stories giving location and title. This will be used in the table of contents.
      * Location is interpreted as the name of a file inside /stories, sans the .htm extension
@@ -91,7 +83,7 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
  */
 tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
-    $rootScope.setActiveNav(3);
+    $rootScope.activeNav = 4;
 
     $scope.huntCode = '';
     $scope.includeSrc = '/hashes/' + $routeParams.codeHash + '.htm';
