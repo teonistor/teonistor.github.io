@@ -86,3 +86,23 @@ input,button {
   border-color: black;
   border-radius: 8px;
 }
+
+/*table, th, td {
+  border: 1px solid white;
+}*/
+
+table {
+  width: 100%;
+}
+
+td,th {
+  text-align: justify;
+}
+
+td.suhclogtime {
+  text-align: center;
+  vertical-align: top;
+  width: 70px;
+}
+
+

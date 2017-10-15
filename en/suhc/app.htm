@@ -1,0 +1,30 @@
+<div class="jumbotron">
+  <h2>The story of SUHC starts here.</h2>
+  <hr>
+  <P><A href="https://github.com/teonistor/bunfight/raw/master/Bunfight.zip">TLDR: Download ZIP and follow guts</A></P>
+  <P><A href="https://github.com/teonistor/bunfight/raw/master/1.apk">MTLDR: Download emergency android app</A></P>
+  <img alt="SUHC logo" src="/en/suhc/logo.png" width="500">
+
+  <h3>A story of many beginnings</h3>
+  <p>Every year new students join the university and search for clubs and societies to join to make their uni life one of the best. To facilitate this, a Bunfight event is organised, where each society gets a stall and attempts to attract attention, by being the brightest, loudest, most colorful, most obscene... you name it. In this two-way apocalyptical swarm, it is our responsibility as club committee to stand out and make sure potentially interested people find us.</p>
+
+  <h3>The idea</h3>
+  <p>In my first two years of uni and bunfighting, I have come across shittons of ideas, one worse than the other. Typing my name and email into a spreadsheet where I could see all the previous subscribers (and made myself visible to all future ones) was just marginally better than writing such details with pen on paper (how outrageously old-fashioned!). Walls of photos take just one blow of the wind to become a tornado of useless paper, to the despair of surrounding people and trees.</p>
+  <p>What if, instead, we could show our newcomers a simple sign-up form in a corner of a screen, and let them see a slide show of pictures on the rest of it? That is what I set off to do.
+  <p>I then realised there remains some unused screen real-estate. And since I have the hobby of collecting jokes, puns, and other fun quotes people say, I decided to create a <em>Hillwalkers' out-of-context quotes corner</em> as well.</p>
+
+  <h3>A random screenshot from the app:</h3>
+  <a href="/en/suhc/screenshot.png"><img alt="Screenshot of SUHC Bunfight app" src="/en/suhc/screenshot.png" width=500></a>
+
+  <h3>Technicalities</h3>
+  <p>You will need Java SE 8 (or later) runtime environment installed on your system, which if you don't have you may get by asking uncle Google or from <a href="http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html">here unless the link breaks in the future</a>.</p>
+  <p>Then you can execute <a href="https://github.com/teonistor/bunfight/raw/master/Bunfight.jar">Bunfight.jar</a>. But for it to actually work, you must provide next to it:</p>
+  <ul>
+    <li>A text file <em>Quotes.txt</em> containing blocks of text to be displayed on the right side of the app window. These blocks should be separated by one empty line and the file is expected to have an empty line at the end (Unix convention <em>-ish</em>).</li>
+    <li>A folder <em>Photos</em> containing photos for the slide show. If you include non-image files in this folder strange things may happen, particularly if you include <em>only</em> non-image files; so don't do it! Or do it, but don't then call me at 2am to complain that your PC is on fire.</li>
+  </ul>
+  <p>Or you can <a href="https://github.com/teonistor/bunfight/raw/master/Bunfight.zip">download the zip file</a> with dependencies included; extract it and run the JAR.</p>
+  <p>The app is intended to run in full-screen only. You can Alt+Tab out of it and come back, but when you press Esc it will close. This is in fact how you should close it, unless you particularly enjoy the fingers gymnastics of Alt+F4.</p>
+  <p>Submissions of the registration form will be recorded in a file <em>members.csv</em> next to the executable JAR. This file will be created if missing and appended to if already in existence.</p>
+  <p>Curious for more? Check out the <a href="https://github.com/teonistor/bunfight">app repository</a>!</p>
+</div>

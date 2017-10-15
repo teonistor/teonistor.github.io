@@ -6,11 +6,10 @@ tnmod.config (['$routeProvider', '$locationProvider',
       .when('/', {templateUrl: '/en/home.htm', controller: 'home'})
       .when('/home', {templateUrl: '/en/home.htm', controller: 'home'})
       .when('/compsci', {templateUrl: '/en/compsci.htm', controller: 'compsci'})
-      .when('/suhc', {templateUrl: '/en/suhc.htm', controller: 'hidden'})
-      .when('/nightwish', {templateUrl: '/en/nightwish.htm', controller: 'hidden'}) // Remove?
       .when('/stories/:story', {templateUrl: '/en/stories.htm', controller: 'stories'})
       .when('/music/:m', {templateUrl: '/en/music.htm', controller: 'music'})
       .when('/treasure/:codeHash', {templateUrl: '/en/treasure.htm', controller: 'treasure'})
+      .when('/suhc/:w', {templateUrl: '/en/suhc.htm', controller: 'suhc'})
       .otherwise({templateUrl: '/en/4O4.htm'});
     $locationProvider.hashPrefix('');
 
@@ -116,5 +115,29 @@ tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParam
         $scope.fail = !! $routeParams.codeHash;
       }
     );
+  }
+]);
+
+tnmod.directive ('suhcLogItem', function() {
+    return {
+      restrict: 'E',
+      scope: '@',
+      templateUrl: '/en/suhc/logItem.htm'
+    };
+});
+
+/* Discount Story controller */
+tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
+  function ($scope, $location, $rootScope, $routeParams, $http) {
+    $rootScope.activeNav = 0;
+
+    $scope.which = $routeParams.w;
+    if (!$scope.which)
+      $location.path('/suhc/log');
+    
+    $http.get('/en/suhc/log.json').then(function(r) {
+        $scope.data = r.data;
+        testdata = r.data;
+    });
   }
 ]);

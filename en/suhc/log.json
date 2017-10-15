@@ -1,0 +1,43 @@
+[
+  {
+    "date": "2017-10-07",
+    "start": "Brockenhurst",
+    "finish": "Brockenhurst",
+    "headCount": 71,
+    "committeeCount": 7,
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "9:45",
+        "event": "Walk starts"
+      }
+    ]
+  },
+  {
+    "name": "Isle of Wight Day Walk",
+    "date": "2017-10-14",
+    "start": "Yarmouth",
+    "finish": "Yarmouth",
+    "headCount": 92,
+    "committeeCount": 7,
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "9:00",
+        "event": "Gathering & platform change"
+      },
+      {
+        "time": "10:00",
+        "event": "Le Ferry FAIL"
+      },
+      {
+        "time": "11:30",
+        "event": "Effective start of walk"
+      },
+      {
+        "time": "21:47",
+        "event": "I (slow of long)[citation needed] finally returned to Southampton Central"
+      }
+    ]
+  }
+]
