@@ -3,8 +3,11 @@
     <h3 ng-if="!walk.name && walk.start === walk.finish">Day Walk around {{ walk.start }}</h3>
     <h3 ng-if="!walk.name && walk.start !== walk.finish">Day Walk from {{ walk.start }} to {{ walk.finish }}</h3>
 
-    <p><i> {{ walk.date }}</i></p>
-    <p ng-if="walk.name && walk.start && walk.finish">From {{ walk.start }} to {{ walk.finish }}</p>
+    <p><i>{{ walk.date }}
+    <span ng-if="walk.name && walk.start && walk.finish && walk.start !== walk.finish"><br>From {{ walk.start }} to {{ walk.finish }}</span>
+    <span ng-if="walk.name && walk.start && walk.finish && walk.start === walk.finish"><br>Around {{ walk.start }}</span>
+    <br>{{ walk.headCount }} attended
+    </i></p>
 
     <p>Highlights:</p>
     <table>
