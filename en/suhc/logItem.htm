@@ -7,6 +7,7 @@
     <span ng-if="walk.name && walk.start && walk.finish && walk.start !== walk.finish"><br>From {{ walk.start }} to {{ walk.finish }}</span>
     <span ng-if="walk.name && walk.start && walk.finish && walk.start === walk.finish"><br>Around {{ walk.start }}</span>
     <br>{{ walk.headCount }} attended
+    <span ng-if="walk.km"><br>Effective walk length: {{ walk.km }} km</span>
     </i></p>
 
     <p>Highlights:</p>

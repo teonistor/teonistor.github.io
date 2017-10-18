@@ -1,42 +1,80 @@
 [
   {
-    "date": "2017-10-07",
-    "start": "Brockenhurst",
-    "finish": "Brockenhurst",
-    "headCount": 71,
-    "committeeCount": 7,
-    "ringLeader": "Tom",
-    "checkpoints": [
-      {
-        "time": "9:45",
-        "event": "Walk starts"
-      }
-    ]
-  },
-  {
     "name": "Isle of Wight Day Walk",
     "date": "2017-10-14",
     "start": "Yarmouth",
     "finish": "Yarmouth",
     "headCount": 92,
     "committeeCount": 7,
+    "km": 21,
     "ringLeader": "Tom",
     "checkpoints": [
       {
         "time": "9:00",
-        "event": "Gathering & platform change"
+        "event": "Gathering & platform change. Trains are in shambles because of engineering works"
       },
       {
         "time": "10:00",
-        "event": "Le Ferry FAIL"
+        "event": "Le Ferry FAIL. Not enough room for 90-odd people"
       },
       {
         "time": "11:30",
-        "event": "Effective start of walk"
+        "event": "Effective start of walk from Yarmouth"
+      },
+      {
+        "time": "15:00",
+        "event": "Hit viewpoint for Needles. 2 people detach from group and backtrack for reasons related to British transport system ridiculousness"
+      },
+      {
+        "time": "15:45",
+        "event": "Top-of-the-impossibly-abrupt-hill crisis strikes and the group divides into the 'slow group' (52 people) who will go to Tennyson monument and the 'fast group' (38 people) who won't"
+      },
+      {
+        "time": "??",
+        "event": "Aforementioned groups further split into groups"
+      },
+      {
+        "time": "17:00",
+        "event": "The slow group of the fast group meet the fast group of the slow group and form the medium group"
+      },
+      {
+        "time": "17:20",
+        "event": "Spaghettification reaches record levels as people try their individual best to reach the 18:05 ferry"
+      },
+      {
+        "time": "17:55",
+        "event": "The fast group of the fast group and the fast group of the medium group are on the ferry"
+      },
+      {
+        "time": "18:10",
+        "event": "The slow group of the medium group wait for the slow group of the slow group (because we're civilised people!), then enter Yarmouth only to divide again between the fish&chips shop and the pub. Walk effectively ends"
+      },
+      {
+        "time": "18:40",
+        "event": "A couple dozen people sit on the pavement outside the overfull fish&chips shop"
+      },
+      {
+        "time": "20:10",
+        "event": "The group of slow groups take the ferry"
       },
       {
         "time": "21:47",
-        "event": "I (slow of long)[citation needed] finally returned to Southampton Central"
+        "event": "The group of slow groups finally return to Southampton Central"
+      }
+    ]
+  },
+  {
+    "date": "2017-10-07",
+    "start": "Brockenhurst",
+    "finish": "Brockenhurst",
+    "headCount": 71,
+    "committeeCount": 7,
+    "km": 20,
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "9:45",
+        "event": "Walk starts"
       }
     ]
   }
