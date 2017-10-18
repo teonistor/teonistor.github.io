@@ -1,0 +1,20 @@
+<div class="jumbotron">
+    <h3 ng-if="walk.name">{{ walk.name }}</h3>
+    <h3 ng-if="!walk.name && walk.start === walk.finish">Day Walk around {{ walk.start }}</h3>
+    <h3 ng-if="!walk.name && walk.start !== walk.finish">Day Walk from {{ walk.start }} to {{ walk.finish }}</h3>
+
+    <p><i>{{ walk.date }}
+    <span ng-if="walk.name && walk.start && walk.finish && walk.start !== walk.finish"><br>From {{ walk.start }} to {{ walk.finish }}</span>
+    <span ng-if="walk.name && walk.start && walk.finish && walk.start === walk.finish"><br>Around {{ walk.start }}</span>
+    <br>{{ walk.headCount }} attended
+    <span ng-if="walk.km"><br>Effective walk length: {{ walk.km }} km</span>
+    </i></p>
+
+    <p>Highlights:</p>
+    <table>
+    <tr ng-repeat="h in walk.checkpoints">
+        <td class="suhclogtime">{{ h.time }}</td>
+        <td>{{ h.event }}</td>
+    </tr>
+    </table>
+</div>
