@@ -135,9 +135,19 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     if (!$scope.which)
       $location.path('/suhc/log');
     
+    $scope.status = 'a';
+    
+    $scope.rq = function() {
+      $scope.cq = $scope.quotes[Math.floor(Math.random() * $scope.quotes.length)];
+      $scope.status = 'another';
+    };
+    
     $http.get('/en/suhc/log.json').then(function(r) {
-        $scope.data = r.data;
-        testdata = r.data;
+        $scope.walks = r.data;
+    });
+    
+    $http.get('/en/suhc/quotes.json').then(function(r) {
+        $scope.quotes = r.data;
     });
   }
 ]);

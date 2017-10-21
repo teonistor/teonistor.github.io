@@ -1,5 +1,9 @@
 <h2>Out-of-Context Hillwalkers' Quotes</h2>
 
-<P>Coming soon...</P>
-<P>Sample:</P>
-<P><i>I've never seen so much donut-related panic!</i></P>
+<P>
+  It is an axiom of ours that the funniest things are said accidentally. We collected some of the funniest words ever said by our club members and they are here for your enjoyment, at the push of a button.
+</P>
+<button ng-click="rq()">Show me {{ status }} random quote</button>
+<P>
+  <span ng-repeat="line in cq">{{ line }}<br></span>
+</P>
