@@ -1,5 +1,68 @@
 [
   {
+    "date": "2017-10-21",
+    "start": "Shawford",
+    "finish": "Shawford",
+    "headCount": 22,
+    "committeeCount": 3,
+    "km": 14,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "9:05",
+        "event": "Beautiful rainbow above Southampton"
+      },
+      {
+        "time": "10:22",
+        "event": "Walk begins with 21 people"
+      },
+      {
+        "time": "10:29",
+        "event": "Former club president joins"
+      },
+      {
+        "time": "??",
+        "event": "We run into road which doesn't exist on the map, causing great confusion"
+      },
+      {
+        "time": "11:31",
+        "event": "Water & biscuit break"
+      },
+      {
+        "time": "12:15",
+        "event": "I trip over the one single stone in a whole mile-wide field"
+      },
+      {
+        "time": "12:45",
+        "event": "Serious rain strikes"
+      },
+      {
+        "time": "12:49",
+        "event": "We find a decently sheltered area to stop for lunch"
+      },
+      {
+        "time": "12:51",
+        "event": "Serious rain ends"
+      },
+      {
+        "time": "13:11",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "14:00",
+        "event": "Selected path on map is marked as private property in reality, forcing us to walk on a boring road"
+      },
+      {
+        "time": "15:04",
+        "event": "Walk ends"
+      },
+      {
+        "time": "16:02",
+        "event": "15:54 train picks us up from Shawford"
+      }
+    ]
+  },
+  {
     "name": "Isle of Wight Day Walk",
     "date": "2017-10-14",
     "start": "Yarmouth",
@@ -20,6 +83,10 @@
       {
         "time": "11:30",
         "event": "Effective start of walk from Yarmouth"
+      },
+      {
+        "time": "12:43",
+        "event": "First session of 'wait for the people lagging at the back'"
       },
       {
         "time": "15:00",
@@ -64,6 +131,7 @@
     ]
   },
   {
+    "name": "New Forest: first walk of this academic year",
     "date": "2017-10-07",
     "start": "Brockenhurst",
     "finish": "Brockenhurst",
@@ -75,6 +143,99 @@
       {
         "time": "9:45",
         "event": "Walk starts"
+      },
+      {
+        "time": "16:04",
+        "event": "Walk ends"
+      }
+    ]
+  },
+  {
+    "name": "Unofficial official Sandbanks / coastal walk",
+    "date": "2017-07-01",
+    "start": "Bournemouth",
+    "finish": "Poole",
+    "headCount": 4,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "11:00",
+        "event": "Walk starts"
+      },
+      {
+        "time": "16:37",
+        "event": "Walk ends"
+      }
+    ]
+  },
+  {
+    "date": "2017-05-13",
+    "headCount": 11,
+    "start": "Dean",
+    "finish": "Dean",
+    "checkpoints": [
+      {
+        "time": "*",
+        "event": "No one remembers anything about this walk"
+      }
+    ]
+  },
+  {
+    "name": "Cancer walk / thing",
+    "date": "2017-04-29",
+    "start": "Brockenhurst",
+    "finish": "Brockenhurst",
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "10:00",
+        "event": "Walk starts"
+      },
+      {
+        "time": "11:15",
+        "event": "Water & biscuit break"
+      },
+      {
+        "time": "11:57",
+        "event": "Lunch stop"
+      }
+    ]
+  },
+  {
+    "date": "2017-03-18",
+    "start": "Sway",
+    "finish": "Hinton Admiral",
+    "headCount": 13,
+    "km": 21,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "10:20",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:42",
+        "event": "Entered New Forest"
+      },
+      {
+        "time": "11:50",
+        "event": "Facility detour"
+      },
+      {
+        "time": "12:40",
+        "event": "Lunch o'clock"
+      },
+      {
+        "time": "13:05",
+        "event": "Lunch break over"
+      },
+      {
+        "time": "13:15",
+        "event": "The intersection of the old railway and the yellow road on the map"
+      },
+      {
+        "time": "16:00",
+        "event": "Reached Toby Carvery. Walk ends"
       }
     ]
   }

@@ -35,24 +35,28 @@ tnmod.run(['$rootScope', function ($rootScope) {
 tnmod.controller ('hidden', ['$rootScope', '$routeParams',
   function ($rootScope, $routeParams) {
     $rootScope.activeNav = 0;
+    document.title = "Stories at an Angle | teonistor.github.io";
   }
 ]);
 
 tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
     $rootScope.activeNav = 1;
+    document.title = "Stories at an Angle | teonistor.github.io";
   }
 ]);
 
 tnmod.controller ('compsci', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
     $rootScope.activeNav = 2;
+    document.title = "Comp Sci | Stories at an Angle | teonistor.github.io";
   }
 ]);
 
 tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
     $rootScope.activeNav = 3;
+    document.title = "Stories | Stories at an Angle | teonistor.github.io";
 
     /* Enumerate stories giving location and title. This will be used in the table of contents.
      * Location is interpreted as the name of a file inside /stories, sans the .htm extension
@@ -77,6 +81,7 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
 tnmod.controller ('music', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
     $rootScope.activeNav = 4;
+    document.title = "Music | Stories at an Angle | teonistor.github.io";
 
     $scope.which = $routeParams.m;
     if (!$scope.which)
@@ -94,6 +99,7 @@ tnmod.controller ('music', ['$scope', '$location', '$rootScope', '$routeParams',
 tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
     $rootScope.activeNav = 5;
+    document.title = "Treasure Hunt | Stories at an Angle | teonistor.github.io";
 
     $scope.huntCode = '';
     $scope.includeSrc = '/common/treasures/' + $routeParams.codeHash + '.htm';
@@ -130,6 +136,7 @@ tnmod.directive ('suhcLogItem', function() {
 tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
     $rootScope.activeNav = 0;
+    document.title = "SUHC | Stories at an Angle | teonistor.github.io";
 
     $scope.which = $routeParams.w;
     if (!$scope.which)
