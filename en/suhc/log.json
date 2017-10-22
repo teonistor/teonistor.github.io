@@ -85,6 +85,10 @@
         "event": "Effective start of walk from Yarmouth"
       },
       {
+        "time": "12:43",
+        "event": "First session of 'wait for the people lagging at the back'"
+      },
+      {
         "time": "15:00",
         "event": "Hit viewpoint for Needles. 2 people detach from group and backtrack for reasons related to British transport system ridiculousness"
       },
@@ -127,6 +131,7 @@
     ]
   },
   {
+    "name": "New Forest: first walk of this academic year",
     "date": "2017-10-07",
     "start": "Brockenhurst",
     "finish": "Brockenhurst",
@@ -138,6 +143,99 @@
       {
         "time": "9:45",
         "event": "Walk starts"
+      },
+      {
+        "time": "16:04",
+        "event": "Walk ends"
+      }
+    ]
+  },
+  {
+    "name": "Unofficial official Sandbanks / coastal walk",
+    "date": "2017-07-01",
+    "start": "Bournemouth",
+    "finish": "Poole",
+    "headCount": 4,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "11:00",
+        "event": "Walk starts"
+      },
+      {
+        "time": "16:37",
+        "event": "Walk ends"
+      }
+    ]
+  },
+  {
+    "date": "2017-05-13",
+    "headCount": 11,
+    "start": "Dean",
+    "finish": "Dean",
+    "checkpoints": [
+      {
+        "time": "*",
+        "event": "No one remembers anything about this walk"
+      }
+    ]
+  },
+  {
+    "name": "Cancer walk / thing",
+    "date": "2017-04-29",
+    "start": "Brockenhurst",
+    "finish": "Brockenhurst",
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "10:00",
+        "event": "Walk starts"
+      },
+      {
+        "time": "11:15",
+        "event": "Water & biscuit break"
+      },
+      {
+        "time": "11:57",
+        "event": "Lunch stop"
+      }
+    ]
+  },
+  {
+    "date": "2017-03-18",
+    "start": "Sway",
+    "finish": "Hinton Admiral",
+    "headCount": 13,
+    "km": 21,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "10:20",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:42",
+        "event": "Entered New Forest"
+      },
+      {
+        "time": "11:50",
+        "event": "Facility detour"
+      },
+      {
+        "time": "12:40",
+        "event": "Lunch o'clock"
+      },
+      {
+        "time": "13:05",
+        "event": "Lunch break over"
+      },
+      {
+        "time": "13:15",
+        "event": "The intersection of the old railway and the yellow road on the map"
+      },
+      {
+        "time": "16:00",
+        "event": "Reached Toby Carvery. Walk ends"
       }
     ]
   }
