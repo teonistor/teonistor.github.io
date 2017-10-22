@@ -4,10 +4,10 @@
     <h3 ng-if="!walk.name && walk.start !== walk.finish">Day Walk from {{ walk.start }} to {{ walk.finish }}</h3>
 
     <p><i>{{ walk.date }}
-    <span ng-if="walk.name && walk.start && walk.finish && walk.start !== walk.finish"><br>From {{ walk.start }} to {{ walk.finish }}</span>
-    <span ng-if="walk.name && walk.start && walk.finish && walk.start === walk.finish"><br>Around {{ walk.start }}</span>
-    <br>{{ walk.headCount }} attended
-    <span ng-if="walk.km"><br>Effective walk length: {{ walk.km }} km</span>
+    <span ng-if="walk.name && walk.start && walk.finish && walk.start !== walk.finish"><br>From {{ walk.start }} to {{ walk.finish }} </span>
+    <span ng-if="walk.name && walk.start && walk.finish && walk.start === walk.finish"><br>Around {{ walk.start }} </span>
+    <span ng-if="walk.headCount"><br>{{ walk.headCount }} attended </span>
+    <span ng-if="walk.km"><br>Effective walk length: {{ walk.km }} km </span>
     </i></p>
 
     <p>Highlights:</p>
