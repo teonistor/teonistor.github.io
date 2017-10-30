@@ -1,0 +1,21 @@
+EXAMPLE with all fields defined so far anywhere above
+  {
+    "name": "Fancy walk with a name",
+    "date": "2017-04-29",
+    "start": "Somewhere",
+    "finish": "Elsewhere",
+    "ringLeader": "A faithful committee member",
+    "headCount": 13,
+    "committeeCount": 7,
+    "km": 21,
+    "checkpoints": [
+      {
+        "time": "10:00",
+        "event": "Walk starts"
+      },
+      {
+        "time": "17:15",
+        "event": "Walk ends"
+      }
+    ]
+  }

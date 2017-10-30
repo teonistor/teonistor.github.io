@@ -1,5 +1,226 @@
 [
   {
+    "name": "Snowdonia National Park Away Trip",
+    "date": "2017-10-27 - 29",
+    "headCount": 26,
+    "committeeCount": 6,
+    "ringLeader": "Byron",
+    "checkpoints": [
+      {
+        "time": "17.02",
+        "event": "I arrive at meeting point"
+      },
+      {
+        "time": "17.50",
+        "event": "Minibus 2 leaves ('2' is the number painted on the minibus and has no mathematical or logical significance; the other minibus is numbered '3')"
+      },
+      {
+        "time": "18.56",
+        "event": "Minibus 2: Google commercial (Google maps predicts with an accuracy of seconds the beginning of a long traffic jam behind an accident)"
+      },
+      {
+        "time": "20.02",
+        "event": "Minibus 2: Police. Move over. 4 cars in a crash."
+      },
+      {
+        "time": "20.22–20.52",
+        "event": "Minibus 2: Dinner stop. I mean McDonald's poisoning session. Also driver swap."
+      },
+      {
+        "time": "20.55",
+        "event": "Minibus 2: Burger metaphor"
+      },
+      {
+        "time": "21.06",
+        "event": "Minibus 2: British metaphor"
+      },
+      {
+        "time": "22.52",
+        "event": "Minibus 2: Re driver swap"
+      },
+      {
+        "time": "0.38",
+        "event": "Minibus 3 overtakes Minibus 2"
+      },
+      {
+        "time": "0.42",
+        "event": "Minibus 2: Song quest"
+      },
+      {
+        "time": "1.03",
+        "event": "For uninvestigated reasons of high stupidity, Minibus 3 stops and turns in the road claiming we're going the wrong way. We follow them into what will become an excerpt from hell."
+      },
+      {
+        "time": "1.06",
+        "event": "Excerpt from hell begins"
+      },
+      {
+        "time": "1.17",
+        "event": "'Keep driving! Drive already!!!' (Weirdest encounter ever: A woman walking her dog in the dead of night versus two Uni of Southampton minibuses on a narrow-ass country road; and I don't know which is weirder)"
+      },
+      {
+        "time": "1.46",
+        "event": "Minibus 2 hits accommodation"
+      },
+      {
+        "time": "2.00",
+        "event": "Serena: There is some toilet paper, but I think it's in the other minibus. Me: There is some in the toilets, but it's soggy. And there's a caterpillar in the sink, but other than that all good."
+      },
+      {
+        "time": "2.55",
+        "event": "People from Minibus 3 have been rescued and brought to accommodation"
+      },
+      {
+        "time": "5.00",
+        "event": "Minibus 3 servicing"
+      },
+      {
+        "time": "6.00",
+        "event": "Minibus 3 physically arrives"
+      },
+      {
+        "time": "8.00",
+        "event": "Presumably ​somebody wakes up"
+      },
+      {
+        "time": "9.00",
+        "event": "I wake up"
+      },
+      {
+        "time": "10.15",
+        "event": "Stash distribution"
+      },
+      {
+        "time": "10.30",
+        "event": "Main group (21 people) set off for main walk"
+      },
+      {
+        "time": "11.11",
+        "event": "Main group: Muddy roads orientation séance"
+      },
+      {
+        "time": "11.39",
+        "event": "Sam: My whole leg just vanished! (mud hole terrors)"
+      },
+      {
+        "time": "12.30-13.00",
+        "event": "Main group: Windy lunch"
+      },
+      {
+        "time": "14.37",
+        "event": "Main group: Group photo and comfortable mother nature"
+      },
+      {
+        "time": "14.52",
+        "event": "Main group: Navigational error due to fence and forest on map being absent in reality"
+      },
+      {
+        "time": "15.33",
+        "event": "End of bogs"
+      },
+      {
+        "time": "15.59",
+        "event": "Nope!"
+      },
+      {
+        "time": "17.30",
+        "event": "Fast half hit accommodation"
+      },
+      {
+        "time": "17.42",
+        "event": "Slow half hit accommodation"
+      },
+      {
+        "time": "19.00",
+        "event": "Leave for town for dinner etc"
+      },
+      {
+        "time": "19.22",
+        "event": "Navigational error due to inconsistent satnavs / road vehicle height restrictions"
+      },
+      {
+        "time": "19.44",
+        "event": "Reach town"
+      },
+      {
+        "time": "22.45",
+        "event": "Camp Fire"
+      },
+      {
+        "time": "0.00",
+        "event": "I sleep"
+      },
+      {
+        "time": "2.00/1.00",
+        "event": "Daylight Saving Time ends"
+      },
+      {
+        "time": "7.25",
+        "event": "Room 7 wake up call"
+      },
+      {
+        "time": "9.07",
+        "event": "Minibus 2 leaves"
+      },
+      {
+        "time": "9.28-10.04",
+        "event": "Parking madness"
+      },
+      {
+        "time": "10.05-10.39",
+        "event": "Plan split madness"
+      },
+      {
+        "time": "10.39",
+        "event": "Strong group (20 people) head up Pyg track towards Snowdon summit"
+      },
+      {
+        "time": "12.40-13.03",
+        "event": "Strong group: Lunch"
+      },
+      {
+        "time": "13.52",
+        "event": "Strong group hit railway"
+      },
+      {
+        "time": "14.19",
+        "event": "Strong group: Summit photo session"
+      },
+      {
+        "time": "14.44",
+        "event": "Strong group: Coffee shop"
+      },
+      {
+        "time": "15.00",
+        "event": "Strong group: Begin downwards spiral"
+      },
+      {
+        "time": "15.25",
+        "event": "Strong group: At wire-fenced rocks corner, fast minibus-retrieval group split"
+      },
+      {
+        "time": "16.06",
+        "event": "Strong group: Throwing pebbles into lake"
+      },
+      {
+        "time": "17.45",
+        "event": "We all leave the long-damned car park"
+      },
+      {
+        "time": "20.00",
+        "event": "Dinner stop and minibus 2 driver swap"
+      },
+      {
+        "time": "22.50",
+        "event": "Minibus 2: Re driver swap"
+      },
+      {
+        "time": "0.21",
+        "event": "I reach home"
+      }
+    ]
+  },
+  {
     "date": "2017-10-21",
     "start": "Shawford",
     "finish": "Shawford",
@@ -155,7 +376,7 @@
     "date": "2017-07-01",
     "start": "Bournemouth",
     "finish": "Poole",
-    "headCount": 4,
+    "headCount": 3,
     "ringLeader": "Teo",
     "checkpoints": [
       {
