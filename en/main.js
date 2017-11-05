@@ -132,7 +132,7 @@ tnmod.directive ('suhcLogItem', function() {
     };
 });
 
-/* Discount Story controller */
+/* Discount Story controller + quotes randomiser*/
 tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
     $rootScope.activeNav = 0;
@@ -144,8 +144,16 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     
     $scope.status = 'a';
     
+    var qi = 0;
+    function swap (arr, i, j) {
+      var temp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = temp;
+    }
+    
     $scope.rq = function() {
-      $scope.cq = $scope.quotes[Math.floor(Math.random() * $scope.quotes.length)];
+      $scope.cq = $scope.quotes[qi];
+      qi = (qi + 1) % $scope.quotes.length;
       $scope.status = 'another';
     };
     
@@ -154,7 +162,12 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     });
     
     $http.get('/en/suhc/quotes.json').then(function(r) {
-        $scope.quotes = r.data;
+      for (var i=0; i < r.data.length / 2; i++)
+        swap (r.data,
+              Math.floor(Math.random() * r.data.length),
+              Math.floor(Math.random() * r.data.length));
+      
+      $scope.quotes = r.data;
     });
   }
 ]);
