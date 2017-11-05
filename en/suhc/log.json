@@ -1,5 +1,122 @@
 [
   {
+    "name": "Winchester Fireworks and Treasure Hunt combo",
+    "date": "2017-11-4",
+    "start": "Winchester",
+    "finish": "Winchester",
+    "ringLeader": "Rosie",
+    "checkpoints": [
+      {
+        "time": "10:40",
+        "event": "Congregation of treasure hunt participants outside Winchester station and quest sheets distribution"
+      },
+      {
+        "time": "10:55",
+        "event": "Team JTTM (My team. Our actual team name was so irrelevant I can't remember it.) leaves the station"
+      },
+      {
+        "time": "11:02",
+        "event": "JTTM: 2. Social media challenge launched"
+      },
+      {
+        "time": "11:12",
+        "event": "JTTM: 1. Train station"
+      },
+      {
+        "time": "11:26",
+        "event": "JTTM: 23. WSA"
+      },
+      {
+        "time": "11:31",
+        "event": "JTTM: 8. Dog"
+      },
+      {
+        "time": "11:38",
+        "event": "JTTM: 4. Winchester Market"
+      },
+      {
+        "time": "11:48",
+        "event": "JTTM: 29. Old Mill"
+      },
+      {
+        "time": "12:03",
+        "event": "JTTM: 25. River Itchen. 19. Swans"
+      },
+      {
+        "time": "12:06",
+        "event": "JTTM: 27. Sport of love"
+      },
+      {
+        "time": "12:22",
+        "event": "JTTM: 28. St Catherine's Hill Titanic enactment"
+      },
+      {
+        "time": "13:11",
+        "event": "JTTM: 31. Landscape"
+      },
+      {
+        "time": "13:25",
+        "event": "JTTM: 19. Ducks"
+      },
+      {
+        "time": "14:17",
+        "event": "JTTM: 20. Viaduct battle enactment"
+      },
+      {
+        "time": "14:28",
+        "event": "JTTM: 11. Birdie"
+      },
+      {
+        "time": "15:16",
+        "event": "JTTM: 16. King Alfred statue"
+      },
+      {
+        "time": "15:35",
+        "event": "JTTM: 10. Winchester Cathedral Lion King enactment"
+      },
+      {
+        "time": "15:44",
+        "event": "JTTM: 5. Sunglasses"
+      },
+      {
+        "time": "15:54",
+        "event": "JTTM: 26. Where Rosie would work"
+      },
+      {
+        "time": "15:58",
+        "event": "JTTM: 15. Round table"
+      },
+      {
+        "time": "16:16",
+        "event": "JTTM: Collapse at pub"
+      },
+      {
+        "time": "17:29",
+        "event": "JTTM: 13. Pay Rosie a visit"
+      },
+      {
+        "time": "18:57",
+        "event": "We join the procession"
+      },
+      {
+        "time": "19:30",
+        "event": "Bonfire is lit"
+      },
+      {
+        "time": "20:00",
+        "event": "Fireworks set off"
+      },
+      {
+        "time": "20:24",
+        "event": "Fireworks die (bonfire still lives)"
+      },
+      {
+        "time": "21:39",
+        "event": "(Very packed) train home"
+      }
+    ]
+  },
+  {
     "name": "Snowdonia National Park Away Trip",
     "date": "2017-10-27 - 29",
     "headCount": 26,
