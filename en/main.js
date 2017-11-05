@@ -153,7 +153,7 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     });
     
     $http.get('/en/suhc/quotes.json').then(function(r) {
-      for (var i=0; i < r.data.length / 2; i++)
+      for (var i=0; i < r.data.length; i++)
         swap (r.data,
               Math.floor(Math.random() * r.data.length),
               Math.floor(Math.random() * r.data.length));
