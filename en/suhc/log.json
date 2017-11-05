@@ -338,6 +338,20 @@
     ]
   },
   {
+    "date": "2017-10-28",
+    "start": "Bournemouth",
+    "finish": "Christchurch",
+    "headCount": 17,
+    "committeeCount": 1,
+    "ringLeader": "James",
+    "checkpoints": [
+      {
+        "time": "*",
+        "event": "Unrecorded"
+      }
+    ]
+  },
+  {
     "date": "2017-10-21",
     "start": "Shawford",
     "finish": "Shawford",

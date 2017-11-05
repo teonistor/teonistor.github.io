@@ -30,15 +30,6 @@ tnmod.run(['$rootScope', function ($rootScope) {
   $rootScope.activeNav = 0;
 }]);
 
-
-// Controller for the hidden pages with nothing special going on
-tnmod.controller ('hidden', ['$rootScope', '$routeParams',
-  function ($rootScope, $routeParams) {
-    $rootScope.activeNav = 0;
-    document.title = "Stories at an Angle | teonistor.github.io";
-  }
-]);
-
 tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
     $rootScope.activeNav = 1;
@@ -48,7 +39,7 @@ tnmod.controller ('home', ['$scope', '$location', '$rootScope',
 
 tnmod.controller ('compsci', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    $rootScope.activeNav = 2;
+    $rootScope.activeNav = 0;
     document.title = "Comp Sci | Stories at an Angle | teonistor.github.io";
   }
 ]);
@@ -80,7 +71,7 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
 /* Discount Story controller */
 tnmod.controller ('music', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
-    $rootScope.activeNav = 4;
+    $rootScope.activeNav = 0;
     document.title = "Music | Stories at an Angle | teonistor.github.io";
 
     $scope.which = $routeParams.m;
@@ -132,10 +123,10 @@ tnmod.directive ('suhcLogItem', function() {
     };
 });
 
-/* Discount Story controller */
+/* Discount Story controller + quotes randomiser*/
 tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
-    $rootScope.activeNav = 0;
+    $rootScope.activeNav = 2;
     document.title = "SUHC | Stories at an Angle | teonistor.github.io";
 
     $scope.which = $routeParams.w;
@@ -144,8 +135,16 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     
     $scope.status = 'a';
     
+    var qi = 0;
+    function swap (arr, i, j) {
+      var temp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = temp;
+    }
+    
     $scope.rq = function() {
-      $scope.cq = $scope.quotes[Math.floor(Math.random() * $scope.quotes.length)];
+      $scope.cq = $scope.quotes[qi];
+      qi = (qi + 1) % $scope.quotes.length;
       $scope.status = 'another';
     };
     
@@ -154,7 +153,12 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     });
     
     $http.get('/en/suhc/quotes.json').then(function(r) {
-        $scope.quotes = r.data;
+      for (var i=0; i < r.data.length; i++)
+        swap (r.data,
+              Math.floor(Math.random() * r.data.length),
+              Math.floor(Math.random() * r.data.length));
+      
+      $scope.quotes = r.data;
     });
   }
 ]);
