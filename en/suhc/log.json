@@ -1,5 +1,43 @@
 [
   {
+    "date": "2017-11-18",
+    "start": "Dean",
+    "finish": "Dean",
+    "ringLeader": "Teo",
+    "headCount": 19,
+    "committeeCount": 7,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "10:05",
+        "event": "Walk begins."
+      },
+      {
+        "time": "12:30 - 12:57",
+        "event": "Lunch break"
+      },
+      {
+        "time": "13:28",
+        "event": "Phone drop calamity. 2 people branch off and backtrack in search of the lost phone."
+      },
+      {
+        "time": "14:26",
+        "event": "Garden stairs madness"
+      },
+      {
+        "time": "14:50 - 15:22",
+        "event": "Marwell Zoo Car Park reloaded, with more thorns"
+      },
+      {
+        "time": "16:41",
+        "event": "Hit station. Walk ends."
+      },
+      {
+        "time": "16:51",
+        "event": "The 2 people rejoin"
+      }
+    ]
+  },{
     "date": "2017-11-11",
     "start": "Salisbury",
     "finish": "Salisbury",
