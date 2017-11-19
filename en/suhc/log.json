@@ -1,5 +1,75 @@
 [
   {
+    "date": "2017-11-18",
+    "start": "Dean",
+    "finish": "Dean",
+    "ringLeader": "Teo",
+    "headCount": 19,
+    "committeeCount": 7,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "10:05",
+        "event": "Walk begins."
+      },
+      {
+        "time": "12:30 - 12:57",
+        "event": "Lunch break"
+      },
+      {
+        "time": "13:28",
+        "event": "Phone drop calamity. 2 people branch off and backtrack in search of the lost phone."
+      },
+      {
+        "time": "14:26",
+        "event": "Garden stairs madness"
+      },
+      {
+        "time": "14:50 - 15:22",
+        "event": "Marwell Zoo Car Park reloaded, with more thorns"
+      },
+      {
+        "time": "16:41",
+        "event": "Hit station. Walk ends."
+      },
+      {
+        "time": "16:51",
+        "event": "The 2 people rejoin"
+      }
+    ]
+  },{
+    "date": "2017-11-11",
+    "start": "Salisbury",
+    "finish": "Salisbury",
+    "ringLeader": "James",
+    "headCount": 31,
+    "committeeCount": 5,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "10.00",
+        "event": "Train ticket madness"
+      },{
+        "time": "10.19",
+        "event": "Walk starts from Salisbury station with 29 people"
+      },{
+        "time": "10.40",
+        "event": "Confusion around cathedral diversion and minor navigation error"
+      },{
+        "time": "10.52",
+        "event": "'Nice room!'"
+      },{
+        "time": "11.38",
+        "event": "Two more people join"
+      },{
+        "time": "12.48",
+        "event": "Lunch"
+      },{
+        "time": "15.56",
+        "event": "Walk ends. 8 people detach and go to the pub, the rest head up to the train station"
+      }
+    ]
+  },{
     "name": "Winchester Fireworks and Treasure Hunt combo",
     "date": "2017-11-4",
     "start": "Winchester",
