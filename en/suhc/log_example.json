@@ -17,5 +17,11 @@ EXAMPLE with all fields defined so far anywhere above
         "time": "17:15",
         "event": "Walk ends"
       }
+    ],
+    "accounts": [
+      {
+        "who": "Tom",
+        "what": "My story goes here..."
+      }
     ]
   }

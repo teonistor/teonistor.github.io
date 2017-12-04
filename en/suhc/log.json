@@ -1,5 +1,40 @@
 [
   {
+    "name": "Santa Walk joint with MindSoc",
+    "date": "2017-12-02",
+    "start": "Southampton Uni (SUSU Building)",
+    "finish": "Winchester Christmas Market",
+    "ringLeader": "Teo",
+    "headCount": 29,
+    "committeeCount": 6,
+    "km": 14,
+    "checkpoints": [
+      {
+        "time": "9:45",
+        "event": "Walk starts (sans Tom who stops at Costa for breakfast). We believe we have 24 people, which may or may not be true."
+      },
+      {
+        "time": "11:10",
+        "event": "James calls Tom to find out he's in the company of a few stray people"
+      },
+      {
+        "time": "11:28",
+        "event": "Tom and 8 others merge at the back of the main group, yielding a total of 29, because maths"
+      },
+      {
+        "time": "12:45",
+        "event": "Lunch break"
+      },
+      {
+        "time": "13:13",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "15:42",
+        "event": "Walk ends in distress because we don't want to take responsibility for people being lost in the crowds around the Winchester Christmas markets"
+      }
+    ]
+  },{
     "date": "2017-11-18",
     "start": "Dean",
     "finish": "Dean",
@@ -13,7 +48,7 @@
         "event": "Walk begins."
       },
       {
-        "time": "12:30 - 12:57",
+        "time": "12:30-12:57",
         "event": "Lunch break"
       },
       {
@@ -25,7 +60,7 @@
         "event": "Garden stairs madness"
       },
       {
-        "time": "14:50 - 15:22",
+        "time": "14:50-15:22",
         "event": "Marwell Zoo Car Park reloaded, with more thorns"
       },
       {
@@ -194,12 +229,32 @@
     "ringLeader": "Byron",
     "checkpoints": [
       {
+        "time": "16.45",
+        "event": "Met at interchange ready to depart"
+      },
+      {
+        "time": "17.00",
+        "event": "Planned leaving time"
+      },
+      {
         "time": "17.02",
-        "event": "I arrive at meeting point"
+        "event": "I (Teo) arrive at meeting point"
+      },
+      {
+        "time": "17.25",
+        "event": "Arshad shows up!"
       },
       {
         "time": "17.50",
         "event": "Minibus 2 leaves ('2' is the number painted on the minibus and has no mathematical or logical significance; the other minibus is numbered '3')"
+      },
+      {
+        "time": "18.00",
+        "event": "Actually left due to SUSU’s appalling management system with the minibuses (they originally thought we only had one minibus booked, and wanted to do an oil check on all the buses before we left)"
+      },
+      {
+        "time": "1800-2015",
+        "event": "Car takes A34 then M4 to Swindon before turning north. Minibuses stay on A34 and get caught up with traffic due to accidents near Oxford"
       },
       {
         "time": "18.56",
@@ -208,6 +263,10 @@
       {
         "time": "20.02",
         "event": "Minibus 2: Police. Move over. 4 cars in a crash."
+      },
+      {
+        "time": "20.15",
+        "event": "Car (Eilish, Serena, Nan Zhou and I (Tom)) stop for dinner in Tewkesbury services. Minibuses 2&3 have just cleared A34 traffic by Oxford."
       },
       {
         "time": "20.22–20.52",
@@ -226,12 +285,20 @@
         "event": "Minibus 2: Re driver swap"
       },
       {
+        "time": "0.30",
+        "event": "Car arrives at bunkhouses (after missing the turning). Minibuses aren’t in sight."
+      },
+      {
         "time": "0.38",
         "event": "Minibus 3 overtakes Minibus 2"
       },
       {
         "time": "0.42",
         "event": "Minibus 2: Song quest"
+      },
+      {
+        "time": "1.00",
+        "event": "Still no sign of minibuses, Joe had informed us (Tom&co) earlier they should be approx half an hour behind us. "
       },
       {
         "time": "1.03",
@@ -251,19 +318,47 @@
       },
       {
         "time": "2.00",
-        "event": "Serena: There is some toilet paper, but I think it's in the other minibus. Me: There is some in the toilets, but it's soggy. And there's a caterpillar in the sink, but other than that all good."
+        "event": "After varying phone calls or various degrees of panic, minibus 2 finally shows up. Minibus 3 is apparently stuck approx 5 miles from bunkhouses."
+      },
+      {
+        "time": "2.02",
+        "event": "Serena: There is some toilet paper, but I think it's in the other minibus. Teo: There is some in the toilets, but it's soggy. And there's a caterpillar in the sink, but other than that all good."
+      },
+      {
+        "time": "2.30",
+        "event": "Arrive at stranded minibus."
       },
       {
         "time": "2.55",
         "event": "People from Minibus 3 have been rescued and brought to accommodation"
       },
       {
-        "time": "5.00",
-        "event": "Minibus 3 servicing"
+        "time": "03.00",
+        "event": "started writing this out of boredom"
       },
       {
-        "time": "6.00",
-        "event": "Minibus 3 physically arrives"
+        "time": "03.30",
+        "event": "No sign of recovery yet and when we (Tom&co) phoned again the guy couldn’t even pronounce the name of the garage that’s coming to help."
+      },
+      {
+        "time": "04.20",
+        "event": "Discover voice message from 10 mins ago from recovery. Phoned back and described situation and best approach. "
+      },
+      {
+        "time": "04.30",
+        "event": "Recovery guy arrives! (In a very well kitted out defender I might add)"
+      },
+      {
+        "time": "05.10",
+        "event": "Finally get moving again!"
+      },
+      {
+        "time": "05.30",
+        "event": "Minibus 3 arrives!"
+      },
+      {
+        "time": "06.00",
+        "event": "Bedtime! (for Tom&co)"
       },
       {
         "time": "8.00",
@@ -271,7 +366,11 @@
       },
       {
         "time": "9.00",
-        "event": "I wake up"
+        "event": "I (Teo) wake up"
+      },
+      {
+        "time": "10.00",
+        "event": "Everyone apart from those who got back at 0530 (Daisy, Jacob, Arshad, Matt and I), are up and preparing to go out for a day’s walk, short local one is planned."
       },
       {
         "time": "10.15",
@@ -290,8 +389,20 @@
         "event": "Sam: My whole leg just vanished! (mud hole terrors)"
       },
       {
+        "time": "12.00",
+        "event": "Entire 6am bedtime group is up and preparing for their walk."
+      },
+      {
         "time": "12.30-13.00",
         "event": "Main group: Windy lunch"
+      },
+      {
+        "time": "13.00",
+        "event": "After a midday breakfast of porridge, the 5 minibus campers set off for a local walk, taking a different route to the other group."
+      },
+      {
+        "time": "14.30",
+        "event": "Stranded Minibus group stop for lunch."
       },
       {
         "time": "14.37",
@@ -310,40 +421,64 @@
         "event": "Nope!"
       },
       {
+        "time": "17.00",
+        "event": "Stranded minibus group makes it back to the bunkhouse, cold, muddy and damp but overall still a reasonably good walk. No sign of other group."
+      },
+      {
+        "time": "17.05",
+        "event": "Phone contact made with other group, their ‘short local’ walk turned out to be shorter and more ambitious than originally planned. They are approx 10 mins away. Unsure who is going to manage Snowdon the next day."
+      },
+      {
         "time": "17.30",
-        "event": "Fast half hit accommodation"
+        "event": "Main group: Fast half hit accommodation"
       },
       {
         "time": "17.42",
-        "event": "Slow half hit accommodation"
+        "event": "Main group: Slow half hit accommodation"
       },
       {
         "time": "19.00",
-        "event": "Leave for town for dinner etc"
+        "event": "Leave for Bangor for pub for dinner etc"
       },
       {
         "time": "19.22",
         "event": "Navigational error due to inconsistent satnavs / road vehicle height restrictions"
       },
       {
-        "time": "19.44",
-        "event": "Reach town"
+        "time": "19.45",
+        "event": "We arrive at the local weatherspoons, The Black Bull. Ordering quickly turns into a competition to see who can have the most calories in their meal."
+      },
+      {
+        "time": "22.00",
+        "event": "Joe has won the calorie competition having managed just over 3000. Everyone heads back to the minibuses and travels to the bunkhouses."
       },
       {
         "time": "22.45",
-        "event": "Camp Fire"
+        "event": "The firebasket is lit, Arshad gets shouted at for letting smoke into doors whilst trying to take a long-exposure. Alcohol fire-breathing fails dismally."
       },
       {
         "time": "0.00",
-        "event": "I sleep"
+        "event": "The firebasket has been put out, everyone is in bed and looking forward to the extra hours sleep from the clocks going back. Snowdon in the morning!"
+      },
+      {
+        "time": "0.00",
+        "event": "I (Teo) sleep"
       },
       {
         "time": "2.00/1.00",
         "event": "Daylight Saving Time ends"
       },
       {
+        "time": "7.00",
+        "event": "Rise and shine! "
+      },
+      {
         "time": "7.25",
         "event": "Room 7 wake up call"
+      },
+      {
+        "time": "8.30",
+        "event": "Everyone is packing up, hoping to be out by 0900"
       },
       {
         "time": "9.07",
@@ -354,12 +489,28 @@
         "event": "Parking madness"
       },
       {
+        "time": "10.00",
+        "event": "Pen-y-pass Car Park is full, after driving up and down the road the minibuses drop people at the carpark then park about half an hour’s hike away."
+      },
+      {
         "time": "10.05-10.39",
         "event": "Plan split madness"
       },
       {
+        "time": "10.25",
+        "event": "Daisy and I (Tom) reach the pen-y-pass carpark. The decision is taken to split into two groups, one to take Pyg to the summit and come back down miners, the other to go up miners and down Pyg without ascending all the way to the summit."
+      },
+      {
         "time": "10.39",
         "event": "Strong group (20 people) head up Pyg track towards Snowdon summit"
+      },
+      {
+        "time": "11.00",
+        "event": "Strong group: The complaints start to surface.... the fast walkers are too fast. The slow walkers are too slow, and no-one is keeping pace. After a brief pause the group gets going as a whole again."
+      },
+      {
+        "time": "11.12",
+        "event": "Strong group: Contact is made with Jacob and Shaun, they are about 15 mins behind us and catching up reasonably rapidly."
       },
       {
         "time": "12.40-13.03",
@@ -379,31 +530,57 @@
       },
       {
         "time": "15.00",
-        "event": "Strong group: Begin downwards spiral"
+        "event": "Strong group: After dosing up on caffeine we start the descent."
       },
       {
         "time": "15.25",
-        "event": "Strong group: At wire-fenced rocks corner, fast minibus-retrieval group split"
+        "event": "Strong group: At wire-fenced rocks corner, Daisy, Matt and I (Tom) split off and go ahead to try and get the minibuses in time for everyone else getting down."
       },
       {
         "time": "16.06",
         "event": "Strong group: Throwing pebbles into lake"
       },
       {
+        "time": "17.15",
+        "event": "We (Tom&co) arrive at the carpark but after failing to locate Sam we start the extra half an hour hike to the minibuses."
+      },
+      {
         "time": "17.45",
         "event": "We all leave the long-damned car park"
+      },
+      {
+        "time": "20.00-21.00",
+        "event": "Minibus 3: Stop for food in Telford services."
       },
       {
         "time": "20.00",
         "event": "Dinner stop and minibus 2 driver swap"
       },
       {
+        "time": "21.05",
+        "event": "We approach a roundabout. We brake. I (Tom) drop my coffee. It is a sad day."
+      },
+      {
         "time": "22.50",
         "event": "Minibus 2: Re driver swap"
       },
       {
+        "time": "0.15",
+        "event": "Minibus 3 arrives back in Southampton! We park up, then between 4 of us manage to carry all the random Away Trip kit back to my house. "
+      },
+      {
         "time": "0.21",
-        "event": "I reach home"
+        "event": "I (Teo) reach home"
+      },
+      {
+        "time": "0.45",
+        "event": "I (Tom) am home. The trip is over. It was good fun. But now the bed is calling."
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Tom",
+        "what": "The stranded minibus situation! Minibus 2&3 turned off the A5 for some reason (According to minibus 2, turn off was due to navigation error with Arshad using a map not a satnav). Whilst going up a hill, minibus 3 starts to get clutch problems. Minibus 2 makes it up the hill, minibus 3 decides clutch is fucked, hill ahead is far too steep, try and turn around. Through some witchcraft, minibus 3 ends up with front against a stone wall and rear wheels stuck in mud. After adding stones to try and provide extra traction and not succeeding, minibus 2 is despatched to the bottom of the hill to collect 3’s passengers. Minibus 3’s passengers hike 1km to minibus 2 and get back to bunkhouses safely. Minibus 3 is now left stranded awaiting assistance. After a very long wait, and a lack of decent communication from the RAC, the recovery vehicle arrives. Defender 90 equipped with winch, snorkel, and all manner of gadgets in the back. After a failed attempt with traction mats, and a failed attempt to squeeze the defender around the rear of the minibus, we begin to debate the feasibility of winching the minibus to a straightened orientation. After this turns out to be futile without damaging the fence, wall or minibus, metal traction ladders are brought into play. These prove to be more effective and with the aid of 4 people pushing from the front, the minibus finally finds some grip. Under direction of the recovery guy, the minibus is eventually orientated to face up the hill, paper work is filled in and we make a move. Clutch is still dodgy but we just about make it up the hill!"
       }
     ]
   },
