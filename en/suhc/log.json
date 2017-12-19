@@ -1,5 +1,58 @@
 [
   {
+    "name": "Christmas Combo Madness Social",
+    "date": "2017-12-05",
+    "start": "The Stable",
+    "finish": "The Flying Dutchman",
+    "ringLeader": "Izzy",
+    "committeeCount": 9,
+    "checkpoints": [
+      {
+        "time": "18:15",
+        "event": "I arrive at the Stable"
+      },
+      {
+        "time": "20:00",
+        "event": "Richard hijacks part of the group and takes them to Sprinkles"
+      },
+      {
+        "time": "20:05",
+        "event": "The rest of the group leave the Stable"
+      },
+      {
+        "time": "20:30",
+        "event": "Front group arrive at the Flying Dutchman, sans Izzy who was here ages before thanks to a taxi"
+      },
+      {
+        "time": "20:45",
+        "event": "Richard's group arrive at the Flying Dutchman"
+      },
+      {
+        "time": "22:10",
+        "event": "Shots x2 aka pocket emptification 5000"
+      },
+      {
+        "time": "22:25",
+        "event": "Tom the President acquires a faulty shoulder"
+      },
+      {
+        "time": "22:42",
+        "event": "The faulty shoulder (and its possessor) is taken to A&E"
+      },
+      {
+        "time": "23:20",
+        "event": "Arrive at the afterparty place"
+      },
+      {
+        "time": "23:38",
+        "event": "Failed attempt at a game of Twister"
+      },
+      {
+        "time": "00:55",
+        "event": "Nothing happens. I become bored and leave."
+      }
+    ]
+  },{
     "name": "Santa Walk joint with MindSoc",
     "date": "2017-12-02",
     "start": "Southampton Uni (SUSU Building)",
