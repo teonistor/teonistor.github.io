@@ -1,5 +1,121 @@
 [
   {
+    "date": "2018-02-10",
+    "start": "Winchfield",
+    "finish": "Hook",
+    "ringLeader": "Teo",
+    "headCount": 24,
+    "committeeCount": 3,
+    "km": 13,
+    "checkpoints": [
+      {
+        "time": "9.18",
+        "event": "Board train, with some people missing it due to excessive fumbling-around"
+      },
+      {
+        "time": "10.07",
+        "event": "Walk starts, with 21 people"
+      },
+      {
+        "time": "10.19",
+        "event": "Bogs occur"
+      },
+      {
+        "time": "10.41",
+        "event": "Spontaneous biscuit break"
+      },
+      {
+        "time": "10.57",
+        "event": "Richard: Where are we? Teo: Hartley Wintney. Richard: That's correct, 'cause it's hardly windy!"
+      },
+      {
+        "time": "11.07",
+        "event": "Richard attempts to direct the 3 people who missed the train in our direction using live location over dodgy 4G signal"
+      },
+      {
+        "time": "12.18",
+        "event": "Lunch break"
+      },
+      {
+        "time": "12.27",
+        "event": "The 3 people manage to find us"
+      },
+      {
+        "time": "12.43",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13.05",
+        "event": "Path is interrupted by a horse. A lady appears and ties the horse so we can pass."
+      },
+      {
+        "time": "13.59",
+        "event": "Hit edge of Hook town"
+      },
+      {
+        "time": "14.11",
+        "event": "Walk ends at pub: Old White Hart"
+      },
+      {
+        "time": "14.40",
+        "event": "Somebody who left the pub early and got to the station to get the 14.48 train realises she lost her phone in the pub. Meanwhile, we are eating burgers and can confirm an abandoned phone on a bench."
+      },
+      {
+        "time": "14.51",
+        "event": "Phone is retrieved, but train has been missed"
+      },
+      {
+        "time": "15.26",
+        "event": "We get the 15.18 train to Basingstoke. Then onwards to Southampton"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "All recorded history of the club's walks that we can access confirm that this is the very first time we have done a walk in this area."
+      }
+    ]
+  },{
+    "name":"Brecon Beacons Away Trip",
+    "date": "2018-02-02 - 04",
+    "checkpoints": [
+      {
+	"time": "*",
+	"event": "Log pending..."
+      }
+    ]
+  },{
+    "start": "Fareham",
+    "finish": "Bursledon",
+    "date": "2018-01-27",
+    "ringLeader": "James",
+    "checkpoints": [
+      {
+	"time": "*",
+	"event": "Log pending..."
+      }
+    ]
+  },{
+    "start": "Shawford",
+    "finish": "Winchester",
+    "date": "2018-01-20",
+    "ringLeader": "James",
+    "checkpoints": [
+      {
+	"time": "*",
+	"event": "Log pending..."
+      }
+    ]
+  },{
+    "name":"Mendip Hills Away Trip",
+    "date": "2017-12-08 - 10",
+    "checkpoints": [
+      {
+	"time": "*",
+	"event": "Unrecorded"
+      }
+    ]
+  },{
     "name": "Christmas Combo Madness Social",
     "date": "2017-12-05",
     "start": "The Stable",
