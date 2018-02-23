@@ -1,0 +1,13 @@
+{
+"companyName": "Zepler Studios 2k18",
+"productName": "ReBounce",
+"dataUrl": "rebounce.data.unityweb",
+"asmCodeUrl": "rebounce.asm.code.unityweb",
+"asmMemoryUrl": "rebounce.asm.memory.unityweb",
+"asmFrameworkUrl": "rebounce.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#360713"
+}
