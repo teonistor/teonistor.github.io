@@ -1,5 +1,138 @@
 [
   {
+    "name": "Marathon walk with Water Aid",
+    "date": "2018-03-10",
+    "start": "Southampton Uni (SUSU Building)",
+    "finish": "Fareham station",
+    "ringLeader": "Tom",
+    "headCount": 26,
+    "committeeCount": 4,
+    "km": 42,
+    "checkpoints": [
+	{
+        "time": "7:07",
+        "event": "Happy group photo of 25 people who are about to walk a marathon, oblivious to how f*** long that actually is"
+      },{
+        "time": "7:12",
+        "event": "Make a move"
+      },{
+        "time": "7:25",
+        "event": "First person realises they should have used the loo before we left for a 26 mile walk"
+      },{
+        "time": "7:37",
+        "event": "We reach Riverside Park, but unforecast rain starts"
+      },{
+        "time": "7:49",
+        "event": "Despite valiant attempts we fail to push a paddle-boarder off his board by blowing at him from the opposite side of the river"
+      },{
+        "time": "8:18",
+        "event": "Wide road cross at trash pile cranes"
+      },{
+        "time": "8:56",
+        "event": "Quick catch-up @5.1mi"
+      },{
+        "time": "9:11",
+        "event": "Reachard (the event of Richard reaching us)"
+      },{
+        "time": "9:27",
+        "event": "Public facilities (toilet) break @6.6mi"
+      },{
+        "time": "9:40",
+        "event": "Shoe-stealing mud occurs at a flooded bend in the road. Only vested members with vested walking boots make it through without significant effort"
+      },{
+        "time": "9:59",
+        "event": "\"Tom! Slow down!!!\" (Richard's voice is like a walkie talkie, but better: it doesn't need batteries)"
+      },{
+        "time": "10:38",
+        "event": "Regathering finally after dogs distraction through elevated forest path @9mi"
+      },{
+        "time": "11:04",
+        "event": "\"Let's just say it's mud\""
+      },{
+        "time": "11:29",
+        "event": "Pass by Bursledon stn @11.6mi. We almost lose Izzy, but we don't"
+      },{
+        "time": "12:15",
+        "event": "Past halfway @13.4mi and walkie talkies are finally called to action to keep contact between the front and back of the group which now stretches over several hundred yards, beyond reliable visual contact (despite the path being coastal)"
+      },{
+        "time": "12:36",
+        "event": "Ferry shelter with no ferry"
+      },{
+        "time": "12:41",
+        "event": "Lunch pub, Rising Sun @14.6mi (or 13.9mi or 15.6mi depending whose distance tracker you trust)"
+      },{
+        "time": "12:57",
+        "event": "Extra beer appears on the table that no one claims"
+      },{
+        "time": "13:23",
+        "event": "Spare burger is brought to the table thanks to a confusion in the order. We look at it suspiciously thinking that perhaps the first one to touch it will be forced to pay for it"
+      },{
+        "time": "13:44",
+        "event": "Everyone vanishes from the tables"
+      },{
+        "time": "14:03",
+        "event": "Out of pub, half-happy group photo of 26 people who are yet to walk almost as much as they have already"
+      },{
+        "time": "14:51",
+        "event": "Map/detour recalculation @16.7mi"
+      },{
+        "time": "15:27",
+        "event": "Confusion!"
+      },{
+        "time": "15:55",
+        "event": "Rest on beach corner 10 min @19.4mi"
+      },{
+        "time": "16:05",
+        "event": "James appears! (but we won't count him as having done the walk)"
+      },{
+        "time": "17:27",
+        "event": "Approximately 3mi left"
+      },{
+        "time": "17:41",
+        "event": "Quest: We should get back before the sun goes down."
+      },{
+        "time": "18:14",
+        "event": "Small police force show before Fareham stn"
+      },{
+        "time": "18:15",
+        "event": "Hit Fareham stn. Various distance trackers say: 26.5/26.2/25.3mi"
+      }
+    ]
+  },{
+    "date": "2018-02-24",
+    "start": "Salisbury",
+    "finish": "Salisbury",
+    "ringLeader": "Teo",
+    "headCount": 21,
+    "committeeCount": 6,
+    "checkpoints": [
+      {
+        "time": "10:55",
+        "event": "Cathedral"
+      },{
+        "time": "11:11",
+        "event": "Rams in middle of Salisbury"
+      },{
+        "time": "11:22",
+        "event": "Serena's bench break"
+      },{
+        "time": "12:18",
+        "event": "Biscuit break"
+      },{
+        "time": "13:25±10",
+        "event": "Lunch break"
+      },{
+        "time": "14:49",
+        "event": "Waiting for catch-up at 4 dirt paths crossroads"
+      },{
+        "time": "15:53",
+        "event": "Re entry – walk ends at usual pub"
+      },{
+        "time": "16:18",
+        "event": "Most of us leave or have already left the pub to catch the 16:33 back"
+      }
+    ]
+  },{
     "date": "2018-02-10",
     "start": "Winchfield",
     "finish": "Hook",
