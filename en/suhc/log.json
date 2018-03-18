@@ -1,5 +1,176 @@
 [
   {
+    "name": "Golden Cap day trip",
+    "date": "2018-03-17",
+    "start": "Bridport & West Bay",
+    "finish": "Bridport & West Bay",
+    "ringLeader": "Byron, Serena",
+    "headCount": 30,
+    "committeeCount": 9,
+    "km": 25.5,
+    "checkpoints": [
+      {
+        "time": "8:38",
+        "event": "Minibuses set off from before the Union building"
+      },
+      {
+        "time": "★",
+        "event": "Tom drives and DJs minibus 2. Music quality on my personal, non-relatable scale: 96%"
+      },
+      {
+        "time": "10:18",
+        "event": "Minibus 2 arrives at Bridport and stops in a car park, then we wait for the others inside for a bit"
+      },
+      {
+        "time": "10:24",
+        "event": "Izzy: It's arctic winds, let's go back home!"
+      },
+      {
+        "time": "10:25",
+        "event": "Minibus 1 arrives. Tom: You overtook us twice, we never overtook you, yet we arrived first! James: Yea, we took a wrong turn…"
+      },
+      {
+        "time": "10:43",
+        "event": "After final map clarifications, we split into 2 groups. The fast (and longer distance covering) group, led by Byron, is formed originally of 17 people, myself (Teo) included; the slow (and fun?) group, led by Serena, is formed of 13 people. As such, we set off for the walk."
+      },
+      {
+        "time": "10:49",
+        "event": "Asphalt ends and real climb begins"
+      },
+      {
+        "time": "10:59",
+        "event": "We (the fast group) reach the first hilltop, where there are winds! Though nothing like what's going to be waiting for us in the evening."
+      },
+      {
+        "time": "11:01",
+        "event": "Izzy and Matt R fall back to the slow group (due to Izzy's purposefully very heavy rucksack that she brought for her personal training, for which we congratulate her) equalising group sizes"
+      },
+      {
+        "time": "11:13",
+        "event": "And we're at sea/river level again. Clearly this is Jurassic Coast Deluxe."
+      },
+      {
+        "time": "11:37",
+        "event": "We reached the top of the tallest hill visible; meanwhile the slow group radio in and report having stopped on the beach (perhaps for a swim? Did I mishear that?)"
+      },
+      {
+        "time": "12:02",
+        "event": "We miss a clear “coastal path diversion” sign and end up in an overgrown landslide"
+      },
+      {
+        "time": "12:37",
+        "event": "Snow starts to settle on hat tops and lands. / Crosswinds and snowflakes at high speed draw bands / Across my vision. It looks so bizarre: / I watch my life on an old VCR."
+      },
+      {
+        "time": "12:46",
+        "event": "Coffee/water & bread break (Joe is bae)"
+      },
+      {
+        "time": "12:54",
+        "event": "Golden Cap trig point"
+      },
+      {
+        "time": "12:57",
+        "event": "Golden Cap tombstone"
+      },
+      {
+        "time": "13:00",
+        "event": "After debating wind, temperature, and stomach conditions, we stop for lunch under the precarious protection from wind granted by bushes, dirt bumps, and the Golden Cap tombstone itself (I know it's not a tombstone but it looks awfully like one)"
+      },
+      {
+        "time": "~13:40",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "14:20",
+        "event": "Significant bench stop"
+      },
+      {
+        "time": "14:36",
+        "event": "We hit a critical turning point from which we start heading back toward Bridport; meanwhile the slow group have just reached the Golden Cap tombstone and Serena radios out her dismay of Tom's unexemplary behaviour of standing up on the Golden Cap trig point"
+      },
+      {
+        "time": "15:05",
+        "event": "Stanton St Gabriel"
+      },
+      {
+        "time": "15:32",
+        "event": "Along a flooded muddy road, attempting to bypass the bogs by holding onto the right fence and climbing on the side,"
+      },
+      {
+        "time": "15:33",
+        "event": "we catch up with the slow group, who have just reached safe terrain after the same muddy manoeuvre"
+      },
+      {
+        "time": "15:34",
+        "event": "and are now attending a barbed wire first aid event"
+      },
+      {
+        "time": "15:35",
+        "event": "but we steam past as we have no sense of compassion"
+      },
+      {
+        "time": "15:55",
+        "event": "Merging back into the outbound path, we stop halfway up a hill on a bench for a water break. Looking back we see the slow group and notice they're not making much progress. We ask them if everything is fine and they radio back informing us of their in progress biscuit break"
+      },
+      {
+        "time": "16:56",
+        "event": "We're half a mile from the town according to a signpost, while the slow group report being half an hour behind us"
+      },
+      {
+        "time": "17:03",
+        "event": "We reach the town seafront asphalt street"
+      },
+      {
+        "time": "17:10",
+        "event": "In front of The George pub, we employ my mud brush to prevent catastrophic damage to the pub's carpets"
+      },
+      {
+        "time": "17:17",
+        "event": "We take seats in the pub, having walked 25.5 km according to Richard's distance tracker"
+      },
+      {
+        "time": "17:20",
+        "event": "Pints of Thatcher's and other beverages fly onto our table; my face is burning red from the sudden change in temperature and airflow conditions"
+      },
+      {
+        "time": "17:40",
+        "event": "The fast part of the slow group, consisting of 9 people, arrive at the pub"
+      },
+      {
+        "time": "17:52",
+        "event": "Through the pub window, we get a visual of the remaining 6 people approaching"
+      },
+      {
+        "time": "17:53",
+        "event": "Izzy & Matt R arrive at the pub"
+      },
+      {
+        "time": "17:56",
+        "event": "Food starts being served and people who don't remember what they'd preorderer are alarmed, because only Serena has the list of preorders but she is still out, closing the convoy"
+      },
+      {
+        "time": "18:04",
+        "event": "The slow part of the slow group arrive at the pub finally and the walk unequivocally ends"
+      },
+      {
+        "time": "19:46",
+        "event": "We all leave the pub"
+      },
+      {
+        "time": "19:59",
+        "event": "Minibuses depart"
+      },
+      {
+        "time": "★",
+        "event": "Shaun drives and DJs minibus 2. Music quality on my personal, non-relatable scale: 72%"
+      },
+      {
+        "time": "21:38",
+        "event": "Minibus 2 arrives in the designated parking spot with a full tank and 15 dead-legged hillwalkers"
+      }
+    ]
+  },{
     "name": "Marathon walk with Water Aid",
     "date": "2018-03-10",
     "start": "Southampton Uni (SUSU Building)",
