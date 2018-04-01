@@ -1,5 +1,88 @@
 [
   {
+    "name": "Unofficial Official Taddiford Gap Coastal Walk",
+    "date": "2018-03-31",
+    "start": "New Milton",
+    "finish": "Lymington",
+    "ringLeader": "Richard, Teo",
+    "headCount": 9,
+    "committeeCount": 1,
+    "km": 23,
+    "checkpoints": [
+      {
+        "time": "9:53",
+        "event": "Walk begins from New Milton station"
+      },
+      {
+        "time": "10:08",
+        "event": "We reach a roundabout much discussed on the map, but it looks like just an ordinary roundabout"
+      },
+      {
+        "time": "10:12",
+        "event": "Bogs (Richard receives death threats)"
+      },
+      {
+        "time": "10:28",
+        "event": "Dogs"
+      },
+      {
+        "time": "11:21",
+        "event": "Break by Milford on Sea Kiosk and beach recently cleared of warfare metalworks"
+      },
+      {
+        "time": "11:58-12:18",
+        "event": "Lunch break"
+      },
+      {
+        "time": "12:48",
+        "event": "We reach the easy side of Hurst castle"
+      },
+      {
+        "time": "13:08",
+        "event": "We reach the dark side of Hurst castle, which for matters of high tides requires walking a certain length of knee-deep ocean water. In spite of everybody else, I (Teo) decide to detour the whole entire rest of the castle to get on the other side of this wet and salty adventure."
+      },
+      {
+        "time": "13:21",
+        "event": "It turns out parkouing all the dry contour of Hurst castle and drying one's feet/complaining about it take approximately equal amounts of time"
+      },
+      {
+        "time": "14:06",
+        "event": "As we walk on a half flooded road, a car comes from ahead. Despite being a car and despite the flood being on its half of the road, the car pulls over onto our side, forcing us to walk through the flood."
+      },
+      {
+        "time": "14:27",
+        "event": "Art gallery in Milford on Sea"
+      },
+      {
+        "time": "16:48",
+        "event": "Walk ends at The Ship Inn after 23km,"
+      },
+      {
+        "time": "16:55",
+        "event": "but then we change our minds"
+      },
+      {
+        "time": "17:07",
+        "event": "and (while Matt R preorders through an app just to spite us... OK perhaps he was hungry)"
+      },
+      {
+        "time": "17:11",
+        "event": "we end up in Wetherspoons,"
+      },
+      {
+        "time": "17:22",
+        "event": "where we drink and eat and eat and drink"
+      },
+      {
+        "time": "18:11",
+        "event": "until we leave"
+      },
+      {
+        "time": "18:23",
+        "event": "and reach the station to catch the 18:29 northbound."
+      }
+    ]
+  },{
     "name": "Golden Cap day trip",
     "date": "2018-03-17",
     "start": "Bridport & West Bay",
@@ -726,7 +809,7 @@
         "event": "Actually left due to SUSU’s appalling management system with the minibuses (they originally thought we only had one minibus booked, and wanted to do an oil check on all the buses before we left)"
       },
       {
-        "time": "1800-2015",
+        "time": "18:00-20:15",
         "event": "Car takes A34 then M4 to Swindon before turning north. Minibuses stay on A34 and get caught up with traffic due to accidents near Oxford"
       },
       {
