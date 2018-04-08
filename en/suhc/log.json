@@ -1,5 +1,96 @@
 [
   {
+    "name": "Unofficial Official West Sussex day walk",
+    "date": "2018-04-07",
+    "start": "Fishbourne",
+    "finish": "Nutbourne",
+    "ringLeader": "Teo, Richard",
+    "headCount": 5,
+    "committeeCount": 1,
+    "km": 19.6,
+    "checkpoints": [
+      {
+        "time": "9:29",
+        "event": "We get on platform 2 for the 9:32 Southern train towards London Victoria. Platform panel says “Terminates here”. We look at the closed doors reluctantly and the platform attendant tells us to walk in."
+      },
+      {
+        "time": "9:31",
+        "event": "We find seats and get comfortable."
+      },
+      {
+        "time": "9:32",
+        "event": "In-train announcement says that “this train is no longer in public service.” We disappointedly get off. Meanwhile, platform panel says “9:32 London Victoria”"
+      },
+      {
+        "time": "★",
+        "event": "We wander aimlessly around the station; we can't completely overhaul our walk plans because of an arrangement with a member who has already gone to Chichester, earlier in the morning, for a pre-walk run"
+      },
+      {
+        "time": "10:05",
+        "event": "Back on platform 2, we board another train which looks suspiciously like the previous; platform panel says “10:13 Brighton”"
+      },
+      {
+        "time": "10:30",
+        "event": "We were supposed to start the walk, but in fact we've barley left Southampton"
+      },
+      {
+        "time": "11:09",
+        "event": "We'd have had 3 minutes to change in Chichester to catch the 11:14 stopping service back to Fishbourne were it not for the first train astonishingly being 2 minutes early. Richard runs across the bridge and almost boards the wrong train, which would have taken him back to Emsworth or all the way to Havant."
+      },
+      {
+        "time": "11:20",
+        "event": "Walk begins from Fishbourne, 50 minutes later than it should have"
+      },
+      {
+        "time": "★",
+        "event": "We proudly notice the group has, for the first time in ages, 100% appropriate footwear"
+      },
+      {
+        "time": "12:03",
+        "event": "Planned walk takes a turn for the worse when a forset we were planning to cross turns out to be a fenced off conservation area. We are forced to walk on some roads and to listen to Richard incessantly say that we should have stuck to the plan regardless."
+      },
+      {
+        "time": "12:44",
+        "event": "The middle of nowhere we thought this road to be going through suddenly becomes a post-modern posh villa village"
+      },
+      {
+        "time": "12:59",
+        "event": "We finally make it back to non-asphalt area and stop for lunch near some wooden benches on what could generously be called a beach"
+      },
+      {
+        "time": "13:27",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13:40",
+        "event": "Teo: “This mud is so wrong! It's just unlike all the muds we've been through recently.”"
+      },
+      {
+        "time": "★",
+        "event": "“Holy crap it's a crab” as we walk over (and further smash) the shards of what used to be a living crab's shell"
+      },
+      {
+        "time": "★",
+        "event": "A certain member who shall respectfully remain unnamed repeatedly asks strangers for directions, despite there existing current and future day walk secretaries who carry maps, compasses, and a perfectly functional sense of direction"
+      },
+      {
+        "time": "14:07",
+        "event": "Slightly high tide means the ford over a section of Bosham channel is not trivially traversable on foot. Once again it is proven that drying one's feet/complaining/laughing about it and walking around the long (dry) way take approximately equal amounts of time."
+      },
+      {
+        "time": "14:22-14:24",
+        "event": "Accidental stop by ice cream van"
+      },
+      {
+        "time": "15:22-15:24",
+        "event": "45° pause"
+      },
+      {
+        "time": "16:37",
+        "event": "Walk ends at the Barleycorn in Nutbourne after 19.6km"
+      }
+    ]
+  },{
     "name": "Unofficial Official Taddiford Gap Coastal Walk",
     "date": "2018-03-31",
     "start": "New Milton",
