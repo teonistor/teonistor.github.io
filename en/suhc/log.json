@@ -1,5 +1,179 @@
 [
   {
+    "name": "Unofficial Official West Sussex day walk",
+    "date": "2018-04-07",
+    "start": "Fishbourne",
+    "finish": "Nutbourne",
+    "ringLeader": "Teo, Richard",
+    "headCount": 5,
+    "committeeCount": 1,
+    "km": 19.6,
+    "checkpoints": [
+      {
+        "time": "9:29",
+        "event": "We get on platform 2 for the 9:32 Southern train towards London Victoria. Platform panel says “Terminates here”. We look at the closed doors reluctantly and the platform attendant tells us to walk in."
+      },
+      {
+        "time": "9:31",
+        "event": "We find seats and get comfortable."
+      },
+      {
+        "time": "9:32",
+        "event": "In-train announcement says that “this train is no longer in public service.” We disappointedly get off. Meanwhile, platform panel says “9:32 London Victoria”"
+      },
+      {
+        "time": "★",
+        "event": "We wander aimlessly around the station; we can't completely overhaul our walk plans because of an arrangement with a member who has already gone to Chichester, earlier in the morning, for a pre-walk run"
+      },
+      {
+        "time": "10:05",
+        "event": "Back on platform 2, we board another train which looks suspiciously like the previous; platform panel says “10:13 Brighton”"
+      },
+      {
+        "time": "10:30",
+        "event": "We were supposed to start the walk, but in fact we've barley left Southampton"
+      },
+      {
+        "time": "11:09",
+        "event": "We'd have had 3 minutes to change in Chichester to catch the 11:14 stopping service back to Fishbourne were it not for the first train astonishingly being 2 minutes early. Richard runs across the bridge and almost boards the wrong train, which would have taken him back to Emsworth or all the way to Havant."
+      },
+      {
+        "time": "11:20",
+        "event": "Walk begins from Fishbourne, 50 minutes later than it should have"
+      },
+      {
+        "time": "★",
+        "event": "We proudly notice the group has, for the first time in ages, 100% appropriate footwear"
+      },
+      {
+        "time": "12:03",
+        "event": "Planned walk takes a turn for the worse when a forset we were planning to cross turns out to be a fenced off conservation area. We are forced to walk on some roads and to listen to Richard incessantly say that we should have stuck to the plan regardless."
+      },
+      {
+        "time": "12:44",
+        "event": "The middle of nowhere we thought this road to be going through suddenly becomes a post-modern posh villa village"
+      },
+      {
+        "time": "12:59",
+        "event": "We finally make it back to non-asphalt area and stop for lunch near some wooden benches on what could generously be called a beach"
+      },
+      {
+        "time": "13:27",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13:40",
+        "event": "Teo: “This mud is so wrong! It's just unlike all the muds we've been through recently.”"
+      },
+      {
+        "time": "★",
+        "event": "“Holy crap it's a crab” as we walk over (and further smash) the shards of what used to be a living crab's shell"
+      },
+      {
+        "time": "★",
+        "event": "A certain member who shall respectfully remain unnamed repeatedly asks strangers for directions, despite there existing current and future day walk secretaries who carry maps, compasses, and a perfectly functional sense of direction"
+      },
+      {
+        "time": "14:07",
+        "event": "Slightly high tide means the ford over a section of Bosham channel is not trivially traversable on foot. Once again it is proven that drying one's feet/complaining/laughing about it and walking around the long (dry) way take approximately equal amounts of time."
+      },
+      {
+        "time": "14:22-14:24",
+        "event": "Accidental stop by ice cream van"
+      },
+      {
+        "time": "15:22-15:24",
+        "event": "45° pause"
+      },
+      {
+        "time": "16:37",
+        "event": "Walk ends at the Barleycorn in Nutbourne after 19.6km"
+      }
+    ]
+  },{
+    "name": "Unofficial Official Taddiford Gap Coastal Walk",
+    "date": "2018-03-31",
+    "start": "New Milton",
+    "finish": "Lymington",
+    "ringLeader": "Richard, Teo",
+    "headCount": 9,
+    "committeeCount": 1,
+    "km": 23,
+    "checkpoints": [
+      {
+        "time": "9:53",
+        "event": "Walk begins from New Milton station"
+      },
+      {
+        "time": "10:08",
+        "event": "We reach a roundabout much discussed on the map, but it looks like just an ordinary roundabout"
+      },
+      {
+        "time": "10:12",
+        "event": "Bogs (Richard receives death threats)"
+      },
+      {
+        "time": "10:28",
+        "event": "Dogs"
+      },
+      {
+        "time": "11:21",
+        "event": "Break by Milford on Sea Kiosk and beach recently cleared of warfare metalworks"
+      },
+      {
+        "time": "11:58-12:18",
+        "event": "Lunch break"
+      },
+      {
+        "time": "12:48",
+        "event": "We reach the easy side of Hurst castle"
+      },
+      {
+        "time": "13:08",
+        "event": "We reach the dark side of Hurst castle, which for matters of high tides requires walking a certain length of knee-deep ocean water. In spite of everybody else, I (Teo) decide to detour the whole entire rest of the castle to get on the other side of this wet and salty adventure."
+      },
+      {
+        "time": "13:21",
+        "event": "It turns out parkouing all the dry contour of Hurst castle and drying one's feet/complaining about it take approximately equal amounts of time"
+      },
+      {
+        "time": "14:06",
+        "event": "As we walk on a half flooded road, a car comes from ahead. Despite being a car and despite the flood being on its half of the road, the car pulls over onto our side, forcing us to walk through the flood."
+      },
+      {
+        "time": "14:27",
+        "event": "Art gallery in Milford on Sea"
+      },
+      {
+        "time": "16:48",
+        "event": "Walk ends at The Ship Inn after 23km,"
+      },
+      {
+        "time": "16:55",
+        "event": "but then we change our minds"
+      },
+      {
+        "time": "17:07",
+        "event": "and (while Matt R preorders through an app just to spite us... OK perhaps he was hungry)"
+      },
+      {
+        "time": "17:11",
+        "event": "we end up in Wetherspoons,"
+      },
+      {
+        "time": "17:22",
+        "event": "where we drink and eat and eat and drink"
+      },
+      {
+        "time": "18:11",
+        "event": "until we leave"
+      },
+      {
+        "time": "18:23",
+        "event": "and reach the station to catch the 18:29 northbound."
+      }
+    ]
+  },{
     "name": "Golden Cap day trip",
     "date": "2018-03-17",
     "start": "Bridport & West Bay",
@@ -726,7 +900,7 @@
         "event": "Actually left due to SUSU’s appalling management system with the minibuses (they originally thought we only had one minibus booked, and wanted to do an oil check on all the buses before we left)"
       },
       {
-        "time": "1800-2015",
+        "time": "18:00-20:15",
         "event": "Car takes A34 then M4 to Swindon before turning north. Minibuses stay on A34 and get caught up with traffic due to accidents near Oxford"
       },
       {
