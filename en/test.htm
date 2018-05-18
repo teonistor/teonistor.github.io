@@ -1,0 +1,20 @@
+<p>
+  <div class="row">
+    <!--<div class="col-md-3">
+      <h4 align=center>Contents</h4>
+      <ul ng-repeat="s in stories">
+        <li><a ng-href="/#/stories/{{ story[0] }}">{{ story[1] }}</a></li>
+      </ul>
+    </div>-->
+<!--     <div class="col-md-9"> -->
+      <div class="jumbotron" ng-repeat="stuff in testStuff">
+        <h2 ng-init="print(stuff)" ng-class="{expandable: stuff[1], expandableactive: stuff[2]}" ng-click="toggle(stuff);">{{ stuff[0] }}</h2> <!--e.g. Walk headline & main info-->
+        <hr>
+        <div ng-show="stuff[2]">
+	    {{ stuff[1] }}
+        </div>
+      </div>
+    </div>
+<!--   </div> -->
+</p>
+

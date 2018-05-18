@@ -105,4 +105,16 @@ td.suhclogtime {
   width: 70px;
 }
 
+.expandable:after {
+  content: "+";
+  color: #abbdfb;
+  margin-left: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.expandableactive:after {
+  content: "–";
+}
+
 
