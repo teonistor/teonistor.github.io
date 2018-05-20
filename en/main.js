@@ -1,3 +1,12 @@
+/*function controllerSimple (title, path) {
+  return ['$scope', '$location', '$rootScope',
+    function ($scope, $location, $rootScope) {
+      $rootScope.activeNav = path;
+      document.title = title: "Stories at an Angle | teonistor.github.io";
+    }
+  ]
+}*/
+
 var tnmod = angular.module('TNmod', ['ngRoute']);
 
 tnmod.config (['$routeProvider', '$locationProvider',
@@ -48,19 +57,60 @@ tnmod.controller ('compsci', ['$scope', '$location', '$rootScope',
   }
 ]);
 
+tnmod.directive ('storyItem', function() {
+    return {
+      restrict: 'E',
+      scope: '@',
+      templateUrl: '/en/stories/storyItem.htm'
+//       ,
+//       link: function (scope, el, attrs) {
+// 		scope.backStory(el);
+//
+//                 /*scope.$watch(
+//                     function () { return attrs.autoplay; },
+//                     function (newVal) { attrs.$set('autoplay', newVal); }
+//                 );*/
+//             }
+    };
+});
+
 tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
     $rootScope.activeNav = 'stories';
     document.title = "Stories | Stories at an Angle | teonistor.github.io";
 
+    $scope.backStory = function (s) {
+      console.log(s)
+    }
+
+    // TODO this comment
     /* Enumerate stories giving location and title. This will be used in the table of contents.
      * Location is interpreted as the name of a file inside /stories, sans the .htm extension
      * which will be automatically appended.
      */
     $scope.stories = [
-      ['zoom', 'Anatomy of Zoom'],
-      ['angular-site', 'An Angular Website']
+      {
+	title: 'Anatomy of Zoom',
+	pathStub: 'zoom'
+      },{
+	title: 'An Angular Website',
+	pathStub: 'angular-site'
+      }
     ];
+    function toggleHelper (story) {
+      return function() {
+	story.expanded = !story.expanded;
+	if (!story.path)
+	  story.path = '/en/stories/' + story.pathStub + '.htm';
+      };
+    }
+    for (var i=0; i<$scope.stories.length; i++) {
+      var story = $scope.stories[i];
+      story.path = undefined;
+      story.expanded = false;
+      story.loading = true;
+      story.toggle = toggleHelper(story);
+    }
 
     /* Find the story being pointed at by the path. If none (or stupid path typed in), load the
      * most recent story in the array (at position 0). Note: $scope.chosenStory is a 2D array,
@@ -136,44 +186,44 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     $scope.which = $routeParams.w;
     if (!$scope.which)
       $location.path('/suhc/log');
-    
+
     $scope.status = 'a';
-    
+
     var qi = 0;
     function swap (arr, i, j) {
       var temp = arr[i];
       arr[i] = arr[j];
       arr[j] = temp;
     }
-    
+
     $scope.rq = function() {
       $scope.cq = $scope.quotes[qi];
       qi = (qi + 1) % $scope.quotes.length;
       $scope.status = 'another';
     };
-    
+
     $scope.walkExpands = function (walk) {
       return walk.checkpoints && walk.checkpoints.length > 0
           || walk.accounts && walk.accounts.length > 0;
     };
-    
+
     $scope.toggle = function (walk) {
       if ($scope.walkExpands(walk)) walk.expanded = !walk.expanded;
     };
-    
+
     $http.get('/en/suhc/log.json').then(function(r) {
         $scope.walks = r.data;
 	for (var i=0; i<$scope.walks.length; i++) {
 	  $scope.walks[i].expanded = false;
 	}
     });
-    
+
     $http.get('/en/suhc/quotes.json').then(function(r) {
       for (var i=0; i < r.data.length; i++)
         swap (r.data,
               Math.floor(Math.random() * r.data.length),
               Math.floor(Math.random() * r.data.length));
-      
+
       $scope.quotes = r.data;
     });
   }

@@ -1,0 +1,12 @@
+<div class="jumbotron">
+
+    <!-- Title, clickable as needed -->
+    <h3 class="expandable" ng-class="{expandableactive: story.expanded}" ng-click="story.toggle();">{{ story.title }}</h3>
+
+    <!-- Expandable content -->
+    <div ng-show="story.expanded">
+      <hr>
+      <div ng-include="story.path" onload="story.loading = false;"></div>
+      <i ng-show="story.loading">Loading...</i>
+    </div>
+</div>
