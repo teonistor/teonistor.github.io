@@ -153,7 +153,8 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
     };
     
     $scope.walkExpands = function (walk) {
-      return walk.checkpoints.length > 0 || walk.accounts.length > 0;
+      return walk.checkpoints && walk.checkpoints.length > 0
+          || walk.accounts && walk.accounts.length > 0;
     };
     
     $scope.toggle = function (walk) {
