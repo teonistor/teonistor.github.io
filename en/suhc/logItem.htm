@@ -1,22 +1,29 @@
 <div class="jumbotron">
-    <h3 ng-if="walk.name">{{ walk.name }}</h3>
-    <h3 ng-if="!walk.name && walk.start === walk.finish">Day Walk around {{ walk.start }}</h3>
-    <h3 ng-if="!walk.name && walk.start !== walk.finish">Day Walk from {{ walk.start }} to {{ walk.finish }}</h3>
 
+    <!-- Title, clickable as needed -->
+    <h3 ng-if="walk.name" ng-class="{expandable: walkExpands(walk), expandableactive: walk.expanded}" ng-click="toggle(walk);">{{ walk.name }}</h3>
+    <h3 ng-if="!walk.name && walk.start === walk.finish" ng-class="{expandable: walkExpands(walk), expandableactive: walk.expanded}" ng-click="toggle(walk);">Day Walk around {{ walk.start }}</h3>
+    <h3 ng-if="!walk.name && walk.start !== walk.finish" ng-class="{expandable: walkExpands(walk), expandableactive: walk.expanded}" ng-click="toggle(walk);">Day Walk from {{ walk.start }} to {{ walk.finish }}</h3>
+
+    <!-- Headline always visible -->
     <p><i>{{ walk.date }}
     <span ng-if="walk.name && walk.start && walk.finish && walk.start !== walk.finish"><br>From {{ walk.start }} to {{ walk.finish }} </span>
     <span ng-if="walk.name && walk.start && walk.finish && walk.start === walk.finish"><br>Around {{ walk.start }} </span>
-    <span ng-if="walk.headCount"><br>{{ walk.headCount }} attended </span>
+    <span ng-if="walk.headCount"><br>{{ walk.headCount }} attended <span ng-if="walk.committeeCount">({{ walk.committeeCount }} committee)</span></span>
     <span ng-if="walk.km"><br>Effective walk length: {{ walk.km }} km </span>
     </i></p>
 
-    <p>Highlights:</p>
-    <table>
-    <tr ng-repeat="h in walk.checkpoints">
-        <td class="suhclogtime">{{ h.time }}</td>
-        <td>{{ h.event }}</td>
-    </tr>
-    </table>
+    <!-- Expandable content -->
+    <div ng-show="walk.expanded">
+      <p>Event Log:</p>
+      <table>
+      <tr ng-repeat="h in walk.checkpoints">
+	  <td class="suhclogtime">{{ h.time }}</td>
+	  <td>{{ h.event }}</td>
+      </tr>
+      </table>
+      
+      <p ng-repeat="account in walk.accounts"><i><br>{{ account.who }} says... <br></i>{{ account.what }}</p>
     
-    <p ng-repeat="account in walk.accounts"><i><br>{{ account.who }} says... <br></i>{{ account.what }}</p>
+    </div>
 </div>

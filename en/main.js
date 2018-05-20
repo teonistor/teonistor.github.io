@@ -10,6 +10,7 @@ tnmod.config (['$routeProvider', '$locationProvider',
       .when('/music/:m', {templateUrl: '/en/music.htm', controller: 'music'})
       .when('/treasure/:codeHash', {templateUrl: '/en/treasure.htm', controller: 'treasure'})
       .when('/suhc/:w', {templateUrl: '/en/suhc.htm', controller: 'suhc'})
+      .when('/test', {templateUrl: '/en/test.htm', controller: 'test'})
       .otherwise({templateUrl: '/en/4O4.htm'});
     $locationProvider.hashPrefix('');
 
@@ -28,25 +29,28 @@ tnmod.config (['$routeProvider', '$locationProvider',
  */
 tnmod.run(['$rootScope', function ($rootScope) {
   $rootScope.activeNav = 0;
+  $rootScope.btnSty = function (s) {
+    return s === $rootScope.activeNav ? {color: '#337ab7'} : {}
+  };
 }]);
 
 tnmod.controller ('home', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    $rootScope.activeNav = 1;
+    $rootScope.activeNav = 'home';
     document.title = "Stories at an Angle | teonistor.github.io";
   }
 ]);
 
 tnmod.controller ('compsci', ['$scope', '$location', '$rootScope',
   function ($scope, $location, $rootScope) {
-    $rootScope.activeNav = 0;
+    $rootScope.activeNav = 'compsci';
     document.title = "Comp Sci | Stories at an Angle | teonistor.github.io";
   }
 ]);
 
 tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
-    $rootScope.activeNav = 3;
+    $rootScope.activeNav = 'stories';
     document.title = "Stories | Stories at an Angle | teonistor.github.io";
 
     /* Enumerate stories giving location and title. This will be used in the table of contents.
@@ -71,7 +75,7 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
 /* Discount Story controller */
 tnmod.controller ('music', ['$scope', '$location', '$rootScope', '$routeParams',
   function ($scope, $location, $rootScope, $routeParams) {
-    $rootScope.activeNav = 0;
+    $rootScope.activeNav = 'music';
     document.title = "Music | Stories at an Angle | teonistor.github.io";
 
     $scope.which = $routeParams.m;
@@ -89,7 +93,7 @@ tnmod.controller ('music', ['$scope', '$location', '$rootScope', '$routeParams',
  */
 tnmod.controller ('treasure', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
-    $rootScope.activeNav = 5;
+    $rootScope.activeNav = 'treasure';
     document.title = "Treasure Hunt | Stories at an Angle | teonistor.github.io";
 
     $scope.huntCode = '';
@@ -126,7 +130,7 @@ tnmod.directive ('suhcLogItem', function() {
 /* Discount Story controller + quotes randomiser*/
 tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', '$http',
   function ($scope, $location, $rootScope, $routeParams, $http) {
-    $rootScope.activeNav = 2;
+    $rootScope.activeNav = 'suhc';
     document.title = "SUHC | Stories at an Angle | teonistor.github.io";
 
     $scope.which = $routeParams.w;
@@ -148,8 +152,20 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
       $scope.status = 'another';
     };
     
+    $scope.walkExpands = function (walk) {
+      return walk.checkpoints && walk.checkpoints.length > 0
+          || walk.accounts && walk.accounts.length > 0;
+    };
+    
+    $scope.toggle = function (walk) {
+      if ($scope.walkExpands(walk)) walk.expanded = !walk.expanded;
+    };
+    
     $http.get('/en/suhc/log.json').then(function(r) {
         $scope.walks = r.data;
+	for (var i=0; i<$scope.walks.length; i++) {
+	  $scope.walks[i].expanded = false;
+	}
     });
     
     $http.get('/en/suhc/quotes.json').then(function(r) {
@@ -160,5 +176,23 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
       
       $scope.quotes = r.data;
     });
+  }
+]);
+
+tnmod.controller ('test', ['$scope', '$location', '$rootScope',
+  function ($scope, $location, $rootScope) {
+    $rootScope.activeNav = 0;
+    document.title = "Test ";
+    $scope.testStuff = [
+      ['Title One', 'Content One', false],
+      ['Title two', null, false],
+      ['Title 3', 'Content 3', false]
+    ];
+    $scope.print = function(a) {
+      console.log(a)
+    };
+    $scope.toggle = function (s) {
+      if (s[1]) s[2] = !s[2];
+    };
   }
 ]);

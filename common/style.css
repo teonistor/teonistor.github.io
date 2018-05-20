@@ -63,7 +63,22 @@ body {
 
 .container .jumbotron, .jumbotron {
   background-color: #101830;
-  border-radius: 10px;
+  border-radius: 10px !important;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+@media screen and (min-width: 768px) {
+  .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 35px;
+  }
+  .container .jumbotron,
+  .container-fluid .jumbotron {
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px
+  }
 }
 
 .jumbotron hr, hr {
@@ -87,10 +102,6 @@ input,button {
   border-radius: 8px;
 }
 
-/*table, th, td {
-  border: 1px solid white;
-}*/
-
 table {
   width: 100%;
 }
@@ -103,6 +114,18 @@ td.suhclogtime {
   text-align: center;
   vertical-align: top;
   width: 70px;
+}
+
+.expandable:after {
+  content: "+";
+  color: #abbdfb;
+  margin-left: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.expandableactive:after {
+  content: "–";
 }
 
 
