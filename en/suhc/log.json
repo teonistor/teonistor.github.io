@@ -1,5 +1,72 @@
 [
   {
+    "name": "Clarendon Day Walk",
+    "date": "2018-05-26",
+    "start": "Dean",
+    "finish": "Salisbury",
+    "ringLeader": "Thomas",
+    "headCount": 18,
+    "committeeCount": 6,
+    "km": 19,
+    "checkpoints": [
+      {
+        "time": "10:05",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:08",
+        "event": "A tired rough-nighter contemplates the possibility to give up the walk, but soon changes his mind"
+      },
+      {
+        "time": "10:42",
+        "event": "Most open field ever"
+      },
+      {
+        "time": "11:11",
+        "event": "Bentley Wood signpost crossroads"
+      },
+      {
+        "time": "11:40",
+        "event": "We encounter Hook & Glove pub"
+      },
+      {
+        "time": "12:26",
+        "event": "We got bitten while sitting in Pitton"
+      },
+      {
+        "time": "12:31",
+        "event": "Lunch break opposite the Silver Plough pub"
+      },
+      {
+        "time": "13:04",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13:47",
+        "event": "We get directionally misplaced and take a detour (no we're NOT lost!) and thus see a deer"
+      },
+      {
+        "time": "13:55",
+        "event": "Panel: Danger! Deer stalking, keep out"
+      },
+      {
+        "time": "",
+        "event": "Richard: So that deer was stalking us!"
+      },
+      {
+        "time": "14:26-37",
+        "event": "Clarendon Palace Royal Court ruins. Rest break. Thomas water-fans the sleepers."
+      },
+      {
+        "time": "14:46",
+        "event": "Great spire in the sky"
+      },
+      {
+        "time": "15:35",
+        "event": "Walk ends"
+      }
+    ]
+  },{
     "name": "Itchen Valley Day Walk",
     "date": "2018-05-19",
     "start": "Winchester",
