@@ -1,12 +1,3 @@
-/*function controllerSimple (title, path) {
-  return ['$scope', '$location', '$rootScope',
-    function ($scope, $location, $rootScope) {
-      $rootScope.activeNav = path;
-      document.title = title: "Stories at an Angle | teonistor.github.io";
-    }
-  ]
-}*/
-
 var tnmod = angular.module('TNmod', ['ngRoute']);
 
 tnmod.config (['$routeProvider', '$locationProvider',
@@ -31,10 +22,7 @@ tnmod.config (['$routeProvider', '$locationProvider',
   }
 ]);
 
-/* In the root scope an array will be kept of classes for navbar items. At most one of these
- * must be 'active' at a time, indicating a highlighted navbar item (none is highlighted on
- * hidden pages and in special cases). A function is also provided for controllers of each
- * page to easily and correctly alter this array.
+/* In the root scope a variable will be kept indicating which navbar item is active.
  */
 tnmod.run(['$rootScope', function ($rootScope) {
   $rootScope.activeNav = 0;
@@ -62,15 +50,6 @@ tnmod.directive ('storyItem', function() {
       restrict: 'E',
       scope: '@',
       templateUrl: '/en/stories/storyItem.htm'
-//       ,
-//       link: function (scope, el, attrs) {
-// 		scope.backStory(el);
-//
-//                 /*scope.$watch(
-//                     function () { return attrs.autoplay; },
-//                     function (newVal) { attrs.$set('autoplay', newVal); }
-//                 );*/
-//             }
     };
 });
 
@@ -84,9 +63,9 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
     }
 
     // TODO this comment
-    /* Enumerate stories giving location and title. This will be used in the table of contents.
-     * Location is interpreted as the name of a file inside /stories, sans the .htm extension
-     * which will be automatically appended.
+    /* Enumerate stories giving title and path stub.
+     * Upon initialisation, other properties and functions are added
+     * to help with box expansion/loading/collapsing.
      */
     $scope.stories = [
       {
@@ -104,12 +83,13 @@ tnmod.controller ('stories', ['$scope', '$location', '$rootScope', '$routeParams
 	  story.path = '/en/stories/' + story.pathStub + '.htm';
       };
     }
+
     for (var i=0; i<$scope.stories.length; i++) {
       var story = $scope.stories[i];
-      story.path = undefined;
+      story.path = undefined; // This will be created only when the story needs to be loaded
       story.expanded = false;
-      story.loading = true;
-      story.toggle = toggleHelper(story);
+      story.loading = true; // This will be made false to hide the "Loading..." message
+      story.toggle = toggleHelper(story); // Function to call when expanding/collapsing the box with this story
     }
 
     /* Find the story being pointed at by the path. If none (or stupid path typed in), load the
