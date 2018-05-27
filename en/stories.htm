@@ -1,5 +1,5 @@
 <p>
-  <div class="row">
+<!--  <div class="row">
     <div class="col-md-3">
       <h4 align=center>Contents</h4>
       <ul ng-repeat="story in stories">
@@ -7,11 +7,17 @@
       </ul>
     </div>
     <div class="col-md-9">
+      <story-item ng-repeat="story in stories" foo={{story}}>
+        </story-item>
+      
       <div class="jumbotron">
         <h2>{{ chosenStory[0][1] }}</h2>
         <hr>
         <div ng-include="'/en/stories/' + chosenStory[0][0] + '.htm'"></div>
       </div>
     </div>
-  </div>
+  </div>-->
+  <story-item
+    ng-repeat="story in stories">
+  </story-item>
 </p>
