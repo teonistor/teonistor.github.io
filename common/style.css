@@ -113,7 +113,7 @@ td,th {
 td.suhclogtime {
   text-align: center;
   vertical-align: top;
-  width: 70px;
+  padding-right: 1em;
 }
 
 .expandable:after {
