@@ -848,7 +848,15 @@
       },
       {
         "time": "10:25",
-        "event": "Minibus 1 arrives. Tom: You overtook us twice, we never overtook you, yet we arrived first! James: Yea, we took a wrong turn…"
+        "event": "Minibus 1 arrives."
+      },
+      {
+        "time": "",
+        "event": "Tom: You overtook us twice, we never overtook you, yet we arrived first!"
+      },
+      {
+        "time": "",
+        "event": "James: Yea, we took a wrong turn…"
       },
       {
         "time": "10:43",
@@ -1592,7 +1600,11 @@
       },
       {
         "time": "2.02",
-        "event": "Serena: There is some toilet paper, but I think it's in the other minibus. Teo: There is some in the toilets, but it's soggy. And there's a caterpillar in the sink, but other than that all good."
+        "event": "Serena: There is some toilet paper, but I think it's in the other minibus."
+      },
+      {
+        "time": "",
+        "event": "Teo: There is some in the toilets, but it's soggy. And there's a caterpillar in the sink, but other than that all good."
       },
       {
         "time": "2.30",
