@@ -1,5 +1,130 @@
 [
   {
+    "name": "Jurassic Coast Trip",
+    "date": "2018-06-02",
+    "ringLeader": "Matt,Serena",
+    "committeeCount": 7,
+    "headCount": 46,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "08:59",
+        "event": "We depart from the uni"
+      },
+      {
+        "time": "09:13",
+        "event": "On the motorway we encounter a Harry-Potter-style bus carrying plants"
+      },
+      {
+        "time": "10:12",
+        "event": "Unfortunate woman waves us down for petrol or for directions to the nearest petrol station, of which we can offer neither"
+      },
+      {
+        "time": "10:13",
+        "event": "What stranger road signs could you encounter than:"
+      },
+      {
+        "time": "",
+        "event": "“Sudden gunfire”"
+      },
+      {
+        "time": "",
+        "event": "“Tanks crossing”"
+      },
+      {
+        "time": "10:26",
+        "event": "Reach Lulworth car park"
+      },
+      {
+        "time": "10:48",
+        "event": "Groups organisation: a short/medium group of 27 (myself included) and a long group of 19. Thus we start walking"
+      },
+      {
+        "time": "10:59",
+        "event": "At the small Lulworth Cove beach we backtrack and pick a different path uphill"
+      },
+      {
+        "time": "11:27",
+        "event": "Break in the fog; draw distance 30m"
+      },
+      {
+        "time": "11:43",
+        "event": "Dog heads towards a water recipient but instead of just drinking jumps in."
+      },
+      {
+        "time": "",
+        "event": "Lee: That is a metaphor for my life right now"
+      },
+      {
+        "time": "11:47",
+        "event": "Reaching a street, somebody has the impression that there should be 28 in our group and we are missing a person. We repeatedly count 27 heads. But according to the above we're supposed to be 27, and on that observation we resume walking."
+      },
+      {
+        "time": "12:17±5",
+        "event": "Break"
+      },
+      {
+        "time": "★",
+        "event": "Vote to continue pushing forward rather than have lunch in thick clouds by a massive pile of horse shit"
+      },
+      {
+        "time": "13:19±3",
+        "event": "Break"
+      },
+      {
+        "time": "13:41",
+        "event": "Lunch break, still in the clouds"
+      },
+      {
+        "time": "14:24",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "15:22±4",
+        "event": "Break"
+      },
+      {
+        "time": "15:58±6",
+        "event": "Break before what we think to be the final descent before Durdle Door"
+      },
+      {
+        "time": "16:10",
+        "event": "We progress through the fog and an extraneous hill is revealed which we had forgotten about"
+      },
+      {
+        "time": "16:16",
+        "event": "We meet the long group above Durdle Door beach, which they'd already been to. A whole bunch then split in search for toilets, while the remaining long group start walking a final loop."
+      },
+      {
+        "time": "16:35–17:10",
+        "event": "Gone swimming"
+      },
+      {
+        "time": "17:19",
+        "event": "Everyone reunites on the beach"
+      },
+      {
+        "time": "17:45±2",
+        "event": "Group picture with the arch"
+      },
+      {
+        "time": "17:56",
+        "event": "Izzy calls names from the list to ensure everyone is present. Then we leave the beach for the final stretch towards the fish&chips shop"
+      },
+      {
+        "time": "18:30",
+        "event": "Fish&chips"
+      },
+      {
+        "time": "19:56",
+        "event": "Minibus 2 leaves car park"
+      },
+      {
+        "time": "21:12",
+        "event": "Minibus 2 arrives at Highfield Interchange"
+      }
+    ]
+  },{
     "name": "Clarendon Day Walk",
     "date": "2018-05-26",
     "start": "Dean",
