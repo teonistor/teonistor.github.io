@@ -1,5 +1,205 @@
 [
   {
+    "name": "Midsummer Evening Walk",
+    "date": "2018-06-23",
+    "start": "Beaulieu Road",
+    "finish": "Brockenhurst",
+    "ringLeader": "Thomas",
+    "headCount": 29,
+    "committeeCount": 2,
+    "km": 14,
+    "checkpoints": [
+      {
+        "time": "18:35",
+        "event": "Dinner for 3 at Subway (London Rd)"
+      },
+      {
+        "time": "19:44",
+        "event": "Walk begins with 28 people"
+      },
+      {
+        "time": "20:02",
+        "event": "We lost 22 people already! No, they're just way behind."
+      },
+      {
+        "time": "20:03",
+        "event": "Thomas has to speak with the person with the taxi. Yes, there is someone catching up with us by taxi."
+      },
+      {
+        "time": "20:10",
+        "event": "Richard: We have to stop here, 'cause I already see people half a mile back."
+      },
+      {
+        "time": "★",
+        "event": "Tim joins via taxi"
+      },
+      {
+        "time": "20:59",
+        "event": "Flip a coin to decide which way to go"
+      },
+      {
+        "time": "21:23",
+        "event": "We open a gate and walk into an area protected from deer. There is no gate on the other side. We turn back."
+      },
+      {
+        "time": "★",
+        "event": "Katawaredoki – sky looks beautiful"
+      },
+      {
+        "time": "22:15",
+        "event": "Sitting-down break, but not many listen to the advice of sitting down"
+      },
+      {
+        "time": "★",
+        "event": "Still Katawaredoki? Sky looks even beautifuller (is that a word?)"
+      },
+      {
+        "time": "★",
+        "event": "We don't want to reach Brockenhurst station too little after the 22:42 train, so we decide to take a fucking break and stargaze despite thick clouds"
+      },
+      {
+        "time": "23:07",
+        "event": "Me and 3 others, at the very front, fail to seek directions from the man with the map and take a wrong turn (or should I say lack of a turn)"
+      },
+      {
+        "time": "23:20",
+        "event": "We realise the others are no longer behind us, check some electronic maps, and start doubling back at faster pace"
+      },
+      {
+        "time": "23:20",
+        "event": "We're back at the point of failure and now take the correct turn"
+      },
+      {
+        "time": "23:25",
+        "event": "We run"
+      },
+      {
+        "time": "23:28",
+        "event": "We stop running"
+      },
+      {
+        "time": "23:33",
+        "event": "We almost take another wrong turn. I pray to God I'm remembering the train time wrong (spoiler alert, I'm not)"
+      },
+      {
+        "time": "23:38",
+        "event": "Meanwhile, 3 people make it to the station in time, by running the final stretch. One of them is Thomas, who nobly allows the train to pass, awaiting the rest of us."
+      },
+      {
+        "time": "23:42",
+        "event": "A further 12 people arrive at the station"
+      },
+      {
+        "time": "23:44",
+        "event": "Ahead of the other 3 from the now tailing group, I reach the last stretch of road and start running like crazy, oblivious to the fact that the train has already left (my internet won't connect to let me find that fact out)"
+      },
+      {
+        "time": "★",
+        "event": "A further 10 people arrive at the station and some start taking taxis back to Southampton"
+      },
+      {
+        "time": "23:49",
+        "event": "I emerge from the forest right by the station and level crossing just as the penultimate train to Poole pulls in. I cross the bridge and see in horror the panel on the platform towards Southampton showing no next train; then I'm surprised to see some of our people on the north side of the station"
+      },
+      {
+        "time": "23:55",
+        "event": "Final 3 people arrive. We get into taxis, except for Thomas and 2 others who decide an extra 4 hours' walk to Southampton would be nice for some reason."
+      },
+      {
+        "time": "00:23",
+        "event": "Arriving at Central Station, we fumble about for cash and debate continuing home by taxi, pondering the cost"
+      },
+      {
+        "time": "00:25",
+        "event": "Magical U1E appears! Walk ends. Turns out even Thomas didn't walk after all. "
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Richard",
+        "what": "We got a lot more people for this walk than we would for normal day walks during term time!"
+      }
+    ]
+  },{
+    "date": "2018-06-16",
+    "start": "Chichester",
+    "finish": "Chichester",
+    "ringLeader": "Harry"
+  },{
+    "name": "Cornwall Away Trip",
+    "date": "2018-06-11 – 13"
+  },{
+    "date": "2018-06-09",
+    "start": "Tisbury",
+    "finish": "Tisbury",
+    "ringLeader": "Thomas",
+    "headCount": 9,
+    "committeeCount": 1,
+    "checkpoints": [
+      {
+        "time": "10:07",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:31",
+        "event": "Dog in the way, answer 3 questions"
+      },
+      {
+        "time": "10:41",
+        "event": "Fig roll break"
+      },
+      {
+        "time": "11:02",
+        "event": "Stylish stile"
+      },
+      {
+        "time": "11:18",
+        "event": "Brown"
+      },
+      {
+        "time": "11:21",
+        "event": "Wiltshire Regiment badge"
+      },
+      {
+        "time": "11:46",
+        "event": "We are attacked by a living poltergate"
+      },
+      {
+        "time": "12:34-12:56",
+        "event": "Lunch break"
+      },
+      {
+        "time": "13:29",
+        "event": "Wardour Castle"
+      },
+      {
+        "time": "13:36",
+        "event": "where we meet 2 train missers"
+      },
+      {
+        "time": "13:54",
+        "event": "New Wardour Castle"
+      },
+      {
+        "time": "14:08-14:16",
+        "event": "Discount Playzone social / schoolyard"
+      },
+      {
+        "time": "15:00",
+        "event": "Nettles are so tall and dense and widespread I can't even fini"
+      },
+      {
+        "time": "15:16",
+        "event": "Walk ends in central Tisbury"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "“Sightseeing tour guide” has never been in the job description of the Day Walk Secretary; however, I welcome the addition. People who don't understand hiking for the sake of hiking often ask “What did you see?” So with some landmark discussion we can answer those questions, and talk about the walk to non-walkers."
+      }
+    ]
+  },{
     "name": "Jurassic Coast Trip",
     "date": "2018-06-02",
     "ringLeader": "Matt,Serena",
