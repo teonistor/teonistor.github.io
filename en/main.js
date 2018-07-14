@@ -193,18 +193,26 @@ tnmod.controller ('suhc', ['$scope', '$location', '$rootScope', '$routeParams', 
 
     $http.get('/en/suhc/log.json').then(function(r) {
         $scope.walks = r.data;
-	for (var i=0; i<$scope.walks.length; i++) {
-	  $scope.walks[i].expanded = false;
-	}
+        for (var i=0; i<$scope.walks.length; i++) {
+          $scope.walks[i].expanded = false;
+        }
     });
 
     $http.get('/en/suhc/quotes.json').then(function(r) {
+      // Shuffle each batch within
       for (var i=0; i < r.data.length; i++)
-        swap (r.data,
-              Math.floor(Math.random() * r.data.length),
-              Math.floor(Math.random() * r.data.length));
+        for (var j=0; j < r.data[i].length; j++)
+          swap (r.data[i],
+              Math.floor(Math.random() * r.data[i].length),
+              Math.floor(Math.random() * r.data[i].length));
 
-      $scope.quotes = r.data;
+      // Flatten batches starting with last
+      $scope.quotes = [];
+      for (var i = r.data.length-1; i >= 0; i--)
+        for (var j=0; j < r.data[i].length; j++)
+          $scope.quotes.push(r.data[i][j]);
+
+      console.log('Read Quotes data: ', $scope.quotes);
     });
   }
 ]);
