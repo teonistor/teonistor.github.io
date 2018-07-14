@@ -1,5 +1,130 @@
 [
   {
+    "name": "Devil's Punch Bowl",
+    "date": "2018-07-14",
+    "start": "Haslemere",
+    "finish": "Haslemere",
+    "ringLeader": "Serena",
+    "headCount": 12,
+    "committeeCount": 1,
+    "km": 13,
+    "checkpoints": [
+      {
+        "time": "9:13",
+        "event": "Train taken (Southern on time!)"
+      },
+      {
+        "time": "10:07",
+        "event": "Second train taken"
+      },
+      {
+        "time": "10:48",
+        "event": "Walk begins"
+      },
+      {
+        "time": "11:50",
+        "event": "That hill!"
+      },
+      {
+        "time": "12:02",
+        "event": "Emerge on a road"
+      },
+      {
+        "time": "12:26",
+        "event": "Philosophical transactions by the “How the Devil's Punch Bowl got its name” panel, followed by “Which way is north” debate"
+      },
+      {
+        "time": "12:34",
+        "event": "Serena: I found a bog!!! This is an actual hillwalk now!"
+      },
+      {
+        "time": "12:50 – 13:18",
+        "event": "Lunch break"
+      },
+      {
+        "time": "★",
+        "event": "We observe the Devil's Punch Bowl Valley from a vantage point"
+      },
+      {
+        "time": "15:03",
+        "event": "We find ourselves back on a road where we were previously following a loop-o-lost navigation error"
+      },
+      {
+        "time": "15:13",
+        "event": "Royal School of Haslemere"
+      },
+      {
+        "time": "16:00",
+        "event": "Walk ends at the Station House – potentially the fanciest pub we've ever ended up in at the end of a walk this year, and stayed."
+      }
+    ]
+  },{
+    "name": "Unofficial Official New Milton Circular",
+    "date": "2018-06-30",
+    "start": "New Milton",
+    "finish": "New Milton",
+    "ringLeader": "Richard",
+    "headCount": 3,
+    "committeeCount": 0,
+    "checkpoints": [
+      {
+        "time": "10:31",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:45 – 10:51",
+        "event": "Charity bookshop calamity"
+      },
+      {
+        "time": "11:09",
+        "event": "We already got lost because Richard forgot the map on the train"
+      },
+      {
+        "time": "11:33",
+        "event": "Target practice"
+      },
+      {
+        "time": "11:40",
+        "event": "Send nudes"
+      },
+      {
+        "time": "11:53",
+        "event": "More target practice"
+      },
+      {
+        "time": "11:57",
+        "event": "Send more nudes"
+      },
+      {
+        "time": "12:34",
+        "event": "Off the beach. Finally some silence!"
+      },
+      {
+        "time": "13:08",
+        "event": "Lunch stop at Needles Eyed Café"
+      },
+      {
+        "time": "13:19",
+        "event": "Nan brings me a glass of nothing. “Exactly as you ordered.”"
+      },
+      {
+        "time": "14:02",
+        "event": "Richard: All I want to do now is put my head on this table and dose off."
+      },
+      {
+        "time": "14:46",
+        "event": "((Very) long) lunch break ends"
+      },
+      {
+        "time": "16:50",
+        "event": "PoundStore calamity"
+      },
+      {
+        "time": "17:04",
+        "event": "Walk ends at New Milton station"
+      }
+    ]
+  },{
     "name": "Midsummer Evening Walk",
     "date": "2018-06-23",
     "start": "Beaulieu Road",
