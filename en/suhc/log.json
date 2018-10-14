@@ -1,5 +1,120 @@
 [
   {
+    "name": "Isle of Wight Day Walk",
+    "date": "2018-10-13",
+    "start": "Yarmouth, Isle of Wight",
+    "finish": "Yarmouth, Isle of Wight",
+    "ringLeader": "All",
+    "headCount": 155,
+    "committeeCount": 9,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "8:43",
+        "event": "A record-breaking 15 minutes from the door of the house to the ticket machine outside Bournemouth station (north side)"
+      },
+      {
+        "time": "",
+        "event": "Meanwhile, a large (huge (massive (immense (100+ people)))) group make their way from Southampton"
+      },
+      {
+        "time": "9:22",
+        "event": "We arrive at Lymington Pier"
+      },
+      {
+        "time": "9:52",
+        "event": "Subsequent train increases our numbers to 155"
+      },
+      {
+        "time": "9:59",
+        "event": "Most of us are still trying to get onto the ferry"
+      },
+      {
+        "time": "11:10",
+        "event": "On a second ferry, everyone makes it to Yarmouth"
+      },
+      {
+        "time": "11:25",
+        "event": "Announcement by Thomas regarding the organisation of the day"
+      },
+      {
+        "time": "11:27",
+        "event": "Walk begins"
+      },
+      {
+        "time": "12:23",
+        "event": "Compacting break at ~4.5km, which ends for some before beginning for others"
+      },
+      {
+        "time": "12:40",
+        "event": "Invisible sea monsters, having eaten the beaches whole, now splash us with walls of salty water 3 meters high"
+      },
+      {
+        "time": "12:59",
+        "event": "Lunch break in the only place where the beach was not entirely obliterated"
+      },
+      {
+        "time": "13:27",
+        "event": "Lunch break very precisely ends"
+      },
+      {
+        "time": "13:57",
+        "event": "Needles distant views"
+      },
+      {
+        "time": "14:06",
+        "event": "Needles slightly less distant view"
+      },
+      {
+        "time": "14:27",
+        "event": "A choice is made by some to take the murderous path uphill…"
+      },
+      {
+        "time": "",
+        "event": "Thomas: That's not the way unless you're mad!"
+      },
+      {
+        "time": "14:36",
+        "event": "…and the murderous path is survived by all."
+      },
+      {
+        "time": "14:58",
+        "event": "Tennyson Monument reached… by most"
+      },
+      {
+        "time": "★",
+        "event": "Big group photo"
+      },
+      {
+        "time": "15:53",
+        "event": "Another compacting break near the egg-shaped apocalypse natural aesthetica"
+      },
+      {
+        "time": "16:06",
+        "event": "Break ends"
+      },
+      {
+        "time": "16:33",
+        "event": "Axioms of fish & chips are discussed"
+      },
+      {
+        "time": "17:14",
+        "event": "Back in sight of Yarmouth clock tower"
+      },
+      {
+        "time": "★",
+        "event": "Walk ends"
+      },
+      {
+        "time": "18:05",
+        "event": "Most people take the ferry"
+      },
+      {
+        "time": "19:07",
+        "event": "Beautiful train change"
+      }
+    ]
+  },{
     "name": "Fair Oak introductory walk",
     "date": "2018-10-06",
     "start": "Fair Oak",
@@ -1179,7 +1294,7 @@
       },
       {
         "time": "17:07",
-        "event": "and (while Matt R preorders through an app just to spite us... OK perhaps he was hungry)"
+        "event": "and (while Matt R preorders through an app just to spite us… OK perhaps he was hungry)"
       },
       {
         "time": "17:11",
@@ -2166,7 +2281,7 @@
       },
       {
         "time": "11.00",
-        "event": "Strong group: The complaints start to surface.... the fast walkers are too fast. The slow walkers are too slow, and no-one is keeping pace. After a brief pause the group gets going as a whole again."
+        "event": "Strong group: The complaints start to surface…. the fast walkers are too fast. The slow walkers are too slow, and no-one is keeping pace. After a brief pause the group gets going as a whole again."
       },
       {
         "time": "11.12",
