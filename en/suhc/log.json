@@ -1,12 +1,18 @@
 [
   {
+    "name": "Old Sarum walk",
+    "date": "2018-10-20",
+    "start": "Salisbury",
+    "finish": "Salisbury",
+    "headCount": 59,
+    "km": 16,
+  },{
     "name": "Isle of Wight Day Walk",
     "date": "2018-10-13",
     "start": "Yarmouth, Isle of Wight",
     "finish": "Yarmouth, Isle of Wight",
     "ringLeader": "All",
     "headCount": 155,
-    "committeeCount": 9,
     "km": 18,
     "checkpoints": [
       {
