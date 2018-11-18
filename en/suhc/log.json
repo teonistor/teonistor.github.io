@@ -1,5 +1,56 @@
 [
   {
+    "name": "Chichester Harbour Day Walk",
+    "date": "2018-11-17",
+    "start": "Emsworth",
+    "finish": "Chichester",
+    "km": 20
+  },{
+    "name": "Snowdonia National Park Away Trip",
+    "date": "2018-11-09 - 11"
+  },{
+    "name": "Winchester Treasure Hunt & Fireworks",
+    "date": "2018-11-03",
+    "start": "Winchester",
+    "finish": "Winchester",
+    "headCount": 35,
+    "checkpoints": [
+      {
+        "time": "10:03",
+        "event": "Instructions are given"
+      },{
+        "time": "10:10",
+        "event": "Instructions finish to be given and teams disperse"
+      },{
+        "time": "10:35",
+        "event": "Exactly one hour after I arrived on a CrossCountry train from Bournemouth, the next CrossCountry train can be observed in Winchester station from the vantage point of a road bridge"
+      },{
+        "time": "10:40",
+        "event": "Debate over the meaning of the clue “One of our day walk secretaries”"
+      },{
+        "time": "11:24",
+        "event": "“…and they're giving out free beer and bread!”"
+      },{
+        "time": "12:15",
+        "event": "Lunch break is triggered into existence"
+      },{
+        "time": "12:32",
+        "event": "Lunch break ends"
+      },{
+        "time": "13:55",
+        "event": "“I'm glad we didn't do this [human pyramid] at the start of the walk”"
+      },{
+        "time": "14:30",
+        "event": "We are now back on the high street and nearing the end of the challenge list with one and a half hours still to spare"
+      },{
+        "time": "15:00",
+        "event": "We declare our challenge finished"
+      },{
+        "time": "16:00",
+        "event": "Everyone has gathered in Wetherspoons. Wetherspoons is thus overfull"
+      }
+    ]
+  },{
     "name": "Isle of Wight Day Walk",
     "date": "2018-10-13",
     "start": "Yarmouth, Isle of Wight",
