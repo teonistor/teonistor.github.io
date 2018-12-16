@@ -1,5 +1,100 @@
 [
   {
+    "name": "Isle of Purbeck day walk",
+    "date": "2018-11-24",
+    "start": "Wareham",
+    "finish": "Wareham",
+    "headCount": 26,
+    "committeeCount": 5,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "10:18",
+        "event": "One impossible train connection in Bournemouth estranges an amount of walkers from the main group"
+      },{
+        "time": "10:33",
+        "event": "We seem to lose additional people… to unexplained actions."
+      },{
+        "time": "10:40",
+        "event": "Walk begins"
+      },{
+        "time": "11:32",
+        "event": "One minute pause to ponder a ready-made Christmas tree next to a thatched roof house"
+      },{
+        "time": "11:37",
+        "event": "Is that a path or a stream?"
+      },{
+        "time": "",
+        "event": "…"
+      },{
+        "time": "",
+        "event": "Thomas: So we're heading… that way! Through the stream that's a path!"
+      },{
+        "time": "12:18",
+        "event": "Break for biscuits and map examination in order to reroute for bog avoidance"
+      },{
+        "time": "12:56",
+        "event": "Top of hill, pile of rocks commemorating Mary Baxter"
+      },{
+        "time": "",
+        "event": "Harry: Ground Control to major Thomas, we are at the top of the hill."
+      },{
+        "time": "13:00-13:10",
+        "event": "Lunch break part 1, for people are hungry and it's almost not raining, but it's windy and cold nonetheless"
+      },{
+        "time": "13:29",
+        "event": "A place of peace and tranquility"
+      },{
+        "time": "13:39",
+        "event": "Corfe castle becomes visible"
+      },{
+        "time": "13:44",
+        "event": "Group picture"
+      },{
+        "time": "13:57",
+        "event": "We reach the village of Corfe castle and acquire 6 more people,"
+      },{
+        "time": "13:58",
+        "event": "but are soon to lose 3 people"
+      },{
+        "time": "13:59",
+        "event": "while Thomas explains that we have half an hour to explore the village"
+      },{
+        "time": "14:02",
+        "event": "…but the model village is closed for the winter"
+      },{
+        "time": "14:35",
+        "event": "With a 5-minute delay and after some rather dubious walkie talkie powered quarrel between female committee members, we proceed to walk again"
+      },{
+        "time": "15:28",
+        "event": "Recoordination break – all is on track"
+      },{
+        "time": "16:15",
+        "event": "It's getting dark…"
+      },{
+        "time": "16:25",
+        "event": "…and darker…"
+      },{
+        "time": "16:35",
+        "event": "…darkest."
+      },{
+        "time": "16:47",
+        "event": "“And at last I see the light…”"
+      },{
+        "time": "17:00",
+        "event": "Serena: We're getting really close to the pub now."
+      },{
+        "time": "",
+        "event": "Nick: I can smell the beer!"
+      },{
+        "time": "17:19",
+        "event": "Road, bridge, and lights… civilisation"
+      },{
+        "time": "17:30",
+        "event": "Walk ends"
+      }
+    ]
+  },{
     "name": "Chichester Harbour Day Walk",
     "date": "2018-11-17",
     "start": "Emsworth",
