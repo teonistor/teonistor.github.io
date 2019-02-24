@@ -1,5 +1,122 @@
 [
   {
+    "name": "Early 2019 Night Walk",
+    "date": "2019-02-23 - 24",
+    "start": "Shoreham-by-Sea",
+    "finish": "Brighton",
+    "ringLeader": "Thomas, Harry",
+    "headCount": 23,
+    "committeeCount": 5,
+    "km": 30,
+    "checkpoints": [
+      {
+        "time": "21:13",
+        "event": "A train leaves Southampton"
+      }, {
+        "time": "23:11",
+        "event": "Plan exposition. Walk begins"
+      }, {
+        "time": "23:29",
+        "event": "End of street lighting"
+      }, {
+        "time": "23:49",
+        "event": "Star/cloud observation stop"
+      }, {
+        "time": "23:51",
+        "event": "turned into biscuit break,"
+      }, {
+        "time": "23:53",
+        "event": "turned into coffee break"
+      }, {
+        "time": "00:10",
+        "event": "Pause for a few people to catch up and for Thomas to briefly activate the fairy lights turning his backpack into a Christmas tree. Discussion about off-shore wind energy farm visible in the distance"
+      }, {
+        "time": "00:29",
+        "event": "Chalk path approach warning. Discussion about anti-blister socks"
+      }, {
+        "time": "00:39",
+        "event": "Surprised people observe us from a settlement"
+      }, {
+        "time": "00:42",
+        "event": "Interesting Gloom on the horizon"
+      }, {
+        "time": "00:47",
+        "event": "Pause by big radio tower"
+      }, {
+        "time": "01:01",
+        "event": "Wind picks up"
+      }, {
+        "time": "01:20",
+        "event": "Longer official snack break where the wind calms down and from where a snaking motorway can be seen, as well as allegedly Gatwick airport in the far distance"
+      }, {
+        "time": "01:54",
+        "event": "Footpath hits a road with wooden indicator arrows reading: South Downs Way – River Adur 4½ mi (where we came from) / Brighton 5 mi / South Downs Way – Ditchling Beacon 15½ mi (where we're headed) / Poynings 1 mi"
+      }, {
+        "time": "02:43",
+        "event": "Halfway gate"
+      }, {
+        "time": "03:08",
+        "event": "We cross the A23"
+      }, {
+        "time": "03:20",
+        "event": "The gloomy Gloom on the horizon seems closer, and now an early-morning celestial body (Venus?) has risen right into the middle of the thing"
+      }, {
+        "time": "03:52",
+        "event": "What are windmills?"
+      }, {
+        "time": "04:00",
+        "event": "Something clicks the wrong way in my brain and I suddenly feel exhausted"
+      }, {
+        "time": "04:09",
+        "event": "The Gloom on the horizon is now more closely observed and thought to be coming from an object on the sea, which, though still unidentified, is dubbed a “party flotilla”"
+      }, {
+        "time": "04:18",
+        "event": "Pond of Reflection"
+      }, {
+        "time": "04:34",
+        "event": "We stop at a trig point to wait for the tail of the group. Climbing on it, we awfully disappointingly unequivocally conclude that the Gloom on the horizon is the stadium"
+      }, {
+        "time": "",
+        "event": "Thomas: This is the highest point in Sussex."
+      }, {
+        "time": "",
+        "event": "Serena: West Sussex?"
+      }, {
+        "time": "",
+        "event": "Thomas: […] We are now in East Sussex. We've crossed the border."
+      }, {
+        "time": "",
+        "event": "Harry: We're immigrants!"
+      }, {
+        "time": "",
+        "event": "Thomas: And this is the highest point in both Sussexes. Sussexes?... Sussexi."
+      }, {
+        "time": "05:14",
+        "event": "Discovered: Bus stop: High Park Corner. 79 towards Brighton station – Sunday & public holidays first bus 10:46"
+      }, {
+        "time": "05:25",
+        "event": "Crazy singing cyclists whizzes past"
+      }, {
+        "time": "05:51",
+        "event": "Joe: And the dawn chorus has arrived! Right on cue! Quarter to six!"
+      }, {
+        "time": "05:55",
+        "event": "Joe: I hear traffic!"
+      }, {
+        "time": "06:06",
+        "event": "Ditchling Road Bridge of great sunrise observation view"
+      }, {
+        "time": "",
+        "event": "Serena: That is some thing!"
+      }, {
+        "time": "07:25",
+        "event": "Walk ends"
+      }, {
+        "time": "07:30",
+        "event": "A train leaves Brighton"
+      }
+    ]
+  },{
     "name": "Isle of Purbeck day walk",
     "date": "2018-11-24",
     "start": "Wareham",
