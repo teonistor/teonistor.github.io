@@ -1,0 +1,4049 @@
+[
+  {
+    "name": "New Forest Marathon Walk",
+    "date": "2020-03-07",
+    "start": "Highfield Campus",
+    "finish": "Lymington",
+    "headCount": 27,
+    "km": 42,
+    "checkpoints": [
+      {
+        "time": "7:00",
+        "event": "Walk begins"
+      },{
+        "time": "★",
+        "event": "Walk happens"
+      },{
+        "time": "12:18",
+        "event": "It's the first time I hear this kind of announcement: “The next bus to depart from -- outside the station at platform 2 -- is the 12:25 South Western Railway service to Southampton Central. Calling at Southampton Central only.”"
+      },{
+        "time": "12:24:58",
+        "event": "The replacement bus (actually a coach) leaves 2 seconds early!"
+      },{
+        "time": "12:38",
+        "event": "The coach driver turns on the radio in the whole coach on BBC Radio 2. Also, it's bloody hot in here."
+      },{
+        "time": "13:00",
+        "event": "I take my own personal lunch break"
+      },{
+        "time": "13:13",
+        "event": "The coach arrives in Southampton 2 minutes early!"
+      },{
+        "time": "13:24",
+        "event": "Having seen no familiar faces on the platform, I board the train for Ashurst at the back of coach 4"
+      },{
+        "time": "13:33",
+        "event": "I get off the train and run into Tom who takes me and a few others who actually were on the train to the pub where we meet the serious people who have walked 24km so far"
+      },{
+        "time": "13:36",
+        "event": "The live rail shoe of these new(er) coaches is is totally shorting with the ground rail in the leaning curve of the station as the train departs :O"
+      },{
+        "time": "14:05",
+        "event": "We leave the pub"
+      },{
+        "time": "14:14",
+        "event": "We leave the yard of the pub, with 22 people and cross the footbridge in Ashurst station but as we do James decides not to do the latter half of the walk so we're left with 21 people"
+      },{
+        "time": "14:59",
+        "event": "Bogs!"
+      },{
+        "time": "15:30–15:42",
+        "event": "Passing Beaulieu Road; break at ⅔ of the whole way and group photo"
+      },{
+        "time": "16:09",
+        "event": "The gate's been padlocked so we're climbing over it"
+      },{
+        "time": "16:32",
+        "event": "Break"
+      },{
+        "time": "18:34",
+        "event": "It's dark and animals are howling which I'm pretty sure you don't hear howling during the day"
+      },{
+        "time": "18:50",
+        "event": "Bogs in the dark!"
+      },{
+        "time": "19:16",
+        "event": "Walk ends outside Lymington station where we meet James again and some people leave for the immediate next train"
+      },{
+        "time": "19:30",
+        "event": "We hit the Six Bells Wetherspoons"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Will",
+        "what": "This walk has set a new record for the amount of skipping in this club!"
+      },{
+        "who": "Teo",
+        "what": "Why didn't we think of bringing a portable speaker on a walk before?! We only had the away trips, or other minibus-powered events, to experience a playlist. I think Will surpassed all other social secretaries I know with this idea."
+      }
+    ]
+  },{
+    "name": "Loch Ossian (Corrour) Expedition",
+    "date": "2020-02-13 - 17",
+    "ringLeader": "Thomas, Mahmoud",
+    "headCount": 20,
+    "committeeCount": 4,
+    "checkpoints": [
+      {
+        "time": "19:59",
+        "event": "I bump into Noah on the Northern line"
+      },{
+        "time": "20:17",
+        "event": "We run into Thomas at a shop in Euston station, then soon into a lot of others"
+      },{
+        "time": "21:15",
+        "event": "Caledonian Sleeper leaves, as planned"
+      },{
+        "time": "9:00",
+        "event": "We get off the Caledonian Sleeper. It's so desolate and quiet! Even the train leaving is quiet."
+      },{
+        "time": "9:31",
+        "event": "Thomas and the back lot are having a conference on the road"
+      },{
+        "time": "9:?",
+        "event": "We reach the hostel"
+      },{
+        "time": "10:22–?",
+        "event": "Breakfast & walks organisation"
+      },{
+        "time": "10:42",
+        "event": "Thomas heads for the station to retrieve more people"
+      },{
+        "time": "10:46",
+        "event": "Simon, Mahmoud etc head for the mountainous walk"
+      },{
+        "time": "11:11",
+        "event": "Jenny etc (“we”) head for the loch walk – anticlockwise"
+      },{
+        "time": "★",
+        "event": "Thomas retrieves later train arrivers and brings them to the hostel"
+      },{
+        "time": "★",
+        "event": "Simon abandons his group with a view to hijack our loch walk"
+      },{
+        "time": "12:06",
+        "event": "Thomas etc leave hostel heading clockwise around the loch"
+      },{
+        "time": "12:36",
+        "event": "We reach some posh accommodation-y buildings"
+      },{
+        "time": "12:41",
+        "event": "Top of the loch (map-wise)"
+      },{
+        "time": "12:50",
+        "event": "Lunch at a lochside hut locked on one side but open on the other"
+      },{
+        "time": "13:00",
+        "event": "Simon catches up"
+      },{
+        "time": "13:13",
+        "event": "Lunch break ends"
+      },{
+        "time": "14:25",
+        "event": "The wind is shooting bits of ice into our faces!"
+      },{
+        "time": "14:46",
+        "event": "We reach bridge over stream at near side of loch"
+      },{
+        "time": "14:55",
+        "event": "Mahmoud etc radio in saying everything is going to plan; much stronger wind can be heard from their side"
+      },{
+        "time": "15:00",
+        "event": "We return to the hostel"
+      },{
+        "time": "15:42",
+        "event": "Radio contact"
+      },{
+        "time": "16:02",
+        "event": "Noah appears"
+      },{
+        "time": "16:40",
+        "event": "Briefing from Tom the hostel master"
+      },{
+        "time": "16:44",
+        "event": "Mahmoud etc return"
+      },{
+        "time": "★",
+        "event": "Game of Pun Intended"
+      },{
+        "time": "19:10",
+        "event": "We begin to cook"
+      },{
+        "time": "19:30–20:00",
+        "event": "Ongoing arguments about salt"
+      },{
+        "time": "20:10",
+        "event": "Food served"
+      },{
+        "time": "20:54",
+        "event": "Thomas etc go to the station to pick up the most late arrivers"
+      },{
+        "time": "★",
+        "event": "Thomas etc return with only Krzysztof!"
+      },{
+        "time": "23:37",
+        "event": "We sleep"
+      },{
+        "time": "7–8:?",
+        "event": "We wake up and eat"
+      },{
+        "time": "★",
+        "event": "Thomas goes to the station for the nth time and returns with the mostest latest arrivers"
+      },{
+        "time": "10:00",
+        "event": "Walks organisation"
+      },{
+        "time": "10:35",
+        "event": "Thomas etc head for mountainous walk"
+      },{
+        "time": "11:24",
+        "event": "Simon, Jenny etc (“we”) head for the Simon Walk, with some lodge ruins as destination"
+      },{
+        "time": "12:12",
+        "event": "We can see the lodge we're heading to in the distance"
+      },{
+        "time": "12:24",
+        "event": "And now if you look back you can see Corrour station!"
+      },{
+        "time": "12:32",
+        "event": "As a train passes we realise we were looking at the wrong lodge. Sorry, not wrong – just different to the one on the map; this one is close to the railway. Well it's technically on the way to the correct lodge :|"
+      },{
+        "time": "12:36",
+        "event": "The most leap-of-faith-y bridge in the county"
+      },{
+        "time": "12:40",
+        "event": "We reach said wrong lodge and have lunch in the slight shelter offered by its ceilingless walls"
+      },{
+        "time": "★",
+        "event": "We leave aiming to walk via saddle, by river which implies boggy lands"
+      },{
+        "time": "13:38",
+        "event": "Water everywhere and lands too boggy for the average footwear, so we decide to turn back the way we came, hence doing the Discount Simon Walk after all"
+      },{
+        "time": "14:34",
+        "event": "We're at a stone's throw from the hostel and I decide to take a detour via the station to use the WiFi"
+      },{
+        "time": "14:55",
+        "event": "I'm at the station downloading all the latest messages and memes and two cyclists genuinely waiting for the train appear and start offering me food because I must be looking like a drenched hobo or something"
+      },{
+        "time": "15:10",
+        "event": "The latest memes are daft and I leave"
+      },{
+        "time": "15:30",
+        "event": "I'm back at the hostel"
+      },{
+        "time": "17:54",
+        "event": "Radio contact from Thomas etc who say to be an hour away"
+      },{
+        "time": "★",
+        "event": "Game of Cards Against Humanity with explanations of every word and phrase by Matt Thesaurus; makes me ponder how we get to know so many dirties which sound so cringy when “taught”"
+      },{
+        "time": "18:51",
+        "event": "Thomas etc return"
+      },{
+        "time": "20:04",
+        "event": "We eat"
+      },{
+        "time": "22:01",
+        "event": "We really eat"
+      },{
+        "time": "23:50",
+        "event": "I go to sleep and everybody else seems to have already done so"
+      },{
+        "time": "7:51",
+        "event": "Lights on"
+      },{
+        "time": "8:59",
+        "event": "Iceberg on the loch"
+      },{
+        "time": "9:14",
+        "event": "It's snowing horizontally and Mahmoud & Harry leave for the mountainous walk"
+      },{
+        "time": "10:04",
+        "event": "Noah heads off on his own"
+      },{
+        "time": "11:15",
+        "event": "Simon etc (“we”) leave for a peak, followed by Thomas etc a few minutes later"
+      },{
+        "time": "12:00",
+        "event": "We have begun a steep ascent for a few minutes and it's difficult because the snow is randomly deep; otoh the rocky cliff shields us from the wind"
+      },{
+        "time": "12:21",
+        "event": "We reach summit and meet Thomas etc who overtook us by climbing the other side of the peak. Their path was of more constant difficulty whereas ours was easy then hard. Wind! My sense of verticality is destroyed"
+      },{
+        "time": "★",
+        "event": "Noah returns to the hostel"
+      },{
+        "time": "12:42",
+        "event": "We decide which way to descend"
+      },{
+        "time": "12:48",
+        "event": "We begin the descent"
+      },{
+        "time": "13:30",
+        "event": "Back at the hostel"
+      },{
+        "time": "13:39",
+        "event": "Thomas etc return to hostel"
+      },{
+        "time": "13:50",
+        "event": "Some start leaving for the station"
+      },{
+        "time": "14:27",
+        "event": "We all leave for the station"
+      },{
+        "time": "14:55",
+        "event": "I reach the station but a stupid hail storm has been hitting my face for the past half hour and there's literally frozen snow all over my coat so don't even talk to me I hate everything"
+      },{
+        "time": "15:26",
+        "event": "The train!"
+      },{
+        "time": "15:40",
+        "event": "Many thanks to the person who left a half-full bottle of real fruit juice on the train table"
+      },{
+        "time": "16:40",
+        "event": "Also thanks to the lady on the train who suggested that we go to Cobb's pub near Fort William station, wherein I am now sipping out of a bottle of Newcastle"
+      },{
+        "time": "17:47",
+        "event": "Seeing that the others are planning to stay in the pub for another half an hour, I head out for a stroll because clearly I haven't had enough walking over the past three days"
+      },{
+        "time": "16:52",
+        "event": "I've only been in Fort William for 5 minutes and I already agree with the people who hate the recently built dual carriageway because I'd prefer to be able to walk along the water without jumping over fences which are clearly there not to be jumped over"
+      },{
+        "time": "17:01",
+        "event": "I walk around the outside of the Old Fort. Unfortunately there is no way back to street level on that side so I have to walk back round again"
+      },{
+        "time": "18:16",
+        "event": "I return to the pub"
+      },{
+        "time": "18:44",
+        "event": "We board the Caledonian Sleeper"
+      },{
+        "time": "19:59",
+        "event": "Mahmoud & Harry join us on the Caledonian Sleeper"
+      },{
+        "time": "22:23–23:23",
+        "event": "We waste time in Garelochhead because there's a flood up ahead and the driver is waiting for it to dry out I guess?"
+      },{
+        "time": "8:34",
+        "event": "Me (walking out of Waterloo tube): Shit, I'm gonna miss the 8:35 I have advance ticket for!"
+      },{
+        "time": "",
+        "event": "Announcer: The 8:35 […] is delayed due to fallen trees. We apologise for the inconvenience."
+      },{
+        "time": "",
+        "event": "Me: Oh, no, not at all – I thank you for the convenience!"
+      }
+    ]
+  },{
+    "date": "2020-02-08",
+    "start": "Lymington",
+    "finish": "Lymington",
+    "ringLeader": "John",
+    "headCount": 44,
+    "committeeCount": 6,
+    "km": 22,
+    "checkpoints": [
+      {
+        "time": "9:51",
+        "event": "Walk begins"
+      },{
+        "time": "9:56",
+        "event": "Immediate toilet stop"
+      },{
+        "time": "10:20",
+        "event": "We're lost"
+      },{
+        "time": "10:26",
+        "event": "We're split"
+      },{
+        "time": "10:31",
+        "event": "They're lost"
+      },{
+        "time": "10:41",
+        "event": "We are whole"
+      },{
+        "time": "12:01",
+        "event": "The Gun Inn – parking & toilets"
+      },{
+        "time": "12:29",
+        "event": "Bridge"
+      },{
+        "time": "12:57",
+        "event": "Lunch"
+      },{
+        "time": "14:22",
+        "event": "Back to the Gun Inn"
+      },{
+        "time": "15:15",
+        "event": "Bogs!"
+      },{
+        "time": "16:00",
+        "event": "Walk ends at the Six Bells"
+      }
+    ]
+  },{
+    "date": "2020-01-11",
+    "start": "Bournemouth",
+    "finish": "Christchurch",
+    "headCount": 27,
+    "committeeCount": 4,
+    "km": 13,
+    "checkpoints": [
+      {
+        "time": "10:15",
+        "event": "Walk begins"
+      },{
+        "time": "10:28",
+        "event": "Lansdowne"
+      },{
+        "time": "10:41",
+        "event": "East Cliff beach"
+      },{
+        "time": "",
+        "event": "There are two piers. Not just at 10:41; there are always two piers."
+      },{
+        "time": "11:04",
+        "event": "Boscombe Pier, and wait for a few people from one train later to catch up"
+      },{
+        "time": "11:31",
+        "event": "Portman Ravine"
+      },{
+        "time": "12:26",
+        "event": "Lunch in the windiest clifftop imaginable"
+      },{
+        "time": "13:44",
+        "event": "1"
+      },{
+        "time": "13:55",
+        "event": "Walk ends"
+      }
+    ]
+  },{
+    "date": "2019-12-14",
+    "start": "Winchester",
+    "finish": "Winchester",
+    "headCount": 19,
+    "km": 29,
+    "checkpoints": [
+      {
+        "time": "9:35",
+        "event": "Walk begins"
+      },
+      {
+        "time": "9:38",
+        "event": "In-city orientation is not our strong suit, underpass reports"
+      },
+      {
+        "time": "9:52",
+        "event": "At the cathedral we realise we came to the cathedral for nothing, since the people we were hoping to meet here aren't here"
+      },
+      {
+        "time": "10:46",
+        "event": "We meet 3 more people at Cart&Horses (after 2km)"
+      },
+      {
+        "time": "11:20",
+        "event": "We wait for 4 more people to join us in an anonymous place with a most (in)secure shed door at the street corner"
+      },
+      {
+        "time": "11:27",
+        "event": "But then we leave anyway"
+      },
+      {
+        "time": "★",
+        "event": "At some point we acquire the extra people somehow"
+      },
+      {
+        "time": "12:17",
+        "event": "We meet and exchange map information with two people from Winchester Ramblers"
+      },
+      {
+        "time": "12:55–13:20",
+        "event": "Lunch near nice but closed church"
+      },
+      {
+        "time": "14:30",
+        "event": "OMG so much clay!"
+      },
+      {
+        "time": "★",
+        "event": "At some point we acquire Nick"
+      },
+      {
+        "time": "14:52",
+        "event": "John claims we have 2.5 hrs to go, while Thomas says only 1.5"
+      },
+      {
+        "time": "16:51",
+        "event": "Walk basically ends (intersection in Winchester) so by this measurement Thomas was less wrong"
+      },
+      {
+        "time": "17:09",
+        "event": "Walk really ends (Wetherspoons) so by this measurement John was less wrong"
+      }
+    ]
+  },{
+    "name": "Gloriously rainy Salisbury walk",
+    "date": "2019-10-26",
+    "start": "Salisbury",
+    "finish": "Salisbury",
+    "ringLeader": "Tom D",
+    "headCount": 19,
+    "committeeCount": 3,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "10:21",
+        "event": "Walk begins"
+      },{
+        "time": "10:30",
+        "event": "Swans"
+      },{
+        "time": "10:34",
+        "event": "More swans"
+      },{
+        "time": "11:13",
+        "event": "Dead squirrel"
+      },{
+        "time": "11:37",
+        "event": "Halfway point of the south loop"
+      },{
+        "time": "12:55",
+        "event": "End of main loop (10km) at cathedral structure and supposedly lunch break / visit time"
+      },{
+        "time": "13:50",
+        "event": "9 people (both day walk secretaries included) are mental/brave/determined enough to proceed with the second half of the walk"
+      },{
+        "time": "14:04",
+        "event": "The other 9 people have gone to the station and I'm sitting in Wetherspoons, where they have the audacity to have run out of beef burgers"
+      }
+    ]
+  },{
+    "date": "2019-10-05",
+    "start": "The Bargate (Southampton)",
+    "finish": "Bursledon",
+    "ringLeader": "Tom D",
+    "headCount": 57,
+    "committeeCount": 5,
+    "km": 15,
+    "checkpoints": [
+      {
+        "time": "9.33",
+        "event": "Walk begins"
+      },
+      {
+        "time": "9.55",
+        "event": "We discover that Matt D. missed the start and wants to catch up with us, but upon catching up he decides against joining the walk"
+      },
+      {
+        "time": "10.29",
+        "event": "Middle of Itchen Bridge"
+      },
+      {
+        "time": "10.58",
+        "event": "Netley Abbey ruins"
+      },
+      {
+        "time": "11.24",
+        "event": "Group photo outside Netley Abbey ruins"
+      },
+      {
+        "time": "11.27",
+        "event": "Leave Netley Abbey ruins"
+      },
+      {
+        "time": "11.55",
+        "event": "Lunch break – the earliest ever!"
+      },
+      {
+        "time": "12.33",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13.33",
+        "event": "We've just come into Hamble"
+      },
+      {
+        "time": "14.20",
+        "event": "Tom D.: We are just north, on the map, of the “a” in “Mallards Moor”. We just crossed the little stream."
+      },
+      {
+        "time": "14.38",
+        "event": "Walk ends and extroductory speech by Tom D. and Will"
+      }
+    ]
+  },{
+    "name": "The Lake District Trip - October 2019",
+    "date": "Friday 4th - Sunday 6th October 2019",
+    "headCount": 29,
+    "committeeCount": 4,
+    "checkpoints": [
+      {
+        "time": "15:30",
+        "event": "A big bag and a bigger box shuffle past Portswood Primary. Local school children report seeing a man beneath them, loaded with numerous knock-off bargain sleeping bags. They are quite heavy."
+      },
+      {
+        "time": "16:00",
+        "event": "Most trip-goers are stood beneath the Shop canopy on Redbrick in heavy rain, waiting for a Minibus."
+      },
+      {
+        "time": "16:10",
+        "event": "A Minibus arrives."
+      },
+      {
+        "time": "16:15",
+        "event": "Another Minibus arrives and blocks off a G4S cash transfer driver."
+      },
+      {
+        "time": "16:30",
+        "event": "Minibuses loaded. Sleeping bags thrown up to roof racks with increasing force allowing us to witness projectile motion. Trip-goers are given the choice of either a minibus or a rollercoaster."
+      },
+      {
+        "time": "16:45",
+        "event": "Traffic on M3 avoided via the Matt Clark’s Home back route."
+      },
+      {
+        "time": "19:00",
+        "event": "Stop at Bicester Outlet Village. No, sorry, the Tesco next door. Trip-goers experience Oxfordshire shopping at it’s finest. Music in the Unlucky Minibus changes from Nick’s Queen to Jenny’s Fake Abba. Music in the Terrifying Minibus is still Techno Hits (3 CD Collection), which will never seem to end."
+      },
+      {
+        "time": "~21:00",
+        "event": "Stop in Stoke on Trent, also at a Tesco. Stoke’s drivers are a menace. Anna attempts to make use of El Pres’s Driving License as ID - this is not successful as El Pres is not a twelve year old."
+      },
+      {
+        "time": "21:30",
+        "event": "Newcastle Under Lyme has a few too many roundabouts. Serena (the disembodied GPS voice) reminds us to take the second exit straight on."
+      },
+      {
+        "time": "23:30",
+        "event": "M6 Closed. Sudden diversion onto A6 causes chaos solved only by Tom Tom and MattNav working in harmony. Arrival at Truckhaven Carnforth. MattNav finds out the diesel pumps are a little too excitable and spray everywhere, turning jeans into branded Diesel jeans."
+      },
+      {
+        "time": "00:00",
+        "event": "Terrifying Minibus goes on a ride through the Central Lakes. People of Ambleside watch a fully loaded bus career through the town at precisely 62mph: conveniently just the speed needed to avoid the local speed camera. Unlucky Minibus tootles up the M6, admiring the very dark non-views."
+      },
+      {
+        "time": "00:45",
+        "event": "Near Keswick, both minibuses find the Racetrack of the A66. Jenny finds a ‘need for speed’."
+      },
+      {
+        "time": "01:15",
+        "event": "Terrifying Minibus arrives at the postcode. Too bad the postcode is half a km down the wrong track, through a gate at an unfordable stream. Other minibus avoids issue by using a map."
+      },
+      {
+        "time": "01:30",
+        "event": "Convoy arrives. Chaos of everyone choosing a room avoided by having to first find the room."
+      },
+      {
+        "time": "02:00",
+        "event": "Everyone asleep?"
+      },
+      {
+        "time": "03:00",
+        "event": "Star gazers aren't asleep, they're busy trying long(er) exposures"
+      },
+      {
+        "time": "07:00",
+        "event": "With military precision, the early risers room of two wakes up."
+      },
+      {
+        "time": "07:00",
+        "event": "Early risers room of *three (including two star gazers)"
+      },
+      {
+        "time": "08:00",
+        "event": "Breakfast. We have a lot of apple juice, and blueberry wheats. This is good. Cats!"
+      },
+      {
+        "time": "09:00",
+        "event": "The Delightful Duo set off to walk to Styhead Pass, up the wilderness that is upper Ennerdale."
+      },
+      {
+        "time": "09:30",
+        "event": "Minibuses set off for Wasdale. Terrifying Bus takes a shortcut across the moors, Unlucky Bus goes via Sellafield for some extra scenery."
+      },
+      {
+        "time": "10:20",
+        "event": "Both minibuses reach Wast Water separately, taking in Britain’s Favourite View."
+      },
+      {
+        "time": "11:00",
+        "event": "Walkers leave Wasdale Head via very small church. Donations are given, probably propping up the village’s lucrative illegal painkiller trade."
+      },
+      {
+        "time": "11:30",
+        "event": "Nice views."
+      },
+      {
+        "time": "12:50",
+        "event": "Reach Styhead Pass where almost all the group wander down to the lake. Committee and drivers show commitment to the cause by staying put and avoiding the climb back up. Delicious Duo reappear, having descended off Great Gable."
+      },
+      {
+        "time": "13:30",
+        "event": "Corridor route is neither flat, short nor inside. On the plus side, Scafell Pike is now visible. Team Command take this opportunity to let everyone know where they’re going."
+      },
+      {
+        "time": "13:30",
+        "event": "Corridor route is flatter and shorter than other routes (an 18.1% slope: minibus friendly as per SimonSays standards)"
+      },
+      {
+        "time": "13:50",
+        "event": "“Where are we going?”"
+      },
+      {
+        "time": "~14:30",
+        "event": "Bad Step = bum slide."
+      },
+      {
+        "time": "15:15",
+        "event": "Big Rock Slide of Doom (surprisingly) doesn’t cause mass desertion. This is good, because up next is the Bigger Rock Slide of Doom."
+      },
+      {
+        "time": "15:45",
+        "event": "Summit reached, in cloud."
+      },
+      {
+        "time": "16:00",
+        "event": "Group picture!"
+      },
+      {
+        "time": "16:10",
+        "event": "El Pres. confuses the front by not sticking to plan... “Compasses cause panic” -El Pres (Before he got the title, Brighton, Feb. 2019)."
+      },
+      {
+        "time": "16:15",
+        "event": "A bit of rain? Group descends slowly. Some confusion at the front about which direction they were heading (could have been solved by the use of a compass...)"
+      },
+      {
+        "time": "*",
+        "event": "... Two hours of knee wrecking descent ..."
+      },
+      {
+        "time": "18:30",
+        "event": "Unlucky minibus rescued from Wasdale mud by Simon Says. Toilet stop."
+      },
+      {
+        "time": "18:50",
+        "event": " Unlucky minibus gains its nickname by diving into a puddle, to avoid a herd of Herdewicks. Puddle actually genuine disguised WW1 trench. Minibus beached."
+      },
+      {
+        "time": "19:00",
+        "event": "Terrifying Minibus discovers the predicament, leading to even more speedy return to the bunkhouse so it can return for a Rescue Mission."
+      },
+      {
+        "time": "19:15",
+        "event": "AA Operator: “Wasdale?”"
+      },
+      {
+        "time": "20:00",
+        "event": "AA Man on the way. Spirits high inside beached bus, despite 15 degree tilt. Outside, short straws are drawn as everyone tries to avoid explaining situation to passers-by. First lot of trip-goers back at bunkhouse, trying desperately to find their food."
+      },
+      {
+        "time": "20:20",
+        "event": "Bunkhouse crew have found their food."
+      },
+      {
+        "time": "20:50",
+        "event": "Simon Says reaches beached bus for rescue mission, with mince pies. In October? Who cares? Valiant drivers Not Headless Nick and Jenny stay behind in the dark, prepared for a long wait. Rescued Trip-goers find themselves in the film ‘Speed’."
+      },
+      {
+        "time": "~21:30",
+        "event": "AA Man arrives with oversized truck. 10 minutes later, Unlucky Minibus is out."
+      },
+      {
+        "time": "21:45",
+        "event": "Rescue Mission returns very hungry. Very hungry for anything that’s not sweets or snacks, that is."
+      },
+      {
+        "time": "21:45",
+        "event": "Complaints about lack of seasoning in the unlucky bus's portion arise"
+      },
+      {
+        "time": "22:40",
+        "event": "All back at the bunkhouse. This is some cause for celebration, probably more of Anna’s wine. Nick reveals he has Camembert. Impromptu cheese social with all those still awake, helped along by all the dinner desserts we forgot about."
+      },
+      {
+        "time": "00:30",
+        "event": "What happens if we throw everything on the table in the fire? We find out."
+      },
+      {
+        "time": "07:00",
+        "event": "Early rising room realises it forgot to move into a different room the previous night."
+      },
+      {
+        "time": "09:00",
+        "event": "Mountain Crew attempt to leave."
+      },
+      {
+        "time": "09:30",
+        "event": "Mountain Crew still at the bunkhouse."
+      },
+      {
+        "time": "09:45",
+        "event": "Mountain crew stuck on minibus roof-racks, not given permission to take off"
+      },
+      {
+        "time": "09:50",
+        "event": "Still there."
+      },
+      {
+        "time": "10:00",
+        "event": "Gone? Maybe?"
+      },
+      {
+        "time": "10:30",
+        "event": "Minibuses loaded, convoy leaves after saying goodbye to each and every cat."
+      },
+      {
+        "time": "10:30",
+        "event": "Intimately Scottish marshy grounds appear accompanied by lack-of-path and path-stream mergers, appreciation of waterproof boots occurs"
+      },
+      {
+        "time": "11:10",
+        "event": "Pulsar driver pulls over due to tailgating convoy."
+      },
+      {
+        "time": "11:30",
+        "event": "A private quarry car park is given to us by the National Trust."
+      },
+      {
+        "time": "11:50",
+        "event": "Red Pike summit reached inside a cloud, a passer-by hillwalker is encountered and advised that High Stile is to the west, yet, he goes east!"
+      },
+      {
+        "time": "12:00",
+        "event": "Buttermere Toilets. Non-mountain group given a choice of a lake circuit led by Simon Says and MattNav or a waterfall walk led by Jenny and El Pres."
+      },
+      {
+        "time": "12:10",
+        "event": "Almost everyone goes for the lake circuit. :("
+      },
+      {
+        "time": "13:05",
+        "event": "Mountain crew done taking pictures and having lunch, after appreciating greasy mossy rock"
+      },
+      {
+        "time": "13:15",
+        "event": "Waterfall group reaches Mountain Crew at big waterfall after following a visible non-path. Profile pictures taken by Byron Burger. Lunch!"
+      },
+      {
+        "time": "13:15",
+        "event": "Mountain crew are delayed by the emergence of El Pres et. al., and El Pres's quest to find the head of the waterfall"
+      },
+      {
+        "time": "14:45",
+        "event": "Lake crew finish circuit to discover stone skimming. An attempt is made to swim in the lake."
+      },
+      {
+        "time": "15:10",
+        "event": "All back together for one big photo on Buttermere."
+      },
+      {
+        "time": "15:30",
+        "event": "Toilet stop! MattNav suffers calamity of forgetting wallet and breaking compass within five minutes."
+      },
+      {
+        "time": "16:00",
+        "event": "Both minibuses leave for Keswick, via Newlands Hause."
+      },
+      {
+        "time": "16:02",
+        "event": "Road closed, so we head for Honister Pass. Minibuses look on in terror."
+      },
+      {
+        "time": "16:15",
+        "event": "Promotional picture shots."
+      },
+      {
+        "time": "16:20",
+        "event": "Unlucky minibus grinds to a halt on 25% gradient. Slow, careful reverse back while clutch burns."
+      },
+      {
+        "time": "16:25",
+        "event": "Scent of burning arises with the approach of the unlucky minibus"
+      },
+      {
+        "time": "16:30",
+        "event": "Jenny gets minbus up the pass thanks to a run up and empty road."
+      },
+      {
+        "time": "17:10",
+        "event": "Keswick has hills INSIDE the town??"
+      },
+      {
+        "time": "17:20",
+        "event": "Minibuses leave the Lakes via the routes they came in. Unlucky minibus now has limited clutch."
+      },
+      {
+        "time": "17:50",
+        "event": "Rhader? Rheader? Rheadr? Unlucky Minibus stops at some Welsh sounding fuel stop with 10 pork pies."
+      },
+      {
+        "time": "18:30",
+        "event": "Sunset!!"
+      },
+      {
+        "time": "19:30",
+        "event": "Wetherspoons stop in Preston, known for... a bus station? A bypass? Not really sure. Dismal place."
+      },
+      {
+        "time": "21:00",
+        "event": "Leave Preston to motor down the M6 via Minibus Karaoke (again)."
+      },
+      {
+        "time": "~23:45",
+        "event": "stop at Cherwell Valley. All completely tired by this point. Except drivers, of course! They’re fully awake."
+      },
+      {
+        "time": "01:30",
+        "event": "Arrival at Glen Eyre. One minibus does a city centre shuttle, the other goes round Portswood."
+      },
+      {
+        "time": "02:15",
+        "event": "Sleeping bags and Hilly return home."
+      },
+      {
+        "time": "02:16",
+        "event": "Sleeping bags return home, apart from one which joined a mysteriously familiar orange jacket on Sirdar Mews detour"
+      },
+      {
+        "time": "02:30",
+        "event": "Minibuses all back."
+      },
+      {
+        "time": "03:30",
+        "event": "Everyone home. Trip ends."
+      }
+    ],
+    "accounts": [
+      {
+        "who": "The redactor",
+        "what": "Notes by El Pres (and so naturally 100% accurate) with a select few shadow entries by Mahmoud A. Times approximate."
+      }
+    ]
+  },{
+    "name": "Unofficial walk",
+    "date": "2019-06-29",
+    "start": "Beaulieu Road",
+    "finish": "Lymington Town",
+    "ringLeader": "Matt Clark",
+    "headCount": 8,
+    "committeeCount": 3,
+    "checkpoints": [
+      {
+        "time": "9:05",
+        "event": "I take a train"
+      },
+      {
+        "time": "9:30",
+        "event": "7 Unofficial walkers take a train"
+      },
+      {
+        "time": "9:38",
+        "event": "I get off a train"
+      },
+      {
+        "time": "9:45",
+        "event": "7 unofficial walkers get off a train"
+      },
+      {
+        "time": " ",
+        "event": "Walk starts from Beaulieu Road, the least used train station in the county of Hampshire"
+      },
+      {
+        "time": "10:18",
+        "event": "Matt recognises a woman walking:"
+      },
+      {
+        "time": " ",
+        "event": "Charlie Thompson, coastal oceanographer"
+      },
+      {
+        "time": " ",
+        "event": "I've no idea if she recognised me or she just said “Hi” out of sheer New Forest friendliness"
+      },
+      {
+        "time": "10:38",
+        "event": "This group of 6 girls is the 3rd group of girls we've run into"
+      },
+      {
+        "time": "10:58",
+        "event": "Woodfidley Crossing"
+      },
+      {
+        "time": "*",
+        "event": "A man walking the other way with his family asks if we've seen a group of girls."
+      },
+      {
+        "time": "11:17",
+        "event": "A strawberry break"
+      },
+      {
+        "time": "11:24",
+        "event": "Fifth group?? Poor man looking for “a group of girls walking”…"
+      },
+      {
+        "time": "11:47",
+        "event": "Campsite"
+      },
+      {
+        "time": "12:01",
+        "event": "Sixth group… and now they're interactive! Of course president Thomas is the best man to go to for map directions, whether the asker is a club member or not"
+      },
+      {
+        "time": "12:40",
+        "event": "We wanted to stop for lunch at the ford, thus having a Ford Fiesta; but it was full of people with children and dogs and bikes, tons of bikes; so we kept walking and stopped at a subsequent crossroads instead"
+      },
+      {
+        "time": "13:05",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13:58",
+        "event": "A bit of a mush"
+      },
+      {
+        "time": "14:23",
+        "event": "Walk ends on a bridge on the edge of Lymington"
+      }
+    ]
+  },{
+    "name": "Jurassic Coast day walk",
+    "date": "2019-06-01",
+    "start": "Lulworth Cove Visitor Centre",
+    "finish": "Lulworth Cove Visitor Centre",
+    "ringLeader": "John, Tom, Thomas, Mahmoud",
+    "headCount": 70,
+    "committeeCount": 7,
+    "checkpoints": [
+      {
+        "time": "7:49",
+        "event": "My train departs Bournemouth as expected"
+      },{
+        "time": "8:21",
+        "event": "Train arrives at Wool; I get off and discover 10 Fast Walkers who claim the minibus groups are late and even they could get to the Visitor Centre in time"
+      },{
+        "time": "8:22",
+        "event": "I begin to cycle down A352"
+      },{
+        "time": "★",
+        "event": "The scenic route I was attempting to go down turns out to be a private road so I turn back to the A352"
+      },{
+        "time": "9:06",
+        "event": "As I turn right into the Visitor Centre, I hear a vehicle behind. It's a Susu minibus!"
+      },{
+        "time": "",
+        "event": "Harry (from the front passenger's seat): Hello, Teo!"
+      },{
+        "time": "",
+        "event": "Me: What a timing!"
+      },{
+        "time": "★",
+        "event": "The other 2 minibuses arrive, and some people with cars, but of course no sign of the Fast Walkers"
+      },{
+        "time": "9:25",
+        "event": "Opening speech by President Thomas and division of groups: John – long and tough route; Tom – medium route 1; Thomas – medium route 2, initially having 15 people (including me)"
+      },{
+        "time": "9:34",
+        "event": "TIL Lulworth Cove is an effect of diffraction of sea waves 😮"
+      },{
+        "time": "9:47",
+        "event": "Thomas: And there's a small arch; it's gonna be a bigger arch when it's older."
+      },{
+        "time": "9:57",
+        "event": "We run into a vast group of school kids. Thomas advises us, and the others over the radio, to steer clear."
+      },{
+        "time": "10:02",
+        "event": "Thomas: Is that our hillwalkers engulfed in school kids? (over radio) Shaun, you're being swallowed!"
+      },{
+        "time": "",
+        "event": "Shaun (shouts): Hillwalkers!!!"
+      },{
+        "time": "11:00",
+        "event": "Second high peak (forgot to log the first 🙁). Just as I reach the top and the view opens, Tom's group are leaving."
+      },{
+        "time": "11:45",
+        "event": "Beacon. Just as Tom's group catches a last glimpse of ours before going over a hill"
+      },{
+        "time": "12:04",
+        "event": "TIL The sand connection between Weymouth and the island of Portland has been created naturally by currents from the Atlantic pushing rocks and dropping them into shallower water 😮"
+      },{
+        "time": "12:27",
+        "event": "Our lunch break starts; Tom's group have just finished theirs and split – some stay behind with us for the really shortest route"
+      },{
+        "time": "12:56",
+        "event": "Lunch finished but we wait for the Fast Walkers (aka Train People)"
+      },{
+        "time": "13:11",
+        "event": "But then we realise we'd misread their message and leave anyway"
+      },{
+        "time": "13:48",
+        "event": "To wait for them at the next field boundary"
+      },{
+        "time": "13:59",
+        "event": "Thomas recovers the 10 Fast Walkers (from what seems like a secret spacetime passage in the grass)"
+      },{
+        "time": "14:52",
+        "event": "Thomas: I don't like caravan parks. They're very confusing!"
+      },{
+        "time": "14:59",
+        "event": "But even more confusing than the paths inside the caravan park is our attempt at organising people between toilets, ice cream vans, shops, and the beach"
+      },{
+        "time": "15:25",
+        "event": "I'm in the ocean so I totally can't be writing this 😛"
+      },{
+        "time": "★",
+        "event": "Walk ends when John's group descend upon the beach"
+      },{
+        "time": "★",
+        "event": "Obligatory group picture"
+      },{
+        "time": "17:30",
+        "event": "Last bunch of us leave the beach"
+      }
+    ]
+  },{
+    "date": "2019-03-16",
+    "start": "Moreton",
+    "finish": "Wool",
+    "ringLeader": "Thomas",
+    "headCount": 15,
+    "committeeCount": 5,
+    "km": 21,
+    "checkpoints": [
+      {
+        "time": "10:40",
+        "event": "As the 09:24 from Southampton abruptly terminated in Bournemouth where it didn't exist at all as the 10:04 that it should have been, we are now waiting for a hopeful 10:45 on platform 4 – the place where trains go when they die."
+      },       {
+        "time": "10:53",
+        "event": "Guard: We are waiting for driver for this train."
+      },       {
+        "time": "11:02",
+        "event": "Guard: As soon as they let us know we'll let you know."
+      },       {
+        "time": "11:04",
+        "event": "Guard: We have a driver en route to platform 4."
+      },       {
+        "time": "11:25",
+        "event": "Harry: No one get off here! This is not where we get off!"
+      },       {
+        "time": "",
+        "event": "And everyone remembered that time when walkers randomly exited the train in Poole."
+      },       {
+        "time": "11:56",
+        "event": "Walk begins"
+      },       {
+        "time": "12:12",
+        "event": "Impressive tractor encounter"
+      },       {
+        "time": "12:48",
+        "event": "Someone left their keys in the door!"
+      },       {
+        "time": "13:24",
+        "event": "Sign: Beware! Clay shooting ahead"
+      },       {
+        "time": "13:47",
+        "event": "Thomas: Hello! Bench, bench, bench, choose a pick, we'll be here for about 20 minutes for lunch."
+      },       {
+        "time": "14:14",
+        "event": "Lunch break ends"
+      },       {
+        "time": "14:19",
+        "event": "Maybe I should log the log to the log. (battle of twigs & logs)"
+      },       {
+        "time": "16:08",
+        "event": "R.V. W2 Caution Military traffic"
+      },       {
+        "time": "17:12",
+        "event": "Walk ends at the Ship Inn"
+      },       {
+        "time": "17:45",
+        "event": "We leave for the station"
+      },       {
+        "time": "17:48",
+        "event": "Barrier drops"
+      },       {
+        "time": "17:53",
+        "event": "Train leaves"
+      }
+    ]
+  },{
+    "name": "Early 2019 Night Walk",
+    "date": "2019-02-23 - 24",
+    "start": "Shoreham-by-Sea",
+    "finish": "Brighton",
+    "ringLeader": "Thomas, Harry",
+    "headCount": 23,
+    "committeeCount": 5,
+    "km": 30,
+    "checkpoints": [
+      {
+        "time": "21:13",
+        "event": "A train leaves Southampton"
+      }, {
+        "time": "23:11",
+        "event": "Plan exposition. Walk begins"
+      }, {
+        "time": "23:29",
+        "event": "End of street lighting"
+      }, {
+        "time": "23:49",
+        "event": "Star/cloud observation stop"
+      }, {
+        "time": "23:51",
+        "event": "turned into biscuit break,"
+      }, {
+        "time": "23:53",
+        "event": "turned into coffee break"
+      }, {
+        "time": "00:10",
+        "event": "Pause for a few people to catch up and for Thomas to briefly activate the fairy lights turning his backpack into a Christmas tree. Discussion about off-shore wind energy farm visible in the distance"
+      }, {
+        "time": "00:29",
+        "event": "Chalk path approach warning. Discussion about anti-blister socks"
+      }, {
+        "time": "00:39",
+        "event": "Surprised people observe us from a settlement"
+      }, {
+        "time": "00:42",
+        "event": "Interesting Gloom on the horizon"
+      }, {
+        "time": "00:47",
+        "event": "Pause by big radio tower"
+      }, {
+        "time": "01:01",
+        "event": "Wind picks up"
+      }, {
+        "time": "01:20",
+        "event": "Longer official snack break where the wind calms down and from where a snaking motorway can be seen, as well as allegedly Gatwick airport in the far distance"
+      }, {
+        "time": "01:54",
+        "event": "Footpath hits a road with wooden indicator arrows reading: South Downs Way – River Adur 4½ mi (where we came from) / Brighton 5 mi / South Downs Way – Ditchling Beacon 15½ mi (where we're headed) / Poynings 1 mi"
+      }, {
+        "time": "02:43",
+        "event": "Halfway gate"
+      }, {
+        "time": "03:08",
+        "event": "We cross the A23"
+      }, {
+        "time": "03:20",
+        "event": "The gloomy Gloom on the horizon seems closer, and now an early-morning celestial body (Venus?) has risen right into the middle of the thing"
+      }, {
+        "time": "03:52",
+        "event": "What are windmills?"
+      }, {
+        "time": "04:00",
+        "event": "Something clicks the wrong way in my brain and I suddenly feel exhausted"
+      }, {
+        "time": "04:09",
+        "event": "The Gloom on the horizon is now more closely observed and thought to be coming from an object on the sea, which, though still unidentified, is dubbed a “party flotilla”"
+      }, {
+        "time": "04:18",
+        "event": "Pond of Reflection"
+      }, {
+        "time": "04:34",
+        "event": "We stop at a trig point to wait for the tail of the group. Climbing on it, we awfully disappointingly unequivocally conclude that the Gloom on the horizon is the stadium"
+      }, {
+        "time": "",
+        "event": "Thomas: This is the highest point in Sussex."
+      }, {
+        "time": "",
+        "event": "Serena: West Sussex?"
+      }, {
+        "time": "",
+        "event": "Thomas: […] We are now in East Sussex. We've crossed the border."
+      }, {
+        "time": "",
+        "event": "Harry: We're immigrants!"
+      }, {
+        "time": "",
+        "event": "Thomas: And this is the highest point in both Sussexes. Sussexes?... Sussexi."
+      }, {
+        "time": "05:14",
+        "event": "Discovered: Bus stop: High Park Corner. 79 towards Brighton station – Sunday & public holidays first bus 10:46"
+      }, {
+        "time": "05:25",
+        "event": "Crazy singing cyclist whizzes past"
+      }, {
+        "time": "05:51",
+        "event": "Joe: And the dawn chorus has arrived! Right on cue! Quarter to six!"
+      }, {
+        "time": "05:55",
+        "event": "Joe: I hear traffic!"
+      }, {
+        "time": "06:06",
+        "event": "Ditchling Road Bridge of great sunrise observation view"
+      }, {
+        "time": "",
+        "event": "Serena: That is some thing!"
+      }, {
+        "time": "07:25",
+        "event": "Walk ends"
+      }, {
+        "time": "07:30",
+        "event": "A train leaves Brighton"
+      }
+    ]
+  },{
+    "name": "Isle of Purbeck day walk",
+    "date": "2018-11-24",
+    "start": "Wareham",
+    "finish": "Wareham",
+    "headCount": 26,
+    "committeeCount": 5,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "10:18",
+        "event": "One impossible train connection in Bournemouth estranges an amount of walkers from the main group"
+      },{
+        "time": "10:33",
+        "event": "We seem to lose additional people… to unexplained actions."
+      },{
+        "time": "10:40",
+        "event": "Walk begins"
+      },{
+        "time": "11:32",
+        "event": "One minute pause to ponder a ready-made Christmas tree next to a thatched roof house"
+      },{
+        "time": "11:37",
+        "event": "Is that a path or a stream?"
+      },{
+        "time": "",
+        "event": "…"
+      },{
+        "time": "",
+        "event": "Thomas: So we're heading… that way! Through the stream that's a path!"
+      },{
+        "time": "12:18",
+        "event": "Break for biscuits and map examination in order to reroute for bog avoidance"
+      },{
+        "time": "12:56",
+        "event": "Top of hill, pile of rocks commemorating Mary Baxter"
+      },{
+        "time": "",
+        "event": "Harry: Ground Control to major Thomas, we are at the top of the hill."
+      },{
+        "time": "13:00-13:10",
+        "event": "Lunch break part 1, for people are hungry and it's almost not raining, but it's windy and cold nonetheless"
+      },{
+        "time": "13:29",
+        "event": "A place of peace and tranquility"
+      },{
+        "time": "13:39",
+        "event": "Corfe castle becomes visible"
+      },{
+        "time": "13:44",
+        "event": "Group picture"
+      },{
+        "time": "13:57",
+        "event": "We reach the village of Corfe castle and acquire 6 more people,"
+      },{
+        "time": "13:58",
+        "event": "but are soon to lose 3 people"
+      },{
+        "time": "13:59",
+        "event": "while Thomas explains that we have half an hour to explore the village"
+      },{
+        "time": "14:02",
+        "event": "…but the model village is closed for the winter"
+      },{
+        "time": "14:35",
+        "event": "With a 5-minute delay and after some rather dubious walkie talkie powered quarrel between female committee members, we proceed to walk again"
+      },{
+        "time": "15:28",
+        "event": "Recoordination break – all is on track"
+      },{
+        "time": "16:15",
+        "event": "It's getting dark…"
+      },{
+        "time": "16:25",
+        "event": "…and darker…"
+      },{
+        "time": "16:35",
+        "event": "…darkest."
+      },{
+        "time": "16:47",
+        "event": "“And at last I see the light…”"
+      },{
+        "time": "17:00",
+        "event": "Serena: We're getting really close to the pub now."
+      },{
+        "time": "",
+        "event": "Nick: I can smell the beer!"
+      },{
+        "time": "17:19",
+        "event": "Road, bridge, and lights… civilisation"
+      },{
+        "time": "17:30",
+        "event": "Walk ends"
+      }
+    ]
+  },{
+    "name": "Chichester Harbour Day Walk",
+    "date": "2018-11-17",
+    "start": "Emsworth",
+    "finish": "Chichester",
+    "km": 20
+  },{
+    "name": "Snowdonia National Park Away Trip",
+    "date": "2018-11-09 - 11"
+  },{
+    "name": "Winchester Treasure Hunt & Fireworks",
+    "date": "2018-11-03",
+    "start": "Winchester",
+    "finish": "Winchester",
+    "headCount": 35,
+    "checkpoints": [
+      {
+        "time": "10:03",
+        "event": "Instructions are given"
+      },{
+        "time": "10:10",
+        "event": "Instructions finish to be given and teams disperse"
+      },{
+        "time": "10:35",
+        "event": "Exactly one hour after I arrived on a CrossCountry train from Bournemouth, the next CrossCountry train can be observed in Winchester station from the vantage point of a road bridge"
+      },{
+        "time": "10:40",
+        "event": "Debate over the meaning of the clue “One of our day walk secretaries”"
+      },{
+        "time": "11:24",
+        "event": "“…and they're giving out free beer and bread!”"
+      },{
+        "time": "12:15",
+        "event": "Lunch break is triggered into existence"
+      },{
+        "time": "12:32",
+        "event": "Lunch break ends"
+      },{
+        "time": "13:55",
+        "event": "“I'm glad we didn't do this [human pyramid] at the start of the walk”"
+      },{
+        "time": "14:30",
+        "event": "We are now back on the high street and nearing the end of the challenge list with one and a half hours still to spare"
+      },{
+        "time": "15:00",
+        "event": "We declare our challenge finished"
+      },{
+        "time": "16:00",
+        "event": "Everyone has gathered in Wetherspoons. Wetherspoons is thus overfull"
+      }
+    ]
+  },{
+    "date": "2018-10-27",
+    "start": "Fareham",
+    "finish": "Bursledon",
+    "headCount": 45,
+    "km": 21
+  },{
+    "name": "Old Sarum walk",
+    "date": "2018-10-20",
+    "start": "Salisbury",
+    "finish": "Salisbury",
+    "headCount": 59,
+    "km": 16
+  },{
+    "name": "Isle of Wight Day Walk",
+    "date": "2018-10-13",
+    "start": "Yarmouth, Isle of Wight",
+    "finish": "Yarmouth, Isle of Wight",
+    "ringLeader": "All",
+    "headCount": 155,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "8:43",
+        "event": "A record-breaking 15 minutes from the door of the house to the ticket machine outside Bournemouth station (north side)"
+      },
+      {
+        "time": "",
+        "event": "Meanwhile, a large (huge (massive (immense (100+ people)))) group make their way from Southampton"
+      },
+      {
+        "time": "9:22",
+        "event": "We arrive at Lymington Pier"
+      },
+      {
+        "time": "9:52",
+        "event": "Subsequent train increases our numbers to 155"
+      },
+      {
+        "time": "9:59",
+        "event": "Most of us are still trying to get onto the ferry"
+      },
+      {
+        "time": "11:10",
+        "event": "On a second ferry, everyone makes it to Yarmouth"
+      },
+      {
+        "time": "11:25",
+        "event": "Announcement by Thomas regarding the organisation of the day"
+      },
+      {
+        "time": "11:27",
+        "event": "Walk begins"
+      },
+      {
+        "time": "12:23",
+        "event": "Compacting break at ~4.5km, which ends for some before beginning for others"
+      },
+      {
+        "time": "12:40",
+        "event": "Invisible sea monsters, having eaten the beaches whole, now splash us with walls of salty water 3 meters high"
+      },
+      {
+        "time": "12:59",
+        "event": "Lunch break in the only place where the beach was not entirely obliterated"
+      },
+      {
+        "time": "13:27",
+        "event": "Lunch break very precisely ends"
+      },
+      {
+        "time": "13:57",
+        "event": "Needles distant views"
+      },
+      {
+        "time": "14:06",
+        "event": "Needles slightly less distant view"
+      },
+      {
+        "time": "14:27",
+        "event": "A choice is made by some to take the murderous path uphill…"
+      },
+      {
+        "time": "",
+        "event": "Thomas: That's not the way unless you're mad!"
+      },
+      {
+        "time": "14:36",
+        "event": "…and the murderous path is survived by all."
+      },
+      {
+        "time": "14:58",
+        "event": "Tennyson Monument reached… by most"
+      },
+      {
+        "time": "★",
+        "event": "Big group photo"
+      },
+      {
+        "time": "15:53",
+        "event": "Another compacting break near the egg-shaped apocalypse natural aesthetica"
+      },
+      {
+        "time": "16:06",
+        "event": "Break ends"
+      },
+      {
+        "time": "16:33",
+        "event": "Axioms of fish & chips are discussed"
+      },
+      {
+        "time": "17:14",
+        "event": "Back in sight of Yarmouth clock tower"
+      },
+      {
+        "time": "★",
+        "event": "Walk ends"
+      },
+      {
+        "time": "18:05",
+        "event": "Most people take the ferry"
+      },
+      {
+        "time": "19:07",
+        "event": "Beautiful train change"
+      }
+    ]
+  },{
+    "name": "Fair Oak introductory walk",
+    "date": "2018-10-06",
+    "start": "Fair Oak",
+    "finish": "Fair Oak"
+  },{
+    "name": "New Forest introductory walk",
+    "date": "2018-09-29",
+    "start": "Brockenhurst",
+    "finish": "Brockenhurst",
+    "ringLeader": "Thomas"
+  },{
+    "name": "The Walk with No End Part 2",
+    "date": "2018-09-09",
+    "start": "Highfield Campus",
+    "finish": "Southbourne",
+    "ringLeader": "Thomas",
+    "km": 53,
+    "checkpoints": [
+      {
+        "time": "8:15",
+        "event": "Walk starts"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Thomas",
+        "what": "Some highly inquisitive cows, actually borderline aggressive cows, nearby Durley on the Walk with No End (part 2!). We walked to Southbourne via Horndean, about 53km for Nicholas and Thomas by the end. We are somewhat worn out. Thank you to everyone who either joined us for part, or provided motivation. Or if you called us crazy- it helped!"
+      }
+    ]
+  },{
+    "name": "South Downs Stargazing Walk & Camp",
+    "date": "2018-08-11 - 12",
+    "start": "Petersfield",
+    "finish": "Petersfield",
+    "ringLeader": "Thomas"
+  },{
+    "name": "Fleet/Farnborough Air Show walk",
+    "date": "2018-07-21",
+    "ringLeader": "Thomas"
+  },{
+    "name": "Devil's Punch Bowl",
+    "date": "2018-07-14",
+    "start": "Haslemere",
+    "finish": "Haslemere",
+    "ringLeader": "Serena",
+    "headCount": 12,
+    "committeeCount": 1,
+    "km": 13,
+    "checkpoints": [
+      {
+        "time": "9:13",
+        "event": "Train taken (Southern on time!)"
+      },
+      {
+        "time": "10:07",
+        "event": "Second train taken"
+      },
+      {
+        "time": "10:48",
+        "event": "Walk begins"
+      },
+      {
+        "time": "11:50",
+        "event": "That hill!"
+      },
+      {
+        "time": "12:02",
+        "event": "Emerge on a road"
+      },
+      {
+        "time": "12:26",
+        "event": "Philosophical transactions by the “How the Devil's Punch Bowl got its name” panel, followed by “Which way is north” debate"
+      },
+      {
+        "time": "12:34",
+        "event": "Serena: I found a bog!!! This is an actual hillwalk now!"
+      },
+      {
+        "time": "12:50 – 13:18",
+        "event": "Lunch break"
+      },
+      {
+        "time": "★",
+        "event": "We observe the Devil's Punch Bowl Valley from a vantage point"
+      },
+      {
+        "time": "15:03",
+        "event": "We find ourselves back on a road where we were previously following a loop-o-lost navigation error"
+      },
+      {
+        "time": "15:13",
+        "event": "Royal School of Haslemere"
+      },
+      {
+        "time": "16:00",
+        "event": "Walk ends at the Station House – potentially the fanciest pub we've ever ended up in at the end of a walk this year, and stayed."
+      }
+    ]
+  },{
+    "name": "The Walk with No End",
+    "date": "2018-07-04",
+    "start": "Highfield Campus",
+    "finish": "Elsewhere",
+    "ringLeader": "Thomas",
+    "km": 42,
+    "checkpoints": [
+      {
+        "time": "8:00",
+        "event": "Walk starts"
+      }
+    ]
+  },{
+    "name": "Unofficial Official New Milton Circular",
+    "date": "2018-06-30",
+    "start": "New Milton",
+    "finish": "New Milton",
+    "ringLeader": "Richard",
+    "headCount": 3,
+    "committeeCount": 0,
+    "checkpoints": [
+      {
+        "time": "10:31",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:45 – 10:51",
+        "event": "Charity bookshop calamity"
+      },
+      {
+        "time": "11:09",
+        "event": "We already got lost because Richard forgot the map on the train"
+      },
+      {
+        "time": "11:33",
+        "event": "Target practice"
+      },
+      {
+        "time": "11:40",
+        "event": "Send nudes"
+      },
+      {
+        "time": "11:53",
+        "event": "More target practice"
+      },
+      {
+        "time": "11:57",
+        "event": "Send more nudes"
+      },
+      {
+        "time": "12:34",
+        "event": "Off the beach. Finally some silence!"
+      },
+      {
+        "time": "13:08",
+        "event": "Lunch stop at Needles Eyed Café"
+      },
+      {
+        "time": "13:19",
+        "event": "Nan brings me a glass of nothing. “Exactly as you ordered.”"
+      },
+      {
+        "time": "14:02",
+        "event": "Richard: All I want to do now is put my head on this table and dose off."
+      },
+      {
+        "time": "14:46",
+        "event": "((Very) long) lunch break ends"
+      },
+      {
+        "time": "16:50",
+        "event": "PoundStore calamity"
+      },
+      {
+        "time": "17:04",
+        "event": "Walk ends at New Milton station"
+      }
+    ]
+  },{
+    "name": "Midsummer Evening Walk",
+    "date": "2018-06-23",
+    "start": "Beaulieu Road",
+    "finish": "Brockenhurst",
+    "ringLeader": "Thomas",
+    "headCount": 29,
+    "committeeCount": 2,
+    "km": 14,
+    "checkpoints": [
+      {
+        "time": "18:35",
+        "event": "Dinner for 3 at Subway (London Rd)"
+      },
+      {
+        "time": "19:44",
+        "event": "Walk begins with 28 people"
+      },
+      {
+        "time": "20:02",
+        "event": "We lost 22 people already! No, they're just way behind."
+      },
+      {
+        "time": "20:03",
+        "event": "Thomas has to speak with the person with the taxi. Yes, there is someone catching up with us by taxi."
+      },
+      {
+        "time": "20:10",
+        "event": "Richard: We have to stop here, 'cause I already see people half a mile back."
+      },
+      {
+        "time": "★",
+        "event": "Tim joins via taxi"
+      },
+      {
+        "time": "20:59",
+        "event": "Flip a coin to decide which way to go"
+      },
+      {
+        "time": "21:23",
+        "event": "We open a gate and walk into an area protected from deer. There is no gate on the other side. We turn back."
+      },
+      {
+        "time": "★",
+        "event": "Katawaredoki – sky looks beautiful"
+      },
+      {
+        "time": "22:15",
+        "event": "Sitting-down break, but not many listen to the advice of sitting down"
+      },
+      {
+        "time": "★",
+        "event": "Still Katawaredoki? Sky looks even beautifuller (is that a word?)"
+      },
+      {
+        "time": "★",
+        "event": "We don't want to reach Brockenhurst station too little after the 22:42 train, so we decide to take a fucking break and stargaze despite thick clouds"
+      },
+      {
+        "time": "23:07",
+        "event": "Me and 3 others, at the very front, fail to seek directions from the man with the map and take a wrong turn (or should I say lack of a turn)"
+      },
+      {
+        "time": "23:20",
+        "event": "We realise the others are no longer behind us, check some electronic maps, and start doubling back at faster pace"
+      },
+      {
+        "time": "23:20",
+        "event": "We're back at the point of failure and now take the correct turn"
+      },
+      {
+        "time": "23:25",
+        "event": "We run"
+      },
+      {
+        "time": "23:28",
+        "event": "We stop running"
+      },
+      {
+        "time": "23:33",
+        "event": "We almost take another wrong turn. I pray to God I'm remembering the train time wrong (spoiler alert, I'm not)"
+      },
+      {
+        "time": "23:38",
+        "event": "Meanwhile, 3 people make it to the station in time, by running the final stretch. One of them is Thomas, who nobly allows the train to pass, awaiting the rest of us."
+      },
+      {
+        "time": "23:42",
+        "event": "A further 12 people arrive at the station"
+      },
+      {
+        "time": "23:44",
+        "event": "Ahead of the other 3 from the now tailing group, I reach the last stretch of road and start running like crazy, oblivious to the fact that the train has already left (my internet won't connect to let me find that fact out)"
+      },
+      {
+        "time": "★",
+        "event": "A further 10 people arrive at the station and some start taking taxis back to Southampton"
+      },
+      {
+        "time": "23:49",
+        "event": "I emerge from the forest right by the station and level crossing just as the penultimate train to Poole pulls in. I cross the bridge and see in horror the panel on the platform towards Southampton showing no next train; then I'm surprised to see some of our people on the north side of the station"
+      },
+      {
+        "time": "23:55",
+        "event": "Final 3 people arrive. We get into taxis, except for Thomas and 2 others who decide an extra 4 hours' walk to Southampton would be nice for some reason."
+      },
+      {
+        "time": "00:23",
+        "event": "Arriving at Central Station, we fumble about for cash and debate continuing home by taxi, pondering the cost"
+      },
+      {
+        "time": "00:25",
+        "event": "Magical U1E appears! Walk ends. Turns out even Thomas didn't walk after all. "
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Richard",
+        "what": "We got a lot more people for this walk than we would for normal day walks during term time!"
+      }
+    ]
+  },{
+    "date": "2018-06-16",
+    "start": "Chichester",
+    "finish": "Chichester",
+    "ringLeader": "Harry"
+  },{
+    "name": "Cornwall Away Trip",
+    "date": "2018-06-11 – 13"
+  },{
+    "date": "2018-06-09",
+    "start": "Tisbury",
+    "finish": "Tisbury",
+    "ringLeader": "Thomas",
+    "headCount": 9,
+    "committeeCount": 1,
+    "checkpoints": [
+      {
+        "time": "10:07",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:31",
+        "event": "Dog in the way, answer 3 questions"
+      },
+      {
+        "time": "10:41",
+        "event": "Fig roll break"
+      },
+      {
+        "time": "11:02",
+        "event": "Stylish stile"
+      },
+      {
+        "time": "11:18",
+        "event": "Brown"
+      },
+      {
+        "time": "11:21",
+        "event": "Wiltshire Regiment badge"
+      },
+      {
+        "time": "11:46",
+        "event": "We are attacked by a living poltergate"
+      },
+      {
+        "time": "12:34-12:56",
+        "event": "Lunch break"
+      },
+      {
+        "time": "13:29",
+        "event": "Wardour Castle"
+      },
+      {
+        "time": "13:36",
+        "event": "where we meet 2 train missers"
+      },
+      {
+        "time": "13:54",
+        "event": "New Wardour Castle"
+      },
+      {
+        "time": "14:08-14:16",
+        "event": "Discount Playzone social / schoolyard"
+      },
+      {
+        "time": "15:00",
+        "event": "Nettles are so tall and dense and widespread I can't even fini"
+      },
+      {
+        "time": "15:16",
+        "event": "Walk ends in central Tisbury"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "“Sightseeing tour guide” has never been in the job description of the Day Walk Secretary; however, I welcome the addition. People who don't understand hiking for the sake of hiking often ask “What did you see?” So with some landmark discussion we can answer those questions, and talk about the walk to non-walkers."
+      }
+    ]
+  },{
+    "name": "Jurassic Coast Trip",
+    "date": "2018-06-02",
+    "ringLeader": "Matt,Serena",
+    "committeeCount": 7,
+    "headCount": 46,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "08:59",
+        "event": "We depart from the uni"
+      },
+      {
+        "time": "09:13",
+        "event": "On the motorway we encounter a Harry-Potter-style bus carrying plants"
+      },
+      {
+        "time": "10:12",
+        "event": "Unfortunate woman waves us down for petrol or for directions to the nearest petrol station, of which we can offer neither"
+      },
+      {
+        "time": "10:13",
+        "event": "What stranger road signs could you encounter than:"
+      },
+      {
+        "time": "",
+        "event": "“Sudden gunfire”"
+      },
+      {
+        "time": "",
+        "event": "“Tanks crossing”"
+      },
+      {
+        "time": "10:26",
+        "event": "Reach Lulworth car park"
+      },
+      {
+        "time": "10:48",
+        "event": "Groups organisation: a short/medium group of 27 (myself included) and a long group of 19. Thus we start walking"
+      },
+      {
+        "time": "10:59",
+        "event": "At the small Lulworth Cove beach we backtrack and pick a different path uphill"
+      },
+      {
+        "time": "11:27",
+        "event": "Break in the fog; draw distance 30m"
+      },
+      {
+        "time": "11:43",
+        "event": "Dog heads towards a water recipient but instead of just drinking jumps in."
+      },
+      {
+        "time": "",
+        "event": "Lee: That is a metaphor for my life right now"
+      },
+      {
+        "time": "11:47",
+        "event": "Reaching a street, somebody has the impression that there should be 28 in our group and we are missing a person. We repeatedly count 27 heads. But according to the above we're supposed to be 27, and on that observation we resume walking."
+      },
+      {
+        "time": "12:17±5",
+        "event": "Break"
+      },
+      {
+        "time": "★",
+        "event": "Vote to continue pushing forward rather than have lunch in thick clouds by a massive pile of horse shit"
+      },
+      {
+        "time": "13:19±3",
+        "event": "Break"
+      },
+      {
+        "time": "13:41",
+        "event": "Lunch break, still in the clouds"
+      },
+      {
+        "time": "14:24",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "15:22±4",
+        "event": "Break"
+      },
+      {
+        "time": "15:58±6",
+        "event": "Break before what we think to be the final descent before Durdle Door"
+      },
+      {
+        "time": "16:10",
+        "event": "We progress through the fog and an extraneous hill is revealed which we had forgotten about"
+      },
+      {
+        "time": "16:16",
+        "event": "We meet the long group above Durdle Door beach, which they'd already been to. A whole bunch then split in search for toilets, while the remaining long group start walking a final loop."
+      },
+      {
+        "time": "16:35–17:10",
+        "event": "Gone swimming"
+      },
+      {
+        "time": "17:19",
+        "event": "Everyone reunites on the beach"
+      },
+      {
+        "time": "17:45±2",
+        "event": "Group picture with the arch"
+      },
+      {
+        "time": "17:56",
+        "event": "Izzy calls names from the list to ensure everyone is present. Then we leave the beach for the final stretch towards the fish&chips shop"
+      },
+      {
+        "time": "18:30",
+        "event": "Fish&chips"
+      },
+      {
+        "time": "19:56",
+        "event": "Minibus 2 leaves car park"
+      },
+      {
+        "time": "21:12",
+        "event": "Minibus 2 arrives at Highfield Interchange"
+      }
+    ]
+  },{
+    "name": "Clarendon Day Walk",
+    "date": "2018-05-26",
+    "start": "Dean",
+    "finish": "Salisbury",
+    "ringLeader": "Thomas",
+    "headCount": 18,
+    "committeeCount": 6,
+    "km": 19,
+    "checkpoints": [
+      {
+        "time": "10:05",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:08",
+        "event": "A tired rough-nighter contemplates the possibility to give up the walk, but soon changes his mind"
+      },
+      {
+        "time": "10:42",
+        "event": "Most open field ever"
+      },
+      {
+        "time": "11:11",
+        "event": "Bentley Wood signpost crossroads"
+      },
+      {
+        "time": "11:40",
+        "event": "We encounter Hook & Glove pub"
+      },
+      {
+        "time": "12:26",
+        "event": "We got bitten while sitting in Pitton"
+      },
+      {
+        "time": "12:31",
+        "event": "Lunch break opposite the Silver Plough pub"
+      },
+      {
+        "time": "13:04",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13:47",
+        "event": "We get directionally misplaced and take a detour (no we're NOT lost!) and thus see a deer"
+      },
+      {
+        "time": "13:55",
+        "event": "Panel: Danger! Deer stalking, keep out"
+      },
+      {
+        "time": "",
+        "event": "Richard: So that deer was stalking us!"
+      },
+      {
+        "time": "14:26-37",
+        "event": "Clarendon Palace Royal Court ruins. Rest break. Thomas water-fans the sleepers."
+      },
+      {
+        "time": "14:46",
+        "event": "Great spire in the sky"
+      },
+      {
+        "time": "15:35",
+        "event": "Walk ends"
+      }
+    ]
+  },{
+    "name": "Itchen Valley Day Walk",
+    "date": "2018-05-19",
+    "start": "Winchester",
+    "finish": "Winchester",
+    "ringLeader": "Thomas",
+    "headCount": 18,
+    "committeeCount": 4,
+    "km": 22,
+    "checkpoints": [
+      {
+        "time": "09:49",
+        "event": "Walk stars"
+      },
+      {
+        "time": "10:34",
+        "event": "Consecutive tunnels"
+      },
+      {
+        "time": "11:20",
+        "event": "A comprehensive discussion on junction choices"
+      },
+      {
+        "time": "11:32",
+        "event": "Overly long toilet break in vicinity of pubs; we suspect the toiletees stopped for a pint and left us to dry out in the sun"
+      },
+      {
+        "time": "11:37",
+        "event": "Two cars come from opposite directions on this narrow road and meet exactly, but exactly, where we're standing"
+      },
+      {
+        "time": "12:33",
+        "event": "Lunch break by a very conveniently placed ice cream shop"
+      },
+      {
+        "time": "13:06",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "14:50",
+        "event": "Richard: Are we going through the trees?"
+      },
+      {
+        "time": "",
+        "event": "Thomas: No, we're just waiting in the shade."
+      },
+      {
+        "time": "16:05",
+        "event": "John beats the record of how late in the afternoon he gets someone to reply 'Good morning' to his greeting 'Good morning'"
+      },
+      {
+        "time": "16:37",
+        "event": "A moment of confusion in memory of the once-not-so-packed pubs"
+      },
+      {
+        "time": "16:41",
+        "event": "Walk ends at Crown & Anchor"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "I am astounded by the ambition that a few fellow hikers can spend on something so inconsequential as getting strangers to reply 'Good morning' when it's no longer morning. Just after 12pm it was funny; at 2pm it started to be concerning; at 4pm it became downright unfathomable."
+      }
+    ]
+  },{
+    "date": "2018-05-12",
+    "start": "Brockenhurst",
+    "finish": "Sway",
+    "headCount": 14,
+    "committeeCount": 4,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "11:11",
+        "event": "Walk begins"
+      },
+      {
+        "time": "12:21",
+        "event": "Lunch break"
+      },
+      {
+        "time": "12:42",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13:11",
+        "event": "Giant Sequoia"
+      },
+      {
+        "time": "15:45",
+        "event": "Walk ends"
+      }
+    ]
+  },{
+    "date": "2018-05-05",
+    "start": "Mottisfont",
+    "finish": "Mottisfont",
+    "ringLeader": "James"
+  },{
+    "name": "Lake District Away Trip",
+    "date": "2018-04-27 - 29",
+    "ringLeader": "Byron, Serena",
+    "headCount": 26,
+    "checkpoints": [
+      {
+        "time": "16:31",
+        "event": "Minibus 2 set off"
+      },      {
+        "time": "★",
+        "event": "Sam drives the minibus as she would a rollercoaster, and I mean that in a good way"
+      },      {
+        "time": "★",
+        "event": "Shaun's playlist for the first leg of the journey deserves a qual-o-meter of 100%"
+      },      {
+        "time": "♪",
+        "event": "The man that can't be moved"
+      },      {
+        "time": "★",
+        "event": "What's the opposite of quick? Common people would say slow. We hillwalkers say scenic. Isn't it amazing how we manage to see the bright side of everything, even satnavs with less than ideal settings."
+      },      {
+        "time": "18:50",
+        "event": "Minibus 1 arrives at first M6 services, where we shall have a McDonald's excuse of a dinner (well, all but the most self-respectful of us)"
+      },      {
+        "time": "19:05",
+        "event": "Minibus 2 arrives at first M6 services"
+      },      {
+        "time": "19:35",
+        "event": "Minibus 1 leaves services"
+      },      {
+        "time": "19:50",
+        "event": "Minibus 2 leaves services"
+      },      {
+        "time": "★",
+        "event": "Now Roger drives minibus 2 and Shaun's playlist is still going. I cannot really comment on the driving as it's all straight flat motorway. Music qual-o-meter for this leg of the journey: 84%"
+      },      {
+        "time": "21:47",
+        "event": "Minibus 1 arrives at subsequent services"
+      },      {
+        "time": "21:53",
+        "event": "Minibus 2 arrives at subsequent services"
+      },      {
+        "time": "22:11",
+        "event": "Both minibuses leave services"
+      },      {
+        "time": "★",
+        "event": "Shaun now drives through the more difficult section of the journey, his playlist presumably still going. Unfortunately I fall asleep again and therefore cannot comment on these facts."
+      },      {
+        "time": "23:53",
+        "event": "Minibus 2 arrives at accommodation: Windermere Chalet"
+      },      {
+        "time": "00:05",
+        "event": "Minibus 1 arrives at accommodation"
+      },      {
+        "time": "01:00",
+        "event": "Lights off"
+      },      {
+        "time": "07:20",
+        "event": "I get up"
+      },      {
+        "time": "07:30",
+        "event": "Breakfast starts being served"
+      },      {
+        "time": "08:15",
+        "event": "Breakfast stops being served"
+      },      {
+        "time": "08:40",
+        "event": "Briefing for “a prompt 08:30 departure”"
+      },      {
+        "time": "★",
+        "event": "We split into a “challenging” group of 11, led by Byron, and a “less challenging” (fun?) group of 15, led by Serena"
+      },      {
+        "time": "08:51",
+        "event": "Minibus 1 (the “challenging” group) leaves for Swirrel Edge"
+      },      {
+        "time": "08:54",
+        "event": "After much manoeuvre, minibus 1 manages to pull out of the car park and actually depart"
+      },      {
+        "time": "08:59",
+        "event": "After much fiddling with satnavs, minibus 1 really actually truly starts moving"
+      },      {
+        "time": "09:26",
+        "event": "Driving hardcore level 1000: How to overtake a streak of 8 cyclists with a minibus on a narrow, snakey-ass road"
+      },      {
+        "time": "09:36",
+        "event": "Roof rack containers start coming loose and rattling against the window, so we pull over and take them down before they completely fly off"
+      },      {
+        "time": "09:50",
+        "event": "We (the challenging group) arrive into a relevant car park"
+      },      {
+        "time": "10:01",
+        "event": "Begin march of approach"
+      },      {
+        "time": "10:13",
+        "event": "Begin effective climb"
+      },      {
+        "time": "10:43",
+        "event": "Breath-catch at a significant checkpoint"
+      },      {
+        "time": "11:26",
+        "event": "Stop on a pile of rocks from where we can see the summit"
+      },      {
+        "time": "11:38",
+        "event": "Split of edges: 5 of us (Roger, Hoy, Thomas & Maurice & Nick) form an even more challenging group, taking left towards Striding edge"
+      },      {
+        "time": "12:35",
+        "event": "We (the slightly less challenging group) emerge onto the plateau at alternative summit 1, namely a rock pile"
+      },      {
+        "time": "★",
+        "event": "Woosh past trig point, which might be the official summit"
+      },      {
+        "time": "★",
+        "event": "Why would there be a cycle up here, let alone a dozen?!"
+      },      {
+        "time": "12:40",
+        "event": "The challenging group rejoin at alternative summit 2, namely a stick"
+      },      {
+        "time": "12:51",
+        "event": "We establish radio contact with the fun group and they report having stopped for lunch and to attend to an asthma inconvenience. We ourselves stop for lunch"
+      },      {
+        "time": "13:10",
+        "event": "(Semi)group photo by the stick"
+      },      {
+        "time": "13:12",
+        "event": "Meanwhile the fun group report being able to see us over the valley. It's cold and we decide not to wait for them"
+      },      {
+        "time": "13:15",
+        "event": "Now it's suddenly sunny and we stop for reciprocal photo service by the trig point"
+      },      {
+        "time": "13:18",
+        "event": "Being descent"
+      },      {
+        "time": "★",
+        "event": "Wind… Stahp!"
+      },      {
+        "time": "14:07",
+        "event": "Fun group radio us as they have lost 3 people who walked ahead. They immediately find them"
+      },      {
+        "time": "15:30",
+        "event": "Tail of challenging group reaches minibus"
+      },      {
+        "time": "16:22",
+        "event": "Brief shopping"
+      },      {
+        "time": "16:46",
+        "event": "We arrive at accommodation"
+      },      {
+        "time": "",
+        "event": "Byron: Hmmm… Serena has the key."
+      },      {
+        "time": "",
+        "event": "Everyone: (Most desolated exclamation ever)"
+      },      {
+        "time": "",
+        "event": "Teo: If you have a hairpin we can probably lockpick this."
+      },      {
+        "time": "",
+        "event": "Nick: I may not have a hairpin, but I do have a boot!"
+      },      {
+        "time": "18:35",
+        "event": "Byron brings bleak news about the fun group, so we need to"
+      },      {
+        "time": "18:36",
+        "event": "get dinner started ahead of their arrival, but for that we need proper knives, for which we must pay a deposit,"
+      },      {
+        "time": "18:37",
+        "event": "towards which I lend him £10 to give the manager"
+      },      {
+        "time": "19:20",
+        "event": "Wild Serena appears, soon followed by the entire fun group"
+      },      {
+        "time": "20:10",
+        "event": "Dinner is served; food qual-o-meter reads 99%"
+      },      {
+        "time": "21:48",
+        "event": "We have acquired a table of 12 people of which none is strictly English"
+      },      {
+        "time": "23:00",
+        "event": "By this time a vast majority of us has gone to sleep"
+      },      {
+        "time": "07:20",
+        "event": "I get up; immediately I see breakfast going on"
+      },      {
+        "time": "09:00",
+        "event": "Pack up etc"
+      },      {
+        "time": "08:35",
+        "event": "We encounter a slight paradox in terms of people and bags distribution"
+      },      {
+        "time": "08:39",
+        "event": "Minibuses move"
+      },      {
+        "time": "10:39",
+        "event": "We reach the car park by Coniston visitor centre"
+      },      {
+        "time": "10:40",
+        "event": "Tom realises his rucksack is missing"
+      },      {
+        "time": "10:41",
+        "event": "After searching all minibus roof storages, we wager there was a mixup with another large group packing their vans next to us leading to Tom's rucksack being misplaced "
+      },      {
+        "time": "10:42",
+        "event": "Serena rings the bunkhouse and asks about the rucksack"
+      },      {
+        "time": "10:48",
+        "event": "Bunkhouse calls back and says it's been found"
+      },      {
+        "time": "10:52",
+        "event": "We split into a challenging group (led by Byron), a mid-speed group (led by Serena), and a Lakes group (led by Tom); the latter will detour back to the bunkhouse to recover the lost rucksack"
+      },      {
+        "time": "11:00",
+        "event": "The challenging group (13 people) escape pavement into nature. The road is already scrambly despite being nowhere near a mountain top yet"
+      },      {
+        "time": "11:58",
+        "event": "We reach a most infamous–looking rubble area (old quarry buildings), where 3–way contact is established and Byron persuades Manuel to wait for Serena's group"
+      },      {
+        "time": "12:05–12:24",
+        "event": "Lunch break on some big rocks by a lake (this being the Lake District, such a location label is quite useless)"
+      },      {
+        "time": "13:05",
+        "event": "Summit"
+      },      {
+        "time": "13:10",
+        "event": "Being descent, longer route"
+      },      {
+        "time": "13:45",
+        "event": "Respiro by Goats' Water (lake). Serena is not reachable by radio. We spot some brave climbers on the nearly vertical rock face opposite and attempt to zoom in on them with various cameras."
+      },      {
+        "time": "15:07",
+        "event": "Back into the town, we reach out to the other teams; seeing they're all still hiking, we have a free choice of pub to wait for them in and so choose the Crown Inn"
+      },      {
+        "time": "15:54",
+        "event": "Team Lakes arrive at the pub"
+      },      {
+        "time": "16:15",
+        "event": "We leave the pub"
+      },      {
+        "time": "16:32",
+        "event": "Team middle start gathering by the minibuses"
+      },      {
+        "time": "16:41",
+        "event": "Minibus 2 leaves"
+      },      {
+        "time": "17:42",
+        "event": "Minibus race on the motorway (insurance companies don't read this!)"
+      },      {
+        "time": "★",
+        "event": "Sam keeps driving"
+      },      {
+        "time": "19:03",
+        "event": "We stop in Chester to have dinner at the George Wetherspoon"
+      },      {
+        "time": "20:08",
+        "event": "Table 34 is the most eventful dinner table in a decade"
+      },      {
+        "time": "20:35",
+        "event": "We all leave Whetherspoon"
+      },      {
+        "time": "★",
+        "event": "On this leg of the journey, Roger drives, and Shaun's playlist suffers a momentary Disney shift"
+      },      {
+        "time": "22:51",
+        "event": "We exit the motorway for a final break and driver swap"
+      },      {
+        "time": "",
+        "event": "Byron: I don't think Serena and the others will stop here, because they missed the turn at the roundabout and ended up back on the motorway."
+      },      {
+        "time": "23:18",
+        "event": "Back on the road"
+      },      {
+        "time": "★",
+        "event": "Shaun drives the final stretch, which will be the more daunting one because of people being dropped off at their doors. Music qual-o-meter for the whole journey back: 88%"
+      },      {
+        "time": "00:43",
+        "event": "Refuel"
+      },      {
+        "time": "01:00",
+        "event": "Drop off Glen Eyre"
+      },      {
+        "time": "01:05",
+        "event": "Drop off Cantell School roundabout"
+      },      {
+        "time": "01:10",
+        "event": "Drop off Mayfield road"
+      },      {
+        "time": "01:14",
+        "event": "Drop off City Gateway"
+      },      {
+        "time": "01:16",
+        "event": "Drop off Wessex Lane. I am hereby no longer aware of the whereabouts of the minibus"
+      }
+    ]
+  },{
+    "date": "2018-04-28",
+    "start": "Bournemouth",
+    "finish": "Christchurch",
+    "ringLeader": "James",
+    "headCount": 7,
+    "committeeCount": 1
+  },{
+    "name": "New Forest Chocolate Fair Walk",
+    "date": "2018-04-21",
+    "start": "Ashurst",
+    "finish": "Brockenhurst",
+    "ringLeader": "Teo",
+    "headCount": 12,
+    "km": 16,
+    "checkpoints": [
+      {
+        "time": "9:40",
+        "event": "Begin walk"
+      },      {
+        "time": "★",
+        "event": "James: Should we look for a path or should we go cross-country?… Let's go cross-country!"
+      },      {
+        "time": "",
+        "event": "Teo: Platform Grass for the 9:50 CrossCountry service to the Next Path. Calling at Next Path only."
+      },      {
+        "time": "10:30",
+        "event": "A man sets us up for the bogs"
+      },      {
+        "time": "10:45",
+        "event": "Horses in the field"
+      },      {
+        "time": "",
+        "event": "Serena: They won't talk to me!"
+      },      {
+        "time": "",
+        "event": "Teo: Even though they know perfect English?"
+      },      {
+        "time": "11:51",
+        "event": "As we enter Lyndhurst on a narrow-ass sidewalk, a lorry speeds around a bend in the road, tilts over, and pushes us towards a high wall, allowing about 20cm on either side of our heads"
+      },      {
+        "time": "12:05",
+        "event": "Lunch around toilets building"
+      },      {
+        "time": "12:20",
+        "event": "Head to chocolate fair"
+      },      {
+        "time": "12:03",
+        "event": "Caution! Child throwing tantrum across path."
+      },      {
+        "time": "13:18",
+        "event": "After much toilet-disfunctionality-related kerfuffle, we leave Lyndhurst centre"
+      },      {
+        "time": "15:06",
+        "event": "We reach the renowned Green Area on the edge of Brockenhurst"
+      },      {
+        "time": "15:15",
+        "event": "Walk ends"
+      },      {
+        "time": "16:15",
+        "event": "I (Teo) should be employed with trains – people claim – because not only can I near-perfectly immitate platform announcements, but I also know to pull open a door which seems unwilling to slide open by itself."
+      }
+    ]
+  },{
+    "name": "Unofficial Official West Sussex day walk",
+    "date": "2018-04-07",
+    "start": "Fishbourne",
+    "finish": "Nutbourne",
+    "ringLeader": "Teo, Richard",
+    "headCount": 5,
+    "committeeCount": 1,
+    "km": 19.6,
+    "checkpoints": [
+      {
+        "time": "9:29",
+        "event": "We get on platform 2 for the 9:32 Southern train towards London Victoria. Platform panel says “Terminates here”. We look at the closed doors reluctantly and the platform attendant tells us to walk in."
+      },
+      {
+        "time": "9:31",
+        "event": "We find seats and get comfortable."
+      },
+      {
+        "time": "9:32",
+        "event": "In-train announcement says that “this train is no longer in public service.” We disappointedly get off. Meanwhile, platform panel says “9:32 London Victoria”"
+      },
+      {
+        "time": "★",
+        "event": "We wander aimlessly around the station; we can't completely overhaul our walk plans because of an arrangement with a member who has already gone to Chichester, earlier in the morning, for a pre-walk run"
+      },
+      {
+        "time": "10:05",
+        "event": "Back on platform 2, we board another train which looks suspiciously like the previous; platform panel says “10:13 Brighton”"
+      },
+      {
+        "time": "10:30",
+        "event": "We were supposed to start the walk, but in fact we've barley left Southampton"
+      },
+      {
+        "time": "11:09",
+        "event": "We'd have had 3 minutes to change in Chichester to catch the 11:14 stopping service back to Fishbourne were it not for the first train astonishingly being 2 minutes early. Richard runs across the bridge and almost boards the wrong train, which would have taken him back to Emsworth or all the way to Havant."
+      },
+      {
+        "time": "11:20",
+        "event": "Walk begins from Fishbourne, 50 minutes later than it should have"
+      },
+      {
+        "time": "★",
+        "event": "We proudly notice the group has, for the first time in ages, 100% appropriate footwear"
+      },
+      {
+        "time": "12:03",
+        "event": "Planned walk takes a turn for the worse when a forset we were planning to cross turns out to be a fenced off conservation area. We are forced to walk on some roads and to listen to Richard incessantly say that we should have stuck to the plan regardless."
+      },
+      {
+        "time": "12:44",
+        "event": "The middle of nowhere we thought this road to be going through suddenly becomes a post-modern posh villa village"
+      },
+      {
+        "time": "12:59",
+        "event": "We finally make it back to non-asphalt area and stop for lunch near some wooden benches on what could generously be called a beach"
+      },
+      {
+        "time": "13:27",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13:40",
+        "event": "Teo: “This mud is so wrong! It's just unlike all the muds we've been through recently.”"
+      },
+      {
+        "time": "★",
+        "event": "“Holy crap it's a crab” as we walk over (and further smash) the shards of what used to be a living crab's shell"
+      },
+      {
+        "time": "★",
+        "event": "A certain member who shall respectfully remain unnamed repeatedly asks strangers for directions, despite there existing current and future day walk secretaries who carry maps, compasses, and a perfectly functional sense of direction"
+      },
+      {
+        "time": "14:07",
+        "event": "Slightly high tide means the ford over a section of Bosham channel is not trivially traversable on foot. Once again it is proven that drying one's feet/complaining/laughing about it and walking around the long (dry) way take approximately equal amounts of time."
+      },
+      {
+        "time": "14:22-14:24",
+        "event": "Accidental stop by ice cream van"
+      },
+      {
+        "time": "15:22-15:24",
+        "event": "45° pause"
+      },
+      {
+        "time": "16:37",
+        "event": "Walk ends at the Barleycorn in Nutbourne after 19.6km"
+      }
+    ]
+  },{
+    "name": "Unofficial Official Taddiford Gap Coastal Walk",
+    "date": "2018-03-31",
+    "start": "New Milton",
+    "finish": "Lymington",
+    "ringLeader": "Richard, Teo",
+    "headCount": 9,
+    "committeeCount": 1,
+    "km": 23,
+    "checkpoints": [
+      {
+        "time": "9:53",
+        "event": "Walk begins from New Milton station"
+      },
+      {
+        "time": "10:08",
+        "event": "We reach a roundabout much discussed on the map, but it looks like just an ordinary roundabout"
+      },
+      {
+        "time": "10:12",
+        "event": "Bogs (Richard receives death threats)"
+      },
+      {
+        "time": "10:28",
+        "event": "Dogs"
+      },
+      {
+        "time": "11:21",
+        "event": "Break by Milford on Sea Kiosk and beach recently cleared of warfare metalworks"
+      },
+      {
+        "time": "11:58-12:18",
+        "event": "Lunch break"
+      },
+      {
+        "time": "12:48",
+        "event": "We reach the easy side of Hurst castle"
+      },
+      {
+        "time": "13:08",
+        "event": "We reach the dark side of Hurst castle, which for matters of high tides requires walking a certain length of knee-deep ocean water. In spite of everybody else, I (Teo) decide to detour the whole entire rest of the castle to get on the other side of this wet and salty adventure."
+      },
+      {
+        "time": "13:21",
+        "event": "It turns out parkouing all the dry contour of Hurst castle and drying one's feet/complaining about it take approximately equal amounts of time"
+      },
+      {
+        "time": "14:06",
+        "event": "As we walk on a half flooded road, a car comes from ahead. Despite being a car and despite the flood being on its half of the road, the car pulls over onto our side, forcing us to walk through the flood."
+      },
+      {
+        "time": "14:27",
+        "event": "Art gallery in Milford on Sea"
+      },
+      {
+        "time": "16:48",
+        "event": "Walk ends at The Ship Inn after 23km,"
+      },
+      {
+        "time": "16:55",
+        "event": "but then we change our minds"
+      },
+      {
+        "time": "17:07",
+        "event": "and (while Matt R preorders through an app just to spite us… OK perhaps he was hungry)"
+      },
+      {
+        "time": "17:11",
+        "event": "we end up in Wetherspoons,"
+      },
+      {
+        "time": "17:22",
+        "event": "where we drink and eat and eat and drink"
+      },
+      {
+        "time": "18:11",
+        "event": "until we leave"
+      },
+      {
+        "time": "18:23",
+        "event": "and reach the station to catch the 18:29 northbound."
+      }
+    ]
+  },{
+    "name": "Golden Cap day trip",
+    "date": "2018-03-17",
+    "start": "Bridport & West Bay",
+    "finish": "Bridport & West Bay",
+    "ringLeader": "Byron, Serena",
+    "headCount": 30,
+    "committeeCount": 9,
+    "km": 25.5,
+    "checkpoints": [
+      {
+        "time": "8:38",
+        "event": "Minibuses set off from before the Union building"
+      },
+      {
+        "time": "★",
+        "event": "Tom drives and DJs minibus 2. Music quality on my personal, non-relatable scale: 96%"
+      },
+      {
+        "time": "10:18",
+        "event": "Minibus 2 arrives at Bridport and stops in a car park, then we wait for the others inside for a bit"
+      },
+      {
+        "time": "10:24",
+        "event": "Izzy: It's arctic winds, let's go back home!"
+      },
+      {
+        "time": "10:25",
+        "event": "Minibus 1 arrives."
+      },
+      {
+        "time": "",
+        "event": "Tom: You overtook us twice, we never overtook you, yet we arrived first!"
+      },
+      {
+        "time": "",
+        "event": "James: Yea, we took a wrong turn…"
+      },
+      {
+        "time": "10:43",
+        "event": "After final map clarifications, we split into 2 groups. The fast (and longer distance covering) group, led by Byron, is formed originally of 17 people, myself (Teo) included; the slow (and fun?) group, led by Serena, is formed of 13 people. As such, we set off for the walk."
+      },
+      {
+        "time": "10:49",
+        "event": "Asphalt ends and real climb begins"
+      },
+      {
+        "time": "10:59",
+        "event": "We (the fast group) reach the first hilltop, where there are winds! Though nothing like what's going to be waiting for us in the evening."
+      },
+      {
+        "time": "11:01",
+        "event": "Izzy and Matt R fall back to the slow group (due to Izzy's purposefully very heavy rucksack that she brought for her personal training, for which we congratulate her) equalising group sizes"
+      },
+      {
+        "time": "11:13",
+        "event": "And we're at sea/river level again. Clearly this is Jurassic Coast Deluxe."
+      },
+      {
+        "time": "11:37",
+        "event": "We reached the top of the tallest hill visible; meanwhile the slow group radio in and report having stopped on the beach (perhaps for a swim? Did I mishear that?)"
+      },
+      {
+        "time": "12:02",
+        "event": "We miss a clear “coastal path diversion” sign and end up in an overgrown landslide"
+      },
+      {
+        "time": "12:37",
+        "event": "Snow starts to settle on hat tops and lands. / Crosswinds and snowflakes at high speed draw bands / Across my vision. It looks so bizarre: / I watch my life on an old VCR."
+      },
+      {
+        "time": "12:46",
+        "event": "Coffee/water & bread break (Joe is bae)"
+      },
+      {
+        "time": "12:54",
+        "event": "Golden Cap trig point"
+      },
+      {
+        "time": "12:57",
+        "event": "Golden Cap tombstone"
+      },
+      {
+        "time": "13:00",
+        "event": "After debating wind, temperature, and stomach conditions, we stop for lunch under the precarious protection from wind granted by bushes, dirt bumps, and the Golden Cap tombstone itself (I know it's not a tombstone but it looks awfully like one)"
+      },
+      {
+        "time": "~13:40",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "14:20",
+        "event": "Significant bench stop"
+      },
+      {
+        "time": "14:36",
+        "event": "We hit a critical turning point from which we start heading back toward Bridport; meanwhile the slow group have just reached the Golden Cap tombstone and Serena radios out her dismay of Tom's unexemplary behaviour of standing up on the Golden Cap trig point"
+      },
+      {
+        "time": "15:05",
+        "event": "Stanton St Gabriel"
+      },
+      {
+        "time": "15:32",
+        "event": "Along a flooded muddy road, attempting to bypass the bogs by holding onto the right fence and climbing on the side,"
+      },
+      {
+        "time": "15:33",
+        "event": "we catch up with the slow group, who have just reached safe terrain after the same muddy manoeuvre"
+      },
+      {
+        "time": "15:34",
+        "event": "and are now attending a barbed wire first aid event"
+      },
+      {
+        "time": "15:35",
+        "event": "but we steam past as we have no sense of compassion"
+      },
+      {
+        "time": "15:55",
+        "event": "Merging back into the outbound path, we stop halfway up a hill on a bench for a water break. Looking back we see the slow group and notice they're not making much progress. We ask them if everything is fine and they radio back informing us of their in progress biscuit break"
+      },
+      {
+        "time": "16:56",
+        "event": "We're half a mile from the town according to a signpost, while the slow group report being half an hour behind us"
+      },
+      {
+        "time": "17:03",
+        "event": "We reach the town seafront asphalt street"
+      },
+      {
+        "time": "17:10",
+        "event": "In front of The George pub, we employ my mud brush to prevent catastrophic damage to the pub's carpets"
+      },
+      {
+        "time": "17:17",
+        "event": "We take seats in the pub, having walked 25.5 km according to Richard's distance tracker"
+      },
+      {
+        "time": "17:20",
+        "event": "Pints of Thatcher's and other beverages fly onto our table; my face is burning red from the sudden change in temperature and airflow conditions"
+      },
+      {
+        "time": "17:40",
+        "event": "The fast part of the slow group, consisting of 9 people, arrive at the pub"
+      },
+      {
+        "time": "17:52",
+        "event": "Through the pub window, we get a visual of the remaining 6 people approaching"
+      },
+      {
+        "time": "17:53",
+        "event": "Izzy & Matt R arrive at the pub"
+      },
+      {
+        "time": "17:56",
+        "event": "Food starts being served and people who don't remember what they'd preorderer are alarmed, because only Serena has the list of preorders but she is still out, closing the convoy"
+      },
+      {
+        "time": "18:04",
+        "event": "The slow part of the slow group arrive at the pub finally and the walk unequivocally ends"
+      },
+      {
+        "time": "19:46",
+        "event": "We all leave the pub"
+      },
+      {
+        "time": "19:59",
+        "event": "Minibuses depart"
+      },
+      {
+        "time": "★",
+        "event": "Shaun drives and DJs minibus 2. Music quality on my personal, non-relatable scale: 72%"
+      },
+      {
+        "time": "21:38",
+        "event": "Minibus 2 arrives in the designated parking spot with a full tank and 15 dead-legged hillwalkers"
+      }
+    ]
+  },{
+    "name": "Marathon walk with Water Aid",
+    "date": "2018-03-10",
+    "start": "Southampton Uni (SUSU Building)",
+    "finish": "Fareham station",
+    "ringLeader": "Tom",
+    "headCount": 26,
+    "committeeCount": 4,
+    "km": 42,
+    "checkpoints": [
+    {
+        "time": "7:07",
+        "event": "Happy group photo of 25 people who are about to walk a marathon, oblivious to how f*** long that actually is"
+      },{
+        "time": "7:12",
+        "event": "Make a move"
+      },{
+        "time": "7:25",
+        "event": "First person realises they should have used the loo before we left for a 26 mile walk"
+      },{
+        "time": "7:37",
+        "event": "We reach Riverside Park, but unforecast rain starts"
+      },{
+        "time": "7:49",
+        "event": "Despite valiant attempts we fail to push a paddle-boarder off his board by blowing at him from the opposite side of the river"
+      },{
+        "time": "8:18",
+        "event": "Wide road cross at trash pile cranes"
+      },{
+        "time": "8:56",
+        "event": "Quick catch-up @5.1mi"
+      },{
+        "time": "9:11",
+        "event": "Reachard (the event of Richard reaching us)"
+      },{
+        "time": "9:27",
+        "event": "Public facilities (toilet) break @6.6mi"
+      },{
+        "time": "9:40",
+        "event": "Shoe-stealing mud occurs at a flooded bend in the road. Only vested members with vested walking boots make it through without significant effort"
+      },{
+        "time": "9:59",
+        "event": "\"Tom! Slow down!!!\" (Richard's voice is like a walkie talkie, but better: it doesn't need batteries)"
+      },{
+        "time": "10:38",
+        "event": "Regathering finally after dogs distraction through elevated forest path @9mi"
+      },{
+        "time": "11:04",
+        "event": "\"Let's just say it's mud\""
+      },{
+        "time": "11:29",
+        "event": "Pass by Bursledon stn @11.6mi. We almost lose Izzy, but we don't"
+      },{
+        "time": "12:15",
+        "event": "Past halfway @13.4mi and walkie talkies are finally called to action to keep contact between the front and back of the group which now stretches over several hundred yards, beyond reliable visual contact (despite the path being coastal)"
+      },{
+        "time": "12:36",
+        "event": "Ferry shelter with no ferry"
+      },{
+        "time": "12:41",
+        "event": "Lunch pub, Rising Sun @14.6mi (or 13.9mi or 15.6mi depending whose distance tracker you trust)"
+      },{
+        "time": "12:57",
+        "event": "Extra beer appears on the table that no one claims"
+      },{
+        "time": "13:23",
+        "event": "Spare burger is brought to the table thanks to a confusion in the order. We look at it suspiciously thinking that perhaps the first one to touch it will be forced to pay for it"
+      },{
+        "time": "13:44",
+        "event": "Everyone vanishes from the tables"
+      },{
+        "time": "14:03",
+        "event": "Out of pub, half-happy group photo of 26 people who are yet to walk almost as much as they have already"
+      },{
+        "time": "14:51",
+        "event": "Map/detour recalculation @16.7mi"
+      },{
+        "time": "15:27",
+        "event": "Confusion!"
+      },{
+        "time": "15:55",
+        "event": "Rest on beach corner 10 min @19.4mi"
+      },{
+        "time": "16:05",
+        "event": "James appears! (but we won't count him as having done the walk)"
+      },{
+        "time": "17:27",
+        "event": "Approximately 3mi left"
+      },{
+        "time": "17:41",
+        "event": "Quest: We should get back before the sun goes down."
+      },{
+        "time": "18:14",
+        "event": "Small police force show before Fareham stn"
+      },{
+        "time": "18:15",
+        "event": "Hit Fareham stn. Various distance trackers say: 26.5/26.2/25.3mi"
+      }
+    ]
+  },{
+    "date": "2018-02-24",
+    "start": "Salisbury",
+    "finish": "Salisbury",
+    "ringLeader": "Teo",
+    "headCount": 21,
+    "committeeCount": 6,
+    "checkpoints": [
+      {
+        "time": "10:55",
+        "event": "Cathedral"
+      },{
+        "time": "11:11",
+        "event": "Rams in middle of Salisbury"
+      },{
+        "time": "11:22",
+        "event": "Serena's bench break"
+      },{
+        "time": "12:18",
+        "event": "Biscuit break"
+      },{
+        "time": "13:25±10",
+        "event": "Lunch break"
+      },{
+        "time": "14:49",
+        "event": "Waiting for catch-up at 4 dirt paths crossroads"
+      },{
+        "time": "15:53",
+        "event": "Re entry – walk ends at usual pub"
+      },{
+        "time": "16:18",
+        "event": "Most of us leave or have already left the pub to catch the 16:33 back"
+      }
+    ]
+  },{
+    "date": "2018-02-10",
+    "start": "Winchfield",
+    "finish": "Hook",
+    "ringLeader": "Teo",
+    "headCount": 24,
+    "committeeCount": 3,
+    "km": 13,
+    "checkpoints": [
+      {
+        "time": "9.18",
+        "event": "Board train, with some people missing it due to excessive fumbling-around"
+      },
+      {
+        "time": "10.07",
+        "event": "Walk starts, with 21 people"
+      },
+      {
+        "time": "10.19",
+        "event": "Bogs occur"
+      },
+      {
+        "time": "10.41",
+        "event": "Spontaneous biscuit break"
+      },
+      {
+        "time": "10.57",
+        "event": "Richard: Where are we? Teo: Hartley Wintney. Richard: That's correct, 'cause it's hardly windy!"
+      },
+      {
+        "time": "11.07",
+        "event": "Richard attempts to direct the 3 people who missed the train in our direction using live location over dodgy 4G signal"
+      },
+      {
+        "time": "12.18",
+        "event": "Lunch break"
+      },
+      {
+        "time": "12.27",
+        "event": "The 3 people manage to find us"
+      },
+      {
+        "time": "12.43",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "13.05",
+        "event": "Path is interrupted by a horse. A lady appears and ties the horse so we can pass."
+      },
+      {
+        "time": "13.59",
+        "event": "Hit edge of Hook town"
+      },
+      {
+        "time": "14.11",
+        "event": "Walk ends at pub: Old White Hart"
+      },
+      {
+        "time": "14.40",
+        "event": "Somebody who left the pub early and got to the station to get the 14.48 train realises she lost her phone in the pub. Meanwhile, we are eating burgers and can confirm an abandoned phone on a bench."
+      },
+      {
+        "time": "14.51",
+        "event": "Phone is retrieved, but train has been missed"
+      },
+      {
+        "time": "15.26",
+        "event": "We get the 15.18 train to Basingstoke. Then onwards to Southampton"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "All recorded history of the club's walks that we can access confirm that this is the very first time we have done a walk in this area."
+      }
+    ]
+  },{
+    "name":"Brecon Beacons Away Trip",
+    "date": "2018-02-02 - 04"
+  },{
+    "start": "Fareham",
+    "finish": "Bursledon",
+    "date": "2018-01-27",
+    "ringLeader": "James"
+  },{
+    "start": "Shawford",
+    "finish": "Winchester",
+    "date": "2018-01-20",
+    "ringLeader": "James"
+  },{
+    "name":"Mendip Hills Away Trip",
+    "date": "2017-12-08 - 10"
+  },{
+    "name": "Christmas Combo Madness Social",
+    "date": "2017-12-05",
+    "start": "The Stable",
+    "finish": "The Flying Dutchman",
+    "ringLeader": "Izzy",
+    "committeeCount": 9,
+    "checkpoints": [
+      {
+        "time": "18:15",
+        "event": "I arrive at the Stable"
+      },
+      {
+        "time": "20:00",
+        "event": "Richard hijacks part of the group and takes them to Sprinkles"
+      },
+      {
+        "time": "20:05",
+        "event": "The rest of the group leave the Stable"
+      },
+      {
+        "time": "20:30",
+        "event": "Front group arrive at the Flying Dutchman, sans Izzy who was here ages before thanks to a taxi"
+      },
+      {
+        "time": "20:45",
+        "event": "Richard's group arrive at the Flying Dutchman"
+      },
+      {
+        "time": "22:10",
+        "event": "Shots x2 aka pocket emptification 5000"
+      },
+      {
+        "time": "22:25",
+        "event": "Tom the President acquires a faulty shoulder"
+      },
+      {
+        "time": "22:42",
+        "event": "The faulty shoulder (and its possessor) is taken to A&E"
+      },
+      {
+        "time": "23:20",
+        "event": "Arrive at the afterparty place"
+      },
+      {
+        "time": "23:38",
+        "event": "Failed attempt at a game of Twister"
+      },
+      {
+        "time": "00:55",
+        "event": "Nothing happens. I become bored and leave."
+      }
+    ]
+  },{
+    "name": "Santa Walk joint with MindSoc",
+    "date": "2017-12-02",
+    "start": "Southampton Uni (SUSU Building)",
+    "finish": "Winchester Christmas Market",
+    "ringLeader": "Teo",
+    "headCount": 29,
+    "committeeCount": 6,
+    "km": 14,
+    "checkpoints": [
+      {
+        "time": "9:45",
+        "event": "Walk starts (sans Tom who stops at Costa for breakfast). We believe we have 24 people, which may or may not be true."
+      },
+      {
+        "time": "11:10",
+        "event": "James calls Tom to find out he's in the company of a few stray people"
+      },
+      {
+        "time": "11:28",
+        "event": "Tom and 8 others merge at the back of the main group, yielding a total of 29, because maths"
+      },
+      {
+        "time": "12:45",
+        "event": "Lunch break"
+      },
+      {
+        "time": "13:13",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "15:42",
+        "event": "Walk ends in distress because we don't want to take responsibility for people being lost in the crowds around the Winchester Christmas markets"
+      }
+    ]
+  },{
+    "date": "2017-11-18",
+    "start": "Dean",
+    "finish": "Dean",
+    "ringLeader": "Teo",
+    "headCount": 19,
+    "committeeCount": 7,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "10:05",
+        "event": "Walk begins."
+      },
+      {
+        "time": "12:30-12:57",
+        "event": "Lunch break"
+      },
+      {
+        "time": "13:28",
+        "event": "Phone drop calamity. 2 people branch off and backtrack in search of the lost phone."
+      },
+      {
+        "time": "14:26",
+        "event": "Garden stairs madness"
+      },
+      {
+        "time": "14:50-15:22",
+        "event": "Marwell Zoo Car Park reloaded, with more thorns"
+      },
+      {
+        "time": "16:41",
+        "event": "Hit station. Walk ends."
+      },
+      {
+        "time": "16:51",
+        "event": "The 2 people rejoin"
+      }
+    ]
+  },{
+    "date": "2017-11-11",
+    "start": "Salisbury",
+    "finish": "Salisbury",
+    "ringLeader": "James",
+    "headCount": 31,
+    "committeeCount": 5,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "10.00",
+        "event": "Train ticket madness"
+      },{
+        "time": "10.19",
+        "event": "Walk starts from Salisbury station with 29 people"
+      },{
+        "time": "10.40",
+        "event": "Confusion around cathedral diversion and minor navigation error"
+      },{
+        "time": "10.52",
+        "event": "'Nice room!'"
+      },{
+        "time": "11.38",
+        "event": "Two more people join"
+      },{
+        "time": "12.48",
+        "event": "Lunch"
+      },{
+        "time": "15.56",
+        "event": "Walk ends. 8 people detach and go to the pub, the rest head up to the train station"
+      }
+    ]
+  },{
+    "name": "Winchester Fireworks and Treasure Hunt combo",
+    "date": "2017-11-4",
+    "start": "Winchester",
+    "finish": "Winchester",
+    "ringLeader": "Rosie",
+    "checkpoints": [
+      {
+        "time": "10:40",
+        "event": "Congregation of treasure hunt participants outside Winchester station and quest sheets distribution"
+      },
+      {
+        "time": "10:55",
+        "event": "Team JTTM (My team. Our actual team name was so irrelevant I can't remember it.) leaves the station"
+      },
+      {
+        "time": "11:02",
+        "event": "JTTM: 2. Social media challenge launched"
+      },
+      {
+        "time": "11:12",
+        "event": "JTTM: 1. Train station"
+      },
+      {
+        "time": "11:26",
+        "event": "JTTM: 23. WSA"
+      },
+      {
+        "time": "11:31",
+        "event": "JTTM: 8. Dog"
+      },
+      {
+        "time": "11:38",
+        "event": "JTTM: 4. Winchester Market"
+      },
+      {
+        "time": "11:48",
+        "event": "JTTM: 29. Old Mill"
+      },
+      {
+        "time": "12:03",
+        "event": "JTTM: 25. River Itchen. 19. Swans"
+      },
+      {
+        "time": "12:06",
+        "event": "JTTM: 27. Sport of love"
+      },
+      {
+        "time": "12:22",
+        "event": "JTTM: 28. St Catherine's Hill Titanic enactment"
+      },
+      {
+        "time": "13:11",
+        "event": "JTTM: 31. Landscape"
+      },
+      {
+        "time": "13:25",
+        "event": "JTTM: 19. Ducks"
+      },
+      {
+        "time": "14:17",
+        "event": "JTTM: 20. Viaduct battle enactment"
+      },
+      {
+        "time": "14:28",
+        "event": "JTTM: 11. Birdie"
+      },
+      {
+        "time": "15:16",
+        "event": "JTTM: 16. King Alfred statue"
+      },
+      {
+        "time": "15:35",
+        "event": "JTTM: 10. Winchester Cathedral Lion King enactment"
+      },
+      {
+        "time": "15:44",
+        "event": "JTTM: 5. Sunglasses"
+      },
+      {
+        "time": "15:54",
+        "event": "JTTM: 26. Where Rosie would work"
+      },
+      {
+        "time": "15:58",
+        "event": "JTTM: 15. Round table"
+      },
+      {
+        "time": "16:16",
+        "event": "JTTM: Collapse at pub"
+      },
+      {
+        "time": "17:29",
+        "event": "JTTM: 13. Pay Rosie a visit"
+      },
+      {
+        "time": "18:57",
+        "event": "We join the procession"
+      },
+      {
+        "time": "19:30",
+        "event": "Bonfire is lit"
+      },
+      {
+        "time": "20:00",
+        "event": "Fireworks set off"
+      },
+      {
+        "time": "20:24",
+        "event": "Fireworks die (bonfire still lives)"
+      },
+      {
+        "time": "21:39",
+        "event": "(Very packed) train home"
+      }
+    ]
+  },
+  {
+    "name": "Snowdonia National Park Away Trip",
+    "date": "2017-10-27 - 29",
+    "headCount": 26,
+    "committeeCount": 6,
+    "ringLeader": "Byron",
+    "checkpoints": [
+      {
+        "time": "16.45",
+        "event": "Met at interchange ready to depart"
+      },
+      {
+        "time": "17.00",
+        "event": "Planned leaving time"
+      },
+      {
+        "time": "17.02",
+        "event": "I (Teo) arrive at meeting point"
+      },
+      {
+        "time": "17.25",
+        "event": "Arshad shows up!"
+      },
+      {
+        "time": "17.50",
+        "event": "Minibus 2 leaves ('2' is the number painted on the minibus and has no mathematical or logical significance; the other minibus is numbered '3')"
+      },
+      {
+        "time": "18.00",
+        "event": "Actually left due to SUSU’s appalling management system with the minibuses (they originally thought we only had one minibus booked, and wanted to do an oil check on all the buses before we left)"
+      },
+      {
+        "time": "18:00-20:15",
+        "event": "Car takes A34 then M4 to Swindon before turning north. Minibuses stay on A34 and get caught up with traffic due to accidents near Oxford"
+      },
+      {
+        "time": "18.56",
+        "event": "Minibus 2: Google commercial (Google maps predicts with an accuracy of seconds the beginning of a long traffic jam behind an accident)"
+      },
+      {
+        "time": "20.02",
+        "event": "Minibus 2: Police. Move over. 4 cars in a crash."
+      },
+      {
+        "time": "20.15",
+        "event": "Car (Eilish, Serena, Nan Zhou and I (Tom)) stop for dinner in Tewkesbury services. Minibuses 2&3 have just cleared A34 traffic by Oxford."
+      },
+      {
+        "time": "20.22–20.52",
+        "event": "Minibus 2: Dinner stop. I mean McDonald's poisoning session. Also driver swap."
+      },
+      {
+        "time": "20.55",
+        "event": "Minibus 2: Burger metaphor"
+      },
+      {
+        "time": "21.06",
+        "event": "Minibus 2: British metaphor"
+      },
+      {
+        "time": "22.52",
+        "event": "Minibus 2: Re driver swap"
+      },
+      {
+        "time": "0.30",
+        "event": "Car arrives at bunkhouses (after missing the turning). Minibuses aren’t in sight."
+      },
+      {
+        "time": "0.38",
+        "event": "Minibus 3 overtakes Minibus 2"
+      },
+      {
+        "time": "0.42",
+        "event": "Minibus 2: Song quest"
+      },
+      {
+        "time": "1.00",
+        "event": "Still no sign of minibuses, Joe had informed us (Tom&co) earlier they should be approx half an hour behind us. "
+      },
+      {
+        "time": "1.03",
+        "event": "For uninvestigated reasons of high stupidity, Minibus 3 stops and turns in the road claiming we're going the wrong way. We follow them into what will become an excerpt from hell."
+      },
+      {
+        "time": "1.06",
+        "event": "Excerpt from hell begins"
+      },
+      {
+        "time": "1.17",
+        "event": "'Keep driving! Drive already!!!' (Weirdest encounter ever: A woman walking her dog in the dead of night versus two Uni of Southampton minibuses on a narrow-ass country road; and I don't know which is weirder)"
+      },
+      {
+        "time": "1.46",
+        "event": "Minibus 2 hits accommodation"
+      },
+      {
+        "time": "2.00",
+        "event": "After varying phone calls or various degrees of panic, minibus 2 finally shows up. Minibus 3 is apparently stuck approx 5 miles from bunkhouses."
+      },
+      {
+        "time": "2.02",
+        "event": "Serena: There is some toilet paper, but I think it's in the other minibus."
+      },
+      {
+        "time": "",
+        "event": "Teo: There is some in the toilets, but it's soggy. And there's a caterpillar in the sink, but other than that all good."
+      },
+      {
+        "time": "2.30",
+        "event": "Arrive at stranded minibus."
+      },
+      {
+        "time": "2.55",
+        "event": "People from Minibus 3 have been rescued and brought to accommodation"
+      },
+      {
+        "time": "03.00",
+        "event": "started writing this out of boredom"
+      },
+      {
+        "time": "03.30",
+        "event": "No sign of recovery yet and when we (Tom&co) phoned again the guy couldn’t even pronounce the name of the garage that’s coming to help."
+      },
+      {
+        "time": "04.20",
+        "event": "Discover voice message from 10 mins ago from recovery. Phoned back and described situation and best approach. "
+      },
+      {
+        "time": "04.30",
+        "event": "Recovery guy arrives! (In a very well kitted out defender I might add)"
+      },
+      {
+        "time": "05.10",
+        "event": "Finally get moving again!"
+      },
+      {
+        "time": "05.30",
+        "event": "Minibus 3 arrives!"
+      },
+      {
+        "time": "06.00",
+        "event": "Bedtime! (for Tom&co)"
+      },
+      {
+        "time": "8.00",
+        "event": "Presumably ​somebody wakes up"
+      },
+      {
+        "time": "9.00",
+        "event": "I (Teo) wake up"
+      },
+      {
+        "time": "10.00",
+        "event": "Everyone apart from those who got back at 0530 (Daisy, Jacob, Arshad, Matt and I), are up and preparing to go out for a day’s walk, short local one is planned."
+      },
+      {
+        "time": "10.15",
+        "event": "Stash distribution"
+      },
+      {
+        "time": "10.30",
+        "event": "Main group (21 people) set off for main walk"
+      },
+      {
+        "time": "11.11",
+        "event": "Main group: Muddy roads orientation séance"
+      },
+      {
+        "time": "11.39",
+        "event": "Sam: My whole leg just vanished! (mud hole terrors)"
+      },
+      {
+        "time": "12.00",
+        "event": "Entire 6am bedtime group is up and preparing for their walk."
+      },
+      {
+        "time": "12.30-13.00",
+        "event": "Main group: Windy lunch"
+      },
+      {
+        "time": "13.00",
+        "event": "After a midday breakfast of porridge, the 5 minibus campers set off for a local walk, taking a different route to the other group."
+      },
+      {
+        "time": "14.30",
+        "event": "Stranded Minibus group stop for lunch."
+      },
+      {
+        "time": "14.37",
+        "event": "Main group: Group photo and comfortable mother nature"
+      },
+      {
+        "time": "14.52",
+        "event": "Main group: Navigational error due to fence and forest on map being absent in reality"
+      },
+      {
+        "time": "15.33",
+        "event": "End of bogs"
+      },
+      {
+        "time": "15.59",
+        "event": "Nope!"
+      },
+      {
+        "time": "17.00",
+        "event": "Stranded minibus group makes it back to the bunkhouse, cold, muddy and damp but overall still a reasonably good walk. No sign of other group."
+      },
+      {
+        "time": "17.05",
+        "event": "Phone contact made with other group, their ‘short local’ walk turned out to be shorter and more ambitious than originally planned. They are approx 10 mins away. Unsure who is going to manage Snowdon the next day."
+      },
+      {
+        "time": "17.30",
+        "event": "Main group: Fast half hit accommodation"
+      },
+      {
+        "time": "17.42",
+        "event": "Main group: Slow half hit accommodation"
+      },
+      {
+        "time": "19.00",
+        "event": "Leave for Bangor for pub for dinner etc"
+      },
+      {
+        "time": "19.22",
+        "event": "Navigational error due to inconsistent satnavs / road vehicle height restrictions"
+      },
+      {
+        "time": "19.45",
+        "event": "We arrive at the local weatherspoons, The Black Bull. Ordering quickly turns into a competition to see who can have the most calories in their meal."
+      },
+      {
+        "time": "22.00",
+        "event": "Joe has won the calorie competition having managed just over 3000. Everyone heads back to the minibuses and travels to the bunkhouses."
+      },
+      {
+        "time": "22.45",
+        "event": "The firebasket is lit, Arshad gets shouted at for letting smoke into doors whilst trying to take a long-exposure. Alcohol fire-breathing fails dismally."
+      },
+      {
+        "time": "0.00",
+        "event": "The firebasket has been put out, everyone is in bed and looking forward to the extra hours sleep from the clocks going back. Snowdon in the morning!"
+      },
+      {
+        "time": "0.00",
+        "event": "I (Teo) sleep"
+      },
+      {
+        "time": "2.00/1.00",
+        "event": "Daylight Saving Time ends"
+      },
+      {
+        "time": "7.00",
+        "event": "Rise and shine! "
+      },
+      {
+        "time": "7.25",
+        "event": "Room 7 wake up call"
+      },
+      {
+        "time": "8.30",
+        "event": "Everyone is packing up, hoping to be out by 0900"
+      },
+      {
+        "time": "9.07",
+        "event": "Minibus 2 leaves"
+      },
+      {
+        "time": "9.28-10.04",
+        "event": "Parking madness"
+      },
+      {
+        "time": "10.00",
+        "event": "Pen-y-pass Car Park is full, after driving up and down the road the minibuses drop people at the carpark then park about half an hour’s hike away."
+      },
+      {
+        "time": "10.05-10.39",
+        "event": "Plan split madness"
+      },
+      {
+        "time": "10.25",
+        "event": "Daisy and I (Tom) reach the pen-y-pass carpark. The decision is taken to split into two groups, one to take Pyg to the summit and come back down miners, the other to go up miners and down Pyg without ascending all the way to the summit."
+      },
+      {
+        "time": "10.39",
+        "event": "Strong group (20 people) head up Pyg track towards Snowdon summit"
+      },
+      {
+        "time": "11.00",
+        "event": "Strong group: The complaints start to surface…. the fast walkers are too fast. The slow walkers are too slow, and no-one is keeping pace. After a brief pause the group gets going as a whole again."
+      },
+      {
+        "time": "11.12",
+        "event": "Strong group: Contact is made with Jacob and Shaun, they are about 15 mins behind us and catching up reasonably rapidly."
+      },
+      {
+        "time": "12.40-13.03",
+        "event": "Strong group: Lunch"
+      },
+      {
+        "time": "13.52",
+        "event": "Strong group hit railway"
+      },
+      {
+        "time": "14.19",
+        "event": "Strong group: Summit photo session"
+      },
+      {
+        "time": "14.44",
+        "event": "Strong group: Coffee shop"
+      },
+      {
+        "time": "15.00",
+        "event": "Strong group: After dosing up on caffeine we start the descent."
+      },
+      {
+        "time": "15.25",
+        "event": "Strong group: At wire-fenced rocks corner, Daisy, Matt and I (Tom) split off and go ahead to try and get the minibuses in time for everyone else getting down."
+      },
+      {
+        "time": "16.06",
+        "event": "Strong group: Throwing pebbles into lake"
+      },
+      {
+        "time": "17.15",
+        "event": "We (Tom&co) arrive at the carpark but after failing to locate Sam we start the extra half an hour hike to the minibuses."
+      },
+      {
+        "time": "17.45",
+        "event": "We all leave the long-damned car park"
+      },
+      {
+        "time": "20.00-21.00",
+        "event": "Minibus 3: Stop for food in Telford services."
+      },
+      {
+        "time": "20.00",
+        "event": "Dinner stop and minibus 2 driver swap"
+      },
+      {
+        "time": "21.05",
+        "event": "We approach a roundabout. We brake. I (Tom) drop my coffee. It is a sad day."
+      },
+      {
+        "time": "22.50",
+        "event": "Minibus 2: Re driver swap"
+      },
+      {
+        "time": "0.15",
+        "event": "Minibus 3 arrives back in Southampton! We park up, then between 4 of us manage to carry all the random Away Trip kit back to my house. "
+      },
+      {
+        "time": "0.21",
+        "event": "I (Teo) reach home"
+      },
+      {
+        "time": "0.45",
+        "event": "I (Tom) am home. The trip is over. It was good fun. But now the bed is calling."
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Tom",
+        "what": "The stranded minibus situation! Minibus 2&3 turned off the A5 for some reason (According to minibus 2, turn off was due to navigation error with Arshad using a map not a satnav). Whilst going up a hill, minibus 3 starts to get clutch problems. Minibus 2 makes it up the hill, minibus 3 decides clutch is fucked, hill ahead is far too steep, try and turn around. Through some witchcraft, minibus 3 ends up with front against a stone wall and rear wheels stuck in mud. After adding stones to try and provide extra traction and not succeeding, minibus 2 is despatched to the bottom of the hill to collect 3’s passengers. Minibus 3’s passengers hike 1km to minibus 2 and get back to bunkhouses safely. Minibus 3 is now left stranded awaiting assistance. After a very long wait, and a lack of decent communication from the RAC, the recovery vehicle arrives. Defender 90 equipped with winch, snorkel, and all manner of gadgets in the back. After a failed attempt with traction mats, and a failed attempt to squeeze the defender around the rear of the minibus, we begin to debate the feasibility of winching the minibus to a straightened orientation. After this turns out to be futile without damaging the fence, wall or minibus, metal traction ladders are brought into play. These prove to be more effective and with the aid of 4 people pushing from the front, the minibus finally finds some grip. Under direction of the recovery guy, the minibus is eventually orientated to face up the hill, paper work is filled in and we make a move. Clutch is still dodgy but we just about make it up the hill!"
+      }
+    ]
+  },
+  {
+    "date": "2017-10-28",
+    "start": "Bournemouth",
+    "finish": "Christchurch",
+    "headCount": 17,
+    "committeeCount": 1,
+    "ringLeader": "James"
+  },
+  {
+    "date": "2017-10-21",
+    "start": "Shawford",
+    "finish": "Shawford",
+    "headCount": 22,
+    "committeeCount": 3,
+    "km": 14,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "9:05",
+        "event": "Beautiful rainbow above Southampton"
+      },
+      {
+        "time": "10:22",
+        "event": "Walk begins with 21 people"
+      },
+      {
+        "time": "10:29",
+        "event": "Former club president joins"
+      },
+      {
+        "time": "??",
+        "event": "We run into road which doesn't exist on the map, causing great confusion"
+      },
+      {
+        "time": "11:31",
+        "event": "Water & biscuit break"
+      },
+      {
+        "time": "12:15",
+        "event": "I trip over the one single stone in a whole mile-wide field"
+      },
+      {
+        "time": "12:45",
+        "event": "Serious rain strikes"
+      },
+      {
+        "time": "12:49",
+        "event": "We find a decently sheltered area to stop for lunch"
+      },
+      {
+        "time": "12:51",
+        "event": "Serious rain ends"
+      },
+      {
+        "time": "13:11",
+        "event": "Lunch break ends"
+      },
+      {
+        "time": "14:00",
+        "event": "Selected path on map is marked as private property in reality, forcing us to walk on a boring road"
+      },
+      {
+        "time": "15:04",
+        "event": "Walk ends"
+      },
+      {
+        "time": "16:02",
+        "event": "15:54 train picks us up from Shawford"
+      }
+    ]
+  },
+  {
+    "name": "Isle of Wight Day Walk",
+    "date": "2017-10-14",
+    "start": "Yarmouth",
+    "finish": "Yarmouth",
+    "headCount": 92,
+    "committeeCount": 7,
+    "km": 21,
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "9:00",
+        "event": "Gathering & platform change. Trains are in shambles because of engineering works"
+      },
+      {
+        "time": "10:00",
+        "event": "Le Ferry FAIL. Not enough room for 90-odd people"
+      },
+      {
+        "time": "11:30",
+        "event": "Effective start of walk from Yarmouth"
+      },
+      {
+        "time": "12:43",
+        "event": "First session of 'wait for the people lagging at the back'"
+      },
+      {
+        "time": "15:00",
+        "event": "Hit viewpoint for Needles. 2 people detach from group and backtrack for reasons related to British transport system ridiculousness"
+      },
+      {
+        "time": "15:45",
+        "event": "Top-of-the-impossibly-abrupt-hill crisis strikes and the group divides into the 'slow group' (52 people) who will go to Tennyson monument and the 'fast group' (38 people) who won't"
+      },
+      {
+        "time": "??",
+        "event": "Aforementioned groups further split into groups"
+      },
+      {
+        "time": "17:00",
+        "event": "The slow group of the fast group meet the fast group of the slow group and form the medium group"
+      },
+      {
+        "time": "17:20",
+        "event": "Spaghettification reaches record levels as people try their individual best to reach the 18:05 ferry"
+      },
+      {
+        "time": "17:55",
+        "event": "The fast group of the fast group and the fast group of the medium group are on the ferry"
+      },
+      {
+        "time": "18:10",
+        "event": "The slow group of the medium group wait for the slow group of the slow group (because we're civilised people!), then enter Yarmouth only to divide again between the fish&chips shop and the pub. Walk effectively ends"
+      },
+      {
+        "time": "18:40",
+        "event": "A couple dozen people sit on the pavement outside the overfull fish&chips shop"
+      },
+      {
+        "time": "20:10",
+        "event": "The group of slow groups take the ferry"
+      },
+      {
+        "time": "21:47",
+        "event": "The group of slow groups finally return to Southampton Central"
+      }
+    ]
+  },
+  {
+    "name": "New Forest: first walk of this academic year",
+    "date": "2017-10-07",
+    "start": "Brockenhurst",
+    "finish": "Brockenhurst",
+    "headCount": 71,
+    "committeeCount": 7,
+    "km": 20,
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "9:45",
+        "event": "Walk starts"
+      },
+      {
+        "time": "16:04",
+        "event": "Walk ends"
+      }
+    ]
+  },
+  {
+    "name": "Unofficial official Sandbanks / coastal walk",
+    "date": "2017-07-01",
+    "start": "Bournemouth",
+    "finish": "Poole",
+    "headCount": 3,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "11:00",
+        "event": "Walk starts"
+      },
+      {
+        "time": "16:37",
+        "event": "Walk ends"
+      }
+    ]
+  },
+  {
+    "date": "2017-05-13",
+    "headCount": 11,
+    "start": "Dean",
+    "finish": "Dean"
+  },
+  {
+    "name": "Cancer walk / thing",
+    "date": "2017-04-29",
+    "start": "Brockenhurst",
+    "finish": "Brockenhurst",
+    "ringLeader": "Tom",
+    "checkpoints": [
+      {
+        "time": "10:00",
+        "event": "Walk starts"
+      },
+      {
+        "time": "11:15",
+        "event": "Water & biscuit break"
+      },
+      {
+        "time": "11:57",
+        "event": "Lunch stop"
+      }
+    ]
+  },
+  {
+    "date": "2017-03-18",
+    "start": "Sway",
+    "finish": "Hinton Admiral",
+    "headCount": 13,
+    "km": 21,
+    "ringLeader": "Teo",
+    "checkpoints": [
+      {
+        "time": "10:20",
+        "event": "Walk begins"
+      },
+      {
+        "time": "10:42",
+        "event": "Entered New Forest"
+      },
+      {
+        "time": "11:50",
+        "event": "Facility detour"
+      },
+      {
+        "time": "12:40",
+        "event": "Lunch o'clock"
+      },
+      {
+        "time": "13:05",
+        "event": "Lunch break over"
+      },
+      {
+        "time": "13:15",
+        "event": "The intersection of the old railway and the yellow road on the map"
+      },
+      {
+        "time": "16:00",
+        "event": "Reached Toby Carvery. Walk ends"
+      }
+    ]
+  }
+]
