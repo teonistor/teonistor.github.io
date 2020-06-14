@@ -1,5 +1,71 @@
 [
   {
+    "name": "Jurassic Coast Cycling+Walking Trip (Unofficial)",
+    "date": "2020-06-06",
+    "ringLeader": "Rhys, Teo",
+    "headCount": 2,
+    "committeeCount": 0,
+    "checkpoints": [
+      {
+        "time": "8:45",
+        "event": "I start cycling to Rhys's block"
+      },{
+        "time": "8:56",
+        "event": "I enter Rhys's garage and begin to pump up my tyres with his pump which is superior to mine"
+      },{
+        "time": "9:10",
+        "event": "We set off towards Branksome station"
+      },{
+        "time": "9:25",
+        "event": "We arrive at Branksome station and buy one-way tickets"
+      },{
+        "time": "9:29",
+        "event": "We board a train to Wool"
+      },{
+        "time": "9:55",
+        "event": "We get off the train and start our cycle to the coast"
+      },{
+        "time": "10:25",
+        "event": "Flippin heck now on this steep descent into Lulworth is not the time and place for blinding wind!"
+      },{
+        "time": "10:30",
+        "event": "We arrive at the Visitor Centre and tie our bikes to the wooden, insecure-looking, but perfectly solid fence"
+      },{
+        "time": "10:35",
+        "event": "Walk begins"
+      },{
+        "time": "11:00",
+        "event": "At the crosspaths with the Durdle Door beach path and the caravan park path, we take the overcliff path as the main path to the beach has been made exit-only; while there are only 4 other people anywhere in sight and therefore this fact is irrelevant, a coastguard helicopter hovering above the arch is intimidating us very much from going against the signage"
+      },{
+        "time": "11:22",
+        "event": "Having walked the expected loop we unexpectedly descend to the beach without the arch because the arch isn't cool anymore"
+      },{
+        "time": "12:01",
+        "event": "Lunch begins"
+      },{
+        "time": "12:21",
+        "event": "Lunch ends"
+      },{
+        "time": "12:24",
+        "event": "Some interestingly coloured rocks are observed at the end of the beach"
+      },{
+        "time": "12:59",
+        "event": "We follow a path along the caravan park, which is nice initially but later forces us to walk along an asphalt road"
+      },{
+        "time": "13:53",
+        "event": "Walk ends"
+      },{
+        "time": "13:55",
+        "event": "Main cycle begins"
+      },{
+        "time": "14:40",
+        "event": "As we stop on a high street in Wareham to catch our breaths and have water, an old almost-certainly-homeless man starts a conversation in which he doesn't listen to us and complains about how people don't listen nowadays"
+      },{
+        "time": "16:13",
+        "event": "Main cycle ends by the ferris wheel by Bournemouth Pier"
+      }
+    ]
+  },{
     "name": "New Forest Marathon Walk",
     "date": "2020-03-07",
     "start": "Highfield Campus",
