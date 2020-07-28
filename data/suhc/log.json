@@ -1,5 +1,41 @@
 [
   {
+    "name": "New Forest Evening Walk",
+    "date": "2020-07-27",
+    "start": "Beaulieu Road",
+    "finish": "Brockenhurst",
+    "ringLeader": "Tom D.",
+    "headCount": 14,
+    "committeeCount": 3,
+    "km": 10,
+    "checkpoints": [
+      {
+        "time": "17:46",
+        "event": "I guideline-abidingly tie a mask on my face and walk into Bournemouth station. The Southampton-Bournemouth pendulum-stopper has just pulled in."
+      },{
+        "time": "17:57",
+        "event": "It leaves one minute early!"
+      },{
+        "time": "18:24",
+        "event": "Pulling into Brockenhurst, I notice that the platform 1 tracks, commonly used by the Poole stopping service, are rusty, proving they haven't been used in a long time. Then, 4 walkers join me on the train."
+      },{
+        "time": "18:31",
+        "event": "Tom greets us at the exit gate from Beaulieu Road station, with 8 further walkers waiting in a green area down the road"
+      },{
+        "time": "18:35",
+        "event": "Walk begins"
+      },{
+        "time": "19:00",
+        "event": "They found a pony"
+      },{
+        "time": "19:25",
+        "event": "We found deer"
+      },{
+        "time": "20:38",
+        "event": "Walk ends in Brockenhurst at a pub we don't enter"
+      }
+    ]
+  },{
     "name": "Jurassic Coast Cycling+Walking Trip (Unofficial)",
     "date": "2020-06-06",
     "ringLeader": "Rhys, Teo",
