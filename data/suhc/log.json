@@ -1,5 +1,44 @@
 [
   {
+    "name": "Windmill Hill aka Ridiculously Early in the Day Walk",
+    "date": "2020-08-08",
+    "start": "Rowlands Castle",
+    "finish": "Rowlands Castle",
+    "ringLeader": "Tom D.",
+    "headCount": 3,
+    "committeeCount": 1,
+    "km": 18,
+    "checkpoints": [
+      {
+        "time": "7:42",
+        "event": "Walk begins"
+      },{
+        "time": "9:19",
+        "event": "A break"
+      },{
+        "time": "9:59",
+        "event": "A tangled traffic situation with a farm vehicle"
+      },{
+        "time": "10:15",
+        "event": "Steepest hill of the walk, just as the clouds decided to vanish and the wind to stop"
+      },{
+        "time": "10:25",
+        "event": "The windmill!"
+      },{
+        "time": "11:25",
+        "event": "Elevenzeens"
+      },{
+        "time": "11:51",
+        "event": "“Under 2km to go now!”"
+      },{
+        "time": "12:29",
+        "event": "Walk ends, but the train is at :22 so we go to a café where God sent a fan"
+      },{
+        "time": "13:30",
+        "event": "Lunch in Havant, while observing an extortionate amount of Portsmouth-bound trains and a swift switcheroo of platforms in response to the stopper breaking down on the other platform"
+      }
+    ]
+  },{
     "name": "New Forest Evening Walk",
     "date": "2020-07-27",
     "start": "Beaulieu Road",
