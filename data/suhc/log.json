@@ -1,5 +1,41 @@
 [
   {
+    "name": "Death Walk 5: Historic Dorset",
+    "date": "2020-09-05",
+    "start": "Upwey",
+    "finish": "Dorchester South",
+    "ringLeader": "Tom D.",
+    "headCount": 2,
+    "committeeCount": 1,
+    "km": 48,
+    "checkpoints": [
+      {
+        "time": "8:20",
+        "event": "Walk starts"
+      },{
+        "time": "9:22",
+        "event": "Bird observatory"
+      },{
+        "time": "13:12 – 13:26",
+        "event": "Lunch"
+      },{
+        "time": "17:00 – 17:17",
+        "event": "Somebody tell this corn field owner to define his paths!"
+      },{
+        "time": "17:41",
+        "event": "Path to the circle of 9 stones dead-ends into a construction site"
+      },{
+        "time": "19:58",
+        "event": "We reach Maiden Castle"
+      },{
+        "time": "20:19",
+        "event": "This straight road we step on now is the final stretch yes"
+      },{
+        "time": "21:02",
+        "event": "Walk ends"
+      }
+    ]
+  },{
     "name": "Windmill Hill aka Ridiculously Early in the Day Walk",
     "date": "2020-08-08",
     "start": "Rowlands Castle",
