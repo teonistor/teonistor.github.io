@@ -1,5 +1,53 @@
 [
   {
+    "name": "Isle of Portland",
+    "date": "2020-09-12",
+    "start": "Weymouth",
+    "finish": "Weymouth",
+    "ringLeader": "Tom D.",
+    "headCount": 7,
+    "committeeCount": 1,
+    "km": 21,
+    "checkpoints": [
+      {
+        "time": "10:37",
+        "event": "Walk begins"
+      },{
+        "time": "10:46",
+        "event": "Donkeys to ride for £4"
+      },{
+        "time": "11:06",
+        "event": "Nothe Fort"
+      },{
+        "time": "11:33",
+        "event": "Eilish joins"
+      },{
+        "time": "11:34",
+        "event": "Sandsfoot Castle"
+      },{
+        "time": "11:51",
+        "event": "The path didn't exist"
+      },{
+        "time": "12:03",
+        "event": "Begin crossing bridge to Portland"
+      },{
+        "time": "12:35–12:57",
+        "event": "Lunch"
+      },{
+        "time": "14:31",
+        "event": "That was quite a story! (St George's Church)"
+      },{
+        "time": "14:50",
+        "event": "Statue quarry"
+      },{
+        "time": "16:14",
+        "event": "Eilish leaves us"
+      },{
+        "time": "16:45",
+        "event": "Walk ends"
+      }
+    ]
+  },{
     "name": "Death Walk 5: Historic Dorset",
     "date": "2020-09-05",
     "start": "Upwey",
@@ -16,10 +64,10 @@
         "time": "9:22",
         "event": "Bird observatory"
       },{
-        "time": "13:12 – 13:26",
+        "time": "13:12–13:26",
         "event": "Lunch"
       },{
-        "time": "17:00 – 17:17",
+        "time": "17:00–17:17",
         "event": "Somebody tell this corn field owner to define his paths!"
       },{
         "time": "17:41",
