@@ -1,5 +1,109 @@
 [
   {
+    "name": "Bishop's Waltham Day Walk",
+    "date": "2021-05-23",
+    "start": "Botley",
+    "finish": "Hedge End",
+    "ringLeader": "James, Tom D.",
+    "headCount": 7,
+    "committeeCount": 3,
+    "checkpoints": [
+      {
+        "time": "8:05",
+        "event": "Passing Bournemouth, there is one hillwalker on the train"
+      },{
+        "time": "8:53",
+        "event": "Passing Southampton Central, there are now 3 hillwalkers on the train"
+      },{
+        "time": "8:56",
+        "event": "Guard (sees my ticket): Oh, that's a bizarre place to go!"
+      },{
+        "time": "8:58",
+        "event": "Guard (sees Tom's ticket): Botley is very popular today!"
+      },{
+        "time": "9:00",
+        "event": "Passing Southampton Airport, there are now 7 hillwalkers on the train"
+      },{
+        "time": "9:23",
+        "event": "Tom: What are [the freight trains] loading from here?"
+      },{
+        "time": "",
+        "event": "Me: Could it have to do with all those carefully segregated piles of sand?"
+      },{
+        "time": "",
+        "event": "Tom: What, is it some Eastleigh speciality sand?"
+      },{
+        "time": "9:37",
+        "event": "Walk begins"
+      },{
+        "time": "9:48",
+        "event": "Why is this country lane so busy‽"
+      },{
+        "time": "★",
+        "event": "I hit my head on a low branch"
+      },{
+        "time": "11:22",
+        "event": "But historical data"
+      },{
+        "time": "11:40",
+        "event": "Welcome to Bishop's Waltham"
+      },{
+        "time": "11:46",
+        "event": "We reach Bishop's Waltham Palace and Tom gives us a guided tour"
+      },{
+        "time": "12:05",
+        "event": "Lunch"
+      },{
+        "time": "★",
+        "event": "We visit the small local museum"
+      },{
+        "time": "12:54",
+        "event": "Car park with toilets and female guitarist"
+      },{
+        "time": "13:10",
+        "event": "Gentlemen, we lost the ladies!"
+      },{
+        "time": "13:11",
+        "event": "Yes, Ben, we're in the South Downs"
+      },{
+        "time": "14:31",
+        "event": "Playground"
+      },{
+        "time": "14:42",
+        "event": "We leave the playground"
+      },{
+        "time": "15:34",
+        "event": "We approach a low-hanging branch"
+      },{
+        "time": "",
+        "event": "James: Watch your heads!"
+      },{
+        "time": "",
+        "event": "Me: I'll forget by the time I get there!"
+      },{
+        "time": "",
+        "event": "James waits for me to come closer."
+      },{
+        "time": "",
+        "event": "Me: I appreciate you waiting to tell me."
+      },{
+        "time": "",
+        "event": "James: Watch your head, Teo!"
+      },{
+        "time": "",
+        "event": "I successfully avoid that branch, but the next one nicks my hat off."
+      },{
+        "time": "",
+        "event": "Me: This is ridiculous!"
+      },{
+        "time": "15:40",
+        "event": "Deer oh dear!"
+      },{
+        "time": "15:45",
+        "event": "Walk ends at Hedge End station where two trains are stuck on the Eastleigh-bound line, the first one having broken down, so we go to the Fareham-bound platform to return via the other side of this rail triangle."
+      }
+    ]
+  },{
     "name": "Isle of Portland",
     "date": "2020-09-12",
     "start": "Weymouth",
