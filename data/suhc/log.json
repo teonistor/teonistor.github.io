@@ -1,5 +1,84 @@
 [
   {
+    "name": "Camelot Day Walk",
+    "date": "2021-05-31",
+    "start": "Templecombe",
+    "finish": "Sherborne",
+    "ringLeader": "Tom D., James",
+    "headCount": 11,
+    "committeeCount": 5,
+    "km": 27,
+	"avgMoveSpeed": "5.2 kph",
+    "checkpoints": [
+      {
+        "time": "*",
+        "event": "Due to the GWR we took between Southampton and Salisbury being delayed by just enough we have to wait almost an hour in Salisbury for the connection; some of us take a pre-walk false walk"
+      },{
+        "time": "10:00",
+        "event": "False walk begins"
+      },{
+        "time": "10:41",
+        "event": "False walk ends"
+      },{
+        "time": "10:48",
+        "event": "We're on the train again"
+      },{
+        "time": "11:26",
+        "event": "Walk begins"
+      },{
+        "time": "12:24",
+        "event": "Mandatory encounter with cows (first of many)"
+      },{
+        "time": "12:27",
+        "event": "That tractor speaks train! Or… oops? The farmer driving it is trying to get our attention and shouts at us across a large field, probably to tell us not to walk where we're walking, but we can't understand (and it's a public footpath!)"
+      },{
+        "time": "13:07",
+        "event": "A number of farm and other vehicles, and us, meet on this narrow road. I know I said this before but this zone really is heavily farm-industrial"
+      },{
+        "time": "13:33",
+        "event": "We reach Charlton Horethorne where we stop for lunch"
+      },{
+        "time": "14:04",
+        "event": "Lunch ends"
+      },{
+        "time": "15:46",
+        "event": "Camelot story time"
+      },{
+        "time": "16:18",
+        "event": "Sign: Sherborne 6"
+      },{
+        "time": "16:30",
+        "event": "We split into a group of 7 (led by Tom D.) who will do the full (long) walk, and a group of 4 (led by James) who will take a shortcut"
+      },{
+        "time": "18:18",
+        "event": "James: 15 minutes into the pub!"
+      },{
+        "time": "*",
+        "event": "The other party are 3k “that way”"
+      },{
+        "time": "18:24",
+        "event": "We reach Sherborne"
+      },{
+        "time": "18:41",
+        "event": "Walk ends at Half Moon pub"
+      },{
+        "time": "19:10",
+        "event": "While waiting for food and stuff we find out by internet-powered comms that there's a long-long and a long-short group; the latter aiming to catch the 19:37 train"
+      },{
+        "time": "19:25",
+        "event": "James leaves to get the train, while the rest of us are enjoying our full meals and have conceptually exchanged an extra hour for an extra pint"
+      },{
+        "time": "19:46",
+        "event": "James and Matt D (re)appear into the pub! We learn that Will is the only one who caught the 19:37 train"
+      },{
+        "time": "20:25",
+        "event": "After James and Matt D devour their meals, we leave the pub and meet the others (bar Will) at Sherborne station"
+      },{
+        "time": "21:03",
+        "event": "Questions about barricaded double lines, at Tisbury"
+      }
+    ]
+  },{
     "name": "Bishop's Waltham Day Walk",
     "date": "2021-05-23",
     "start": "Botley",

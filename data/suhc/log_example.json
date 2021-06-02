@@ -1,13 +1,14 @@
 EXAMPLE with all fields defined so far anywhere above
   {
     "name": "Fancy walk with a name",
-    "date": "2019-04-19",
+    "date": "2021-06-19",
     "start": "Somewhere",
     "finish": "Elsewhere",
     "ringLeader": "A faithful committee member",
     "headCount": 13,
     "committeeCount": 7,
     "km": 21,
+    "avgMoveSpeed": "5.2 kph",
     "checkpoints": [
       {
         "time": "10:00",
