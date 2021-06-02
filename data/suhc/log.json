@@ -2229,7 +2229,7 @@
       },
       {
         "time": "23:38",
-        "event": "Meanwhile, 3 people make it to the station in time, by running the final stretch. One of them is Thomas, who nobly allows the train to pass, awaiting the rest of us."
+        "event": "Meanwhile, 3 people make it to the station in time, by running the final stretch. One of them is Thomas, who nobly allows the train to pass, awaiting the rest of us"
       },
       {
         "time": "23:42",
@@ -3505,7 +3505,13 @@
       },
       {
         "time": "10.57",
-        "event": "Richard: Where are we? Teo: Hartley Wintney. Richard: That's correct, 'cause it's hardly windy!"
+        "event": "Richard: Where are we?"
+      },{
+        "time": "",
+        "event": "Teo: Hartley Wintney."
+      },{
+        "time": "",
+        "event": "Richard: That's correct, 'cause it's hardly windy!"
       },
       {
         "time": "11.07",
