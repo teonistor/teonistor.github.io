@@ -1,5 +1,145 @@
 [
   {
+    "name": "Corfe Castle walk and camping intro",
+    "date": "2021-06-05",
+    "start": "Wareham",
+    "finish": "Wareham",
+    "ringLeader": "Will, James",
+    "headCount": 24,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "10:08",
+        "event": "We get off the train at Wareham and a whole array of faff ensues while we sort out groups and stuff"
+      },{
+        "time": "10:20",
+        "event": "When Serena shows up, that makes 14 of us in Will's group. There are about 20 people in James's group. The same circuit will be done in opposite directions by the two groups"
+      },{
+        "time": "10:26",
+        "event": "Walk(s) start(s)"
+      },{
+        "time": "10:34",
+        "event": "Thomas explains the 3 or so layers of this organisational onion: there are people who drove to the walk and will further drive to the campsite with a lot of everyone's camping stuff, who will stay there until Monday; there are people driving there but returning tomorrow; and there are people on the walk who won't have space in the car so will take the train to Moreton and walk. Oh, and there are the cyclists who will be useless for carrying stuff"
+      },{
+        "time": "11:33–11:36",
+        "event": "An exodus of biscuits-break"
+      },{
+        "time": "11:38–11:42",
+        "event": "Impassable A road"
+      },{
+        "time": "12:19",
+        "event": "Thomas experiments his invincible water filter-pump on some really dodgy mud puddle"
+      },{
+        "time": "",
+        "event": "Thomas: Tastes like sweet potatoes."
+      },{
+        "time": "13:19",
+        "event": "We reach Corfe Castle and split based on interest; a few people with National Trust passes go to the castle itself"
+      },{
+        "time": "13:30",
+        "event": "Lunch break at the official picnic spot"
+      },{
+        "time": "13:48",
+        "event": "Lunch break ends"
+      },{
+        "time": "13:51",
+        "event": "Ice cream shop"
+      },{
+        "time": "14:03",
+        "event": "Thomas is late to the meeting point and time!"
+      },{
+        "time": "",
+        "event": "Someone: Maybe he found something interesting inside."
+      },{
+        "time": "",
+        "event": "New Will: Maybe he found water!"
+      },{
+        "time": "14:08",
+        "event": "Walk resumes by such a way that will likely bypass the other group"
+      },{
+        "time": "14:15",
+        "event": "That may be them on top of that hill"
+      },{
+        "time": "14:56",
+        "event": "Thomas: We appear to have walked into a dead end"
+      },{
+        "time": "15:20",
+        "event": "Cows are escaping!"
+      },{
+        "time": "15:40",
+        "event": "Will made a navigational mistake and we'll forever remember"
+      },{
+        "time": "14:42",
+        "event": "Pass the entrance to Blue Pool again"
+      },{
+        "time": "15:49",
+        "event": "Break"
+      },{
+        "time": "",
+        "event": "Actually, we return to the road because the experimental path ahead is too boggy"
+      },{
+        "time": "",
+        "event": "Thomas: I will take responsibility for anyone who feels grief for walking back this way."
+      },{
+        "time": "17:15",
+        "event": "Walk ends at the bridge where kids are jumping into the clearly too shallow water, but somehow survive"
+      },{
+        "time": "★",
+        "event": "We then wait for a long time at the entrance to Sainsbury's where some of the campers buy what they'll need"
+      },{
+        "time": "17:40–18:37",
+        "event": "We then go to the King's Arms for dinner but it's too early and the food offering is underwhelming, so we stick to drinks"
+      },{
+        "time": "★",
+        "event": "We get dinner from explicit & implicit fish & chips shops"
+      },{
+        "time": "19:06",
+        "event": "At some point James and Matt D. from the other group join us. We gather on the grass on the side of river Frome, opposite the posh pub, to eat"
+      },{
+        "time": "19:13",
+        "event": "but we're late to the 19:10 universal gathering of both groups!"
+      },{
+        "time": "★",
+        "event": "Anyway the leaders of the organisation coordinate somehow and we set off. Almost everyone from Will's group is going to the campsite and we have enough room to give lifts; I end up in Shaun's car"
+      },{
+        "time": "19:34",
+        "event": "We get turned around in the village of Affpuddle because the pin where Google Maps thinks the campsite is is uselessly inaccurate. While figuring out the way with Serena's OS Maps app, we encounter Byron on a bike"
+      },{
+        "time": "★",
+        "event": "The path from the main road to the actual section of forest ascribed to us is very treacherous. We are the first of the day-walkers to arrive; we find Mahmoud and Kate at the campsite"
+      },{
+        "time": "20:00",
+        "event": "We light a fire"
+      },{
+        "time": "★",
+        "event": "At some point the others with cars arrive, and later those who took the train to Moreton"
+      },{
+        "time": "21:37",
+        "event": "James blows up his massive blow-up mattress – he basically brought a bed to camp"
+      },{
+        "time": "21:47",
+        "event": "I'm not a gatecrasher, so as planned and advertised, I leave the campsite and embark on the most dangerous thing I've done this year, which is the adventure of finding my way to Moreton station, alone, at night"
+      },{
+        "time": "21:58",
+        "event": "This is a real forest with real animal noises. I feel uneasy"
+      },{
+        "time": "22:12",
+        "event": "25 minutes of very brisk walking later, I reach the main road"
+      },{
+        "time": "22:48",
+        "event": "A misleading signpost points to Moreton village centre off to the left instead of Moreton station. Although I know the path is dead straight, I doubt myself and attempt to look it up. There is no signal. My phone dies. There is no light left in the sky. I feel very uneasy"
+      },{
+        "time": "23:00",
+        "event": "I reach Moreton station with 28 minutes to spare (which I can't kill on my phone because it's dead! So I write this final log line on the train ticket)"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "Charge your phones, kids!"
+      }
+    ]
+  },{
     "name": "Camelot Day Walk",
     "date": "2021-05-31",
     "start": "Templecombe",
