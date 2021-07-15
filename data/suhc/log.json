@@ -1,5 +1,94 @@
 [
   {
+    "name": "Glenfinnan Viaduct (unofficial)",
+    "date": "2021-07-14",
+    "start": "Glenfinnan",
+    "finish": "Glenfinnan",
+    "ringLeader": "Teo",
+    "headCount": 3,
+    "committeeCount": 0,
+    "checkpoints": [
+      {
+        "time": "12:14",
+        "event": "Train leaves Fort William. The ScotRail guard lady is competing for entertainment points with expressly paid entertainers on the steam train which will leave half an hour after us"
+      },{
+        "time": "12:44",
+        "event": "Train enters the Glenfinnan Viaduct. An extortionate amount of people wave at us from all around"
+      },{
+        "time": "12:47",
+        "event": "Walk begins from Glenfinnan station, except that somebody trusts Google Maps over physical wooden signs and almost runs us into a stone wall"
+      },{
+        "time": "13:08",
+        "event": "We stop in a strategic location with view of the viaduct and wait for the steam train"
+      },{
+        "time": "13:22",
+        "event": "Steam train passes and receives great pomp"
+      },{
+        "time": "★",
+        "event": "We set off for the Glenfinnan monument"
+      },{
+        "time": "★",
+        "event": "We reach the visitor centre where the loo queue is 25 minutes long"
+      },{
+        "time": "14:08",
+        "event": "We reach the monument"
+      },{
+        "time": "14:10",
+        "event": "Lunch on the side of the short edge of Loch Shiel"
+      },{
+        "time": "14:27",
+        "event": "Lunch ends"
+      },{
+        "time": "★",
+        "event": "We set off for the viaduct again, to observe the other (returning) steam train from a different angle"
+      },{
+        "time": "14:59",
+        "event": "We're all set and waiting"
+      },{
+        "time": "15:06",
+        "event": "A plume of steam can be observed over the inferred location of Glenfinnan station"
+      },{
+        "time": "15:17",
+        "event": "Steam train passes"
+      },{
+        "time": "",
+        "event": "Some Chinese visitors to our right shoot some footage from a drone, despite signs at the visitor centre and along the path having clearly indicated the forbiddenment of drones, going so far as to crucify-pin a couple on the wooden post (although I don't understand the reason for this forbiddenment)"
+      },{
+        "time": "★",
+        "event": "We make our way back down"
+      },{
+        "time": "15:32",
+        "event": "We encounter the Chinese visitors again; while attempting to take a drone selfie over the water, the guy pilots it into a tree and crashes it into the ground."
+      },{
+        "time": "",
+        "event": "Dev: That was more satisfying than the train going over the viaduct!"
+      },{
+        "time": "15:35",
+        "event": "We try to investigate another path, which takes us to a field where multiple levels of professional filming are taking place, with tripods and a (much beefier and I suppose authorised) drone; but the field dead-ends, leaving us with a choice of returning to the bridge or trying to cross the river Finnan some other way"
+      },{
+        "time": "15:41",
+        "event": "Failed attempted river crossing by jumping from stone to stone"
+      },{
+        "time": "15:47",
+        "event": "Successful reattempted river crossing by jumping from stone to stone, just by me; random strangers congratulate me for the feat and I think two girls were filming me so if you see me on Youtube please file for a community strike"
+      },{
+        "time": "15:57",
+        "event": "Back at the visitor centre, the loo queue isn't 25 minutes long anymore"
+      },{
+        "time": "16:12",
+        "event": "Path to another viewpoint"
+      },{
+        "time": "★",
+        "event": "We return to the station via the A road"
+      },{
+        "time": "16:33",
+        "event": "Walk ends at Glenfinnan station, whence trains will come and leave in both directions at once"
+      },{
+        "time": "16:55",
+        "event": "We go over the viaduct once more"
+      }
+    ]
+  },{
     "name": "Shingle Mingle Day Walk",
     "date": "2021-06-12",
     "start": "New Milton",
@@ -211,7 +300,7 @@
 	"avgMoveSpeed": "5.2 kph",
     "checkpoints": [
       {
-        "time": "*",
+        "time": "★",
         "event": "Due to the GWR we took between Southampton and Salisbury being delayed by just enough we have to wait almost an hour in Salisbury for the connection; some of us take a pre-walk false walk"
       },{
         "time": "10:00",
@@ -253,7 +342,7 @@
         "time": "18:18",
         "event": "James: 15 minutes into the pub!"
       },{
-        "time": "*",
+        "time": "★",
         "event": "The other party are 3k “that way”"
       },{
         "time": "18:24",
