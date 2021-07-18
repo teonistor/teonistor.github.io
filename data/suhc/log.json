@@ -1,5 +1,29 @@
 [
   {
+    "name": "Inverness Loop",
+    "date": "2021-07-18",
+    "start": "Inverness",
+    "finish": "Inverness",
+    "ringLeader": "Teo",
+    "headCount": 3,
+    "committeeCount": 0,
+    "km": 13.7,
+    "avgMoveSpeed": "4.6 kph",
+    "external": "external",
+    "misc": ["https://www.strava.com/activities/5648234245"]
+  },{
+    "name": "Aviemore Ride",
+    "date": "2021-07-17",
+    "start": "Aviemore",
+    "finish": "Aviemore",
+    "ringLeader": "Rhys",
+    "headCount": 3,
+    "committeeCount": 0,
+    "km": 42,
+    "avgMoveSpeed": "14 kph",
+    "external": "external",
+    "misc": ["https://www.strava.com/activities/5648606575"]
+  },{
     "name": "Glenfinnan Viaduct (unofficial)",
     "date": "2021-07-14",
     "start": "Glenfinnan",
