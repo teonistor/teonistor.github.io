@@ -24,13 +24,14 @@
     "external": "external",
     "misc": ["https://www.strava.com/activities/5648606575"]
   },{
-    "name": "Glenfinnan Viaduct (unofficial)",
+    "name": "Glenfinnan Viaduct",
     "date": "2021-07-14",
     "start": "Glenfinnan",
     "finish": "Glenfinnan",
     "ringLeader": "Teo",
     "headCount": 3,
     "committeeCount": 0,
+    "external": "external",
     "checkpoints": [
       {
         "time": "12:14",
@@ -655,11 +656,12 @@
       }
     ]
   },{
-    "name": "Jurassic Coast Cycling+Walking Trip (Unofficial)",
+    "name": "Jurassic Coast Cycling+Walking Trip",
     "date": "2020-06-06",
     "ringLeader": "Rhys, Teo",
     "headCount": 2,
     "committeeCount": 0,
+    "external": "external",
     "checkpoints": [
       {
         "time": "8:45",
@@ -1300,6 +1302,7 @@
     "date": "Friday 4th - Sunday 6th October 2019",
     "headCount": 29,
     "committeeCount": 4,
+    "unattended": true,
     "checkpoints": [
       {
         "time": "15:30",
@@ -1645,13 +1648,13 @@
       }
     ]
   },{
-    "name": "Unofficial walk",
     "date": "2019-06-29",
     "start": "Beaulieu Road",
     "finish": "Lymington Town",
     "ringLeader": "Matt Clark",
     "headCount": 8,
     "committeeCount": 3,
+    "external": "unofficial",
     "checkpoints": [
       {
         "time": "9:05",
@@ -2107,10 +2110,12 @@
     "date": "2018-11-17",
     "start": "Emsworth",
     "finish": "Chichester",
-    "km": 20
+    "km": 20,
+    "unattended": true
   },{
     "name": "Snowdonia National Park Away Trip",
-    "date": "2018-11-09 - 11"
+    "date": "2018-11-09 - 11",
+    "unattended": true
   },{
     "name": "Winchester Treasure Hunt & Fireworks",
     "date": "2018-11-03",
@@ -2158,14 +2163,16 @@
     "start": "Fareham",
     "finish": "Bursledon",
     "headCount": 45,
-    "km": 21
+    "km": 21,
+    "unattended": true
   },{
     "name": "Old Sarum walk",
     "date": "2018-10-20",
     "start": "Salisbury",
     "finish": "Salisbury",
     "headCount": 59,
-    "km": 16
+    "km": 16,
+    "unattended": true
   },{
     "name": "Isle of Wight Day Walk",
     "date": "2018-10-13",
@@ -2284,13 +2291,15 @@
     "name": "Fair Oak introductory walk",
     "date": "2018-10-06",
     "start": "Fair Oak",
-    "finish": "Fair Oak"
+    "finish": "Fair Oak",
+    "unattended": true
   },{
     "name": "New Forest introductory walk",
     "date": "2018-09-29",
     "start": "Brockenhurst",
     "finish": "Brockenhurst",
-    "ringLeader": "Thomas"
+    "ringLeader": "Thomas",
+    "unattended": true
   },{
     "name": "The Walk with No End Part 2",
     "date": "2018-09-09",
@@ -2298,6 +2307,7 @@
     "finish": "Southbourne",
     "ringLeader": "Thomas",
     "km": 53,
+    "unattended": true,
     "checkpoints": [
       {
         "time": "8:15",
@@ -2315,11 +2325,13 @@
     "date": "2018-08-11 - 12",
     "start": "Petersfield",
     "finish": "Petersfield",
-    "ringLeader": "Thomas"
+    "ringLeader": "Thomas",
+    "unattended": true
   },{
     "name": "Fleet/Farnborough Air Show walk",
     "date": "2018-07-21",
-    "ringLeader": "Thomas"
+    "ringLeader": "Thomas",
+    "unattended": true
   },{
     "name": "Devil's Punch Bowl",
     "date": "2018-07-14",
@@ -2386,6 +2398,7 @@
     "finish": "Elsewhere",
     "ringLeader": "Thomas",
     "km": 42,
+    "unattended": true,
     "checkpoints": [
       {
         "time": "8:00",
@@ -2400,6 +2413,7 @@
     "ringLeader": "Richard",
     "headCount": 3,
     "committeeCount": 0,
+    "external": "unofficial",
     "checkpoints": [
       {
         "time": "10:31",
@@ -2583,10 +2597,12 @@
     "date": "2018-06-16",
     "start": "Chichester",
     "finish": "Chichester",
-    "ringLeader": "Harry"
+    "ringLeader": "Harry",
+    "unattended": true
   },{
     "name": "Cornwall Away Trip",
-    "date": "2018-06-11 – 13"
+    "date": "2018-06-11 – 13",
+    "unattended": true
   },{
     "date": "2018-06-09",
     "start": "Tisbury",
@@ -2948,7 +2964,8 @@
     "date": "2018-05-05",
     "start": "Mottisfont",
     "finish": "Mottisfont",
-    "ringLeader": "James"
+    "ringLeader": "James",
+    "unattended": true
   },{
     "name": "Lake District Away Trip",
     "date": "2018-04-27 - 29",
@@ -3314,6 +3331,7 @@
     "headCount": 5,
     "committeeCount": 1,
     "km": 19.6,
+    "external": "unofficial",
     "checkpoints": [
       {
         "time": "9:29",
@@ -3397,7 +3415,7 @@
       }
     ]
   },{
-    "name": "Unofficial Official Taddiford Gap Coastal Walk",
+    "name": "Taddiford Gap Coastal Walk",
     "date": "2018-03-31",
     "start": "New Milton",
     "finish": "Lymington",
@@ -3405,6 +3423,7 @@
     "headCount": 9,
     "committeeCount": 1,
     "km": 23,
+    "external": "unofficial",
     "checkpoints": [
       {
         "time": "9:53",
@@ -3875,20 +3894,24 @@
     ]
   },{
     "name":"Brecon Beacons Away Trip",
-    "date": "2018-02-02 - 04"
+    "date": "2018-02-02 - 04",
+    "unattended": true
   },{
     "start": "Fareham",
     "finish": "Bursledon",
     "date": "2018-01-27",
-    "ringLeader": "James"
+    "ringLeader": "James",
+    "unattended": true
   },{
     "start": "Shawford",
     "finish": "Winchester",
     "date": "2018-01-20",
-    "ringLeader": "James"
+    "ringLeader": "James",
+    "unattended": true
   },{
     "name":"Mendip Hills Away Trip",
-    "date": "2017-12-08 - 10"
+    "date": "2017-12-08 - 10",
+    "unattended": true
   },{
     "name": "Christmas Combo Madness Social",
     "date": "2017-12-05",
@@ -4691,12 +4714,13 @@
     ]
   },
   {
-    "name": "Unofficial official Sandbanks / coastal walk",
+    "name": "Sandbanks coastal walk",
     "date": "2017-07-01",
     "start": "Bournemouth",
     "finish": "Poole",
     "headCount": 3,
     "ringLeader": "Teo",
+    "external": "external",
     "checkpoints": [
       {
         "time": "11:00",
@@ -4712,7 +4736,8 @@
     "date": "2017-05-13",
     "headCount": 11,
     "start": "Dean",
-    "finish": "Dean"
+    "finish": "Dean",
+    "unattended": true
   },
   {
     "name": "Cancer walk / thing",
