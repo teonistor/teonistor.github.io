@@ -93,12 +93,6 @@ td,th {
   text-align: justify;
 }
 
-td.suhclogtime {
-  text-align: center;
-  vertical-align: top;
-  padding-right: 1em;
-}
-
 .v-expansion-panel-content__wrap {
 	padding: 16px;
 }

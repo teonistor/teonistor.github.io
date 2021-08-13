@@ -1,4 +1,4 @@
-EXAMPLE with all fields defined so far anywhere above
+// EXAMPLE with all fields defined so far anywhere above
   {
     "name": "Fancy walk with a name",
     "date": "2021-06-19",
@@ -9,6 +9,9 @@ EXAMPLE with all fields defined so far anywhere above
     "committeeCount": 7,
     "km": 21,
     "avgMoveSpeed": "5.2 kph",
+    "external": "official (default) / unofficial / external",
+    "unattended": false,
+    "misc": ["https://site.com/path"],
     "checkpoints": [
       {
         "time": "10:00",
