@@ -1,5 +1,77 @@
 [
   {
+    "name": "The Royal Walk",
+    "date": "2021-08-22",
+    "start": "Windsor",
+    "finish": "Windsor",
+    "ringLeader": "Thomas",
+    "headCount": 10,
+    "committeeCount": 3,
+    "km": 28,
+    "checkpoints": [
+      {
+        "time": "10:02",
+        "event": "Concourse discourse"
+      },{
+        "time": "10:07",
+        "event": "Walk begins"
+      },{
+        "time": "10:14",
+        "event": "We meet Jenny on a bridge, which puts our number into double digits"
+      },{
+        "time": "10:40",
+        "event": "I think now we're proper hillwalking"
+      },{
+        "time": "10:44",
+        "event": "This is not the Thames, it's the Jubilee river which is like a diversion of the Thames"
+      },{
+        "time": "10:56",
+        "event": "We encounter a group of very serious looking 11 cyclists on the road; and then 6 more"
+      },{
+        "time": "12:19",
+        "event": "Catch-up at a deserted National Trust tent made in Britain"
+      },{
+        "time": "12:25–12:33",
+        "event": "Pause at Runnymede Memorials car park"
+      },{
+        "time": "12:44",
+        "event": "Magna Carta memorial"
+      },{
+        "time": "12:51–13:11",
+        "event": "Lunch break inside the bizarre erection that is the “Writ in Water” memorial"
+      },{
+        "time": "13:26",
+        "event": "Air forces memorial (building-sized)"
+      },{
+        "time": "13:35",
+        "event": "…with 72 steps high surprise!"
+      },{
+        "time": "14:18",
+        "event": "End visit inside Royal Holloway University"
+      },{
+        "time": "14:53",
+        "event": "Pause at ice cream van where we also observe a ducks' highway on water"
+      },{
+        "time": "15:09",
+        "event": "Enter Windsor Great Park Valley Gardens"
+      },{
+        "time": "15:09",
+        "event": "What did I just do‽ I went into a random direction and people followed me instead of Thomas and we ended up in a bog and in a stream and then on the wrong side of a fence"
+      },{
+        "time": "15:52",
+        "event": "Big visitor centre"
+      },{
+        "time": "16:44–16:51",
+        "event": "Pause at King George III’s monumental statue"
+      },{
+        "time": "17:43",
+        "event": "End of the long and straight path called “Long Walk”"
+      },{
+        "time": "17:49",
+        "event": "Walk ends in front of the Museum"
+      }
+    ]
+  },{
     "name": "Inverness Loop",
     "date": "2021-07-18",
     "start": "Inverness",
