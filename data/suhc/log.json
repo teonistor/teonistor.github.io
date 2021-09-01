@@ -1,7 +1,113 @@
 [
   {
+    "name": "Blackbushe Day Walk",
+    "date": "2021-08-30",
+    "start": "Crowthorne",
+    "finish": "Winchfield",
+    "ringLeader": "Tom D.",
+    "headCount": 2,
+    "committeeCount": 1,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "11:07",
+        "event": "OK, I got more than enough Reading to last me several months now. Never have I seen this station so overcrowded, though, as it is today at the end of the festival"
+      },{
+        "time": "11:35",
+        "event": "After a very tight-packed second leg of the journey, walk begins"
+      },{
+        "time": "13:30",
+        "event": "Lunch at the end of Blackbushe airport runway"
+      },{
+        "time": "13:40",
+        "event": "Plane takes off over our heads"
+      },{
+        "time": "13:45",
+        "event": "Lunch break ends"
+      },{
+        "time": "13:49",
+        "event": "“Access to the bridleway is available by arrangement”. So we make an arrangement"
+      },{
+        "time": "",
+        "event": "The fire van comes to escort us across the runway, because that's where the bridleway, or public access land, is"
+      },{
+        "time": "14:05",
+        "event": "Having been escorted, we ask the van driver how many nut jobs like us ask to use this path a year. According to this guy's older colleague, we're the 3rd and 4th to do this in 18 years!"
+      },{
+        "time": "14:11",
+        "event": "Public access land shenanigans! The car company next to the airfield put up all sorts of fences creating an unpassable artificial maze much worse than the natural maze of paths we‘d encountered earlier. A grumpy gatekeeper motions us in the wrong direction just to remove us from the area"
+      },{
+        "time": "16:30",
+        "event": "Walk ends"
+      }
+    ]
+  },{
+    "name": "Reading to Henley via Sonning",
+    "date": "2021-08-28",
+    "start": "Reading",
+    "finish": "Henley-on-Thames",
+    "ringLeader": "Cherish",
+    "headCount": 13,
+    "committeeCount": 4,
+    "km": 18.5,
+    "misc": ["https://www.strava.com/activities/5867073346"],
+    "checkpoints": [
+      {
+        "time": "★",
+        "event": "While waiting for the others to arrive into Reading, I reflect upon the fact that only 12 minutes of earliness were converted by the directness of CrossCountry into 43 minutes of waiting"
+      },{
+        "time": "9:59",
+        "event": "Lots of counting but not a lot of adding up"
+      },{
+        "time": "10:08",
+        "event": "Walk begins"
+      },{
+        "time": "★",
+        "event": "Due to Reading Festival ongoing, the streets of the city are extremely crowded"
+      },{
+        "time": "10:21–10:28",
+        "event": "Before the river, extra foodwise complications occur"
+      },{
+        "time": "10:47–10:50",
+        "event": "Lock manoeuvre"
+      },{
+        "time": "11:22",
+        "event": "Frisbee field, frisbee found"
+      },{
+        "time": "11:29",
+        "event": "We play with a dog"
+      },{
+        "time": "",
+        "event": "Dog owner: If you come down here at eleven o'clock every morning and throw the stick, we can stay in bed!"
+      },{
+        "time": "11:42–11:49",
+        "event": "Water break and two people decide to abandon the walk and head back"
+      },{
+        "time": "12:01",
+        "event": "Sonning lock"
+      },{
+        "time": "13:00–13:30",
+        "event": "Lunch break"
+      },{
+        "time": "13:30–13:40",
+        "event": "Ultimate ultimate frisbee"
+      },{
+        "time": "14:19",
+        "event": "At the corner of a pub and a telephone box turned into a book exchange"
+      },{
+        "time": "15:01",
+        "event": "Marsh Lock with boat traffic jam"
+      },{
+        "time": "15:27",
+        "event": "At Henley boat range entry point from the road, we have to stop and regroup; ice cream shop"
+      },{
+        "time": "15:54",
+        "event": "Walk ends"
+      }
+    ]
+  },{
     "name": "The Royal Walk",
-    "date": "2021-08-22",
+    "date": "2021-08-21",
     "start": "Windsor",
     "finish": "Windsor",
     "ringLeader": "Thomas",
