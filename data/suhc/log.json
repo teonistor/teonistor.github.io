@@ -49,7 +49,8 @@
     "ringLeader": "Cherish",
     "headCount": 13,
     "committeeCount": 4,
-    "km": 18.5,
+    "km": 18.6,
+    "avgMoveSpeed": "4.52 kph",
     "misc": ["https://www.strava.com/activities/5867073346"],
     "checkpoints": [
       {
