@@ -1,5 +1,40 @@
 [
   {
+    "date": "2021-09-04",
+    "start": "Dorchester",
+    "finish": "Dorchester",
+    "ringLeader": "Eilish",
+    "headCount": 15,
+    "committeeCount": 5,
+    "km": 20,
+    "checkpoints": [
+      {
+        "time": "10:37",
+        "event": "Walk begins"
+      },{
+        "time": "10:45",
+        "event": "Maumbury Rings – now in the daytime!"
+      },{
+        "time": "11:30–11:35",
+        "event": "Maiden Castle signpost where we await the final joiner who drove (and was delayed by traffic once again demonstrating that trains are great)"
+      },{
+        "time": "11:45–11:54",
+        "event": "Atop two hilltops, one taller than the other, snack break or something"
+      },{
+        "time": "12:10–12:42",
+        "event": "Lunch"
+      },{
+        "time": "13:46",
+        "event": "We see Hardy’s monument in the distance and Tom gives us another one of his history crash-lectures"
+      },{
+        "time": "15:53–15:57",
+        "event": "Pause with sitting facility aka bridge"
+      },{
+        "time": "16:28",
+        "event": "Walk ends in a most enjoyably unusual manner in Eilish’s back garden where we are given a generous variety of home-made cakes"
+      }
+    ]
+  },{
     "name": "Blackbushe Day Walk",
     "date": "2021-08-30",
     "start": "Crowthorne",
