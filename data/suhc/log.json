@@ -1,5 +1,309 @@
 [
   {
+    "name": "Nun's Cross Weekend",
+    "date": "2021-10-22 – 24",
+    "start": "Dartmoor",
+    "finish": "Dartmoor",
+    "ringLeader": "Thomas",
+    "headCount": 13,
+    "committeeCount": 1,
+    "checkpoints": [
+      {
+        "time": "13:40",
+        "event": "I leave home"
+      },{
+        "time": "14:11",
+        "event": "This is already going \"well\" –"
+      },{
+        "time": "",
+        "event": "Guard of train delayed 5m and counting: Myself and the driver were not made aware of this change"
+      },{
+        "time": "14:56–15:04",
+        "event": "I'm forced into the foot-powered Dorchester change"
+      },{
+        "time": "16:05/10",
+        "event": "It appears possible that this dodgy door added up 5 minutes of delay to an unrelated service"
+      },{
+        "time": "17:03",
+        "event": "I reach Exeter as scheduled and go to the Imperial pub as promised"
+      },{
+        "time": "19:00",
+        "event": "I begin to wait for Thomas"
+      },{
+        "time": "20:20",
+        "event": "Facing issues of both road and what feels like time zones, Thomas finally shows up to drive us to the heart of Dartmoor"
+      },{
+        "time": "21:02",
+        "event": "Sheep in the road"
+      },{
+        "time": "21:09",
+        "event": "...lots of them!"
+      },{
+        "time": "★",
+        "event": "We reach road's end and proceed to walk a partly flooded path, except for Thomas who returns to Exeter to pick up more people"
+      },{
+        "time": "21:50",
+        "event": "The 4 of us find Harry in the dark place where he's already burnt all the wood and gotten scared of haunted legends"
+      },{
+        "time": "22:20",
+        "event": "Mahmoud lot arrive"
+      },{
+        "time": "23:59",
+        "event": "Thomas lot 2 arrive"
+      },{
+        "time": "00:43",
+        "event": "I try to sleep but people are doing the food inventory downstairs very noisily"
+      },{
+        "time": "4:44:36",
+        "event": "I wake up and check the time on my watch. After contemplating the fact for a few seconds, I light it up again"
+      },{
+        "time": "4:44:44",
+        "event": "it's 4:44:44"
+      },{
+        "time": "08:15",
+        "event": "Mahmoud's alarm rings, but everybody ignores it"
+      },{
+        "time": "08:45",
+        "event": "Wake up, eat etc"
+      },{
+        "time": "10:12",
+        "event": "Walk begins"
+      },{
+        "time": "10:15",
+        "event": "The first stone cross. It's more special than the rest because it's been bolted back into place after \"some lads knocked it over\""
+      },{
+        "time": "10:18",
+        "event": "The post"
+      },{
+        "time": "10:43",
+        "event": "Tin mines"
+      },{
+        "time": "11:08",
+        "event": "A river incurs division in the group"
+      },{
+        "time": "★",
+        "event": "but as it turns out we were right to stick with Harry who's been here before"
+      },{
+        "time": "11:23",
+        "event": "Some significant point at the bottom of a wall"
+      },{
+        "time": "11:50",
+        "event": "Top of something"
+      },{
+        "time": "12:17",
+        "event": "Gate of Burrator Reservoir where we enter"
+      },{
+        "time": "12:26",
+        "event": "Other gate where we exit"
+      },{
+        "time": "12:32",
+        "event": "We cross a serious dam and Harry's ice cream van prediction comes true"
+      },{
+        "time": "12:40",
+        "event": "Harry sets off with half of the people to find an elusive waterfall on the map, then we all decide to follow, despite Mahmoud's belief that it doesn't exist"
+      },{
+        "time": "12:53",
+        "event": "Mahmoud's prediction about the waterfall not existing also comes true, but some of us still go around searching for it while we sit and wait until"
+      },{
+        "time": "13:10",
+        "event": "they are back, making it officially lunch time"
+      },{
+        "time": "13:36",
+        "event": "Lunch break ends"
+      },{
+        "time": "14:03",
+        "event": "Passing the ice cream van again"
+      },{
+        "time": "15:30",
+        "event": "We acquire vue of Crazy Well Pool"
+      },{
+        "time": "15:39",
+        "event": "Another stone cross"
+      },{
+        "time": "15:47",
+        "event": "and another one"
+      },{
+        "time": "16:04",
+        "event": "At a (cross shaped!) junction, 5 people split off to go drive to Princetown to buy some very needed supplies; we head to the farm"
+      },{
+        "time": "16:20",
+        "event": "Walk ends (for us)"
+      },{
+        "time": "16:43",
+        "event": "I take a power nap rudiment; it seems the need to generate all the heat needed to sustain life really exhausts me"
+      },{
+        "time": "16:46",
+        "event": "The wind picks up"
+      },{
+        "time": "16:56",
+        "event": "Mahmoud runs for best trip master by bringing me a cup of steaming tea upstairs; this also has a side effect of blocking me in my bunk until the cup is cool and empty enough to safely place on unstable surfaces"
+      },{
+        "time": "17:19",
+        "event": "The others arrive"
+      },{
+        "time": "~18:00",
+        "event": "Pumpkin carving"
+      },{
+        "time": "~18:10",
+        "event": "Onion chopping"
+      },{
+        "time": "~18:20",
+        "event": "Mushroom slicing"
+      },{
+        "time": "~19:00",
+        "event": "Stories of extreme sports and accidents"
+      },{
+        "time": "19:50",
+        "event": "Food. This trip's highlight is the most beautiful mac&cheese&mess-o-vegetables my tongue has ever tasted (PROTIP: To receive such rave reviews, ensure reviewers are thoroughly starved and thermally exhausted for at least 24 hours ahead of the tasting session)"
+      },{
+        "time": "★",
+        "event": "This time we have a fire! (Remember the aforementioned supplies?)"
+      },{
+        "time": "23:00",
+        "event": "This must be the strangest fashion of brushing my teeth"
+      },{
+        "time": "23:10",
+        "event": "Bed time"
+      },{
+        "time": "★",
+        "event": "The wind! (In the morning it will transpire that our window wasn't firmly shut)"
+      },{
+        "time": "07:30",
+        "event": "Mahmoud's alarm rings,"
+      },{
+        "time": "07:31",
+        "event": "and it rings,"
+      },{
+        "time": "07:32",
+        "event": "and it rings,"
+      },{
+        "time": "07:33",
+        "event": "and it rings,"
+      },{
+        "time": "07:34",
+        "event": "and it rings,"
+      },{
+        "time": "07:35",
+        "event": "and it rings,"
+      },{
+        "time": "07:36",
+        "event": "and it rings,"
+      },{
+        "time": "07:37",
+        "event": "and it rings,"
+      },{
+        "time": "07:38",
+        "event": "and it rings"
+      },{
+        "time": "08:15",
+        "event": "I get up. Standard breakfast and preparation etc"
+      },{
+        "time": "09:30",
+        "event": "Route planning in decreasing light and increasing mist"
+      },{
+        "time": "10:00",
+        "event": "Cleaning"
+      },{
+        "time": "10:25",
+        "event": "We start heading to the cars; first with Matt H."
+      },{
+        "time": "10:41",
+        "event": "We arrive at the cars"
+      },{
+        "time": "10:51",
+        "event": "Mahmoud arrives and we set off adrive"
+      },{
+        "time": "11:11",
+        "event": "We park in some car park stranded in the mist and set off rainy-hiking"
+      },{
+        "time": "12:05",
+        "event": "We walked too fast and too far so now we have to cut across a geographical manifestation which is simultaneously land and river, such that dry feet become a thing of the legend (except for the super-hard-core waterproof-socks-bearing among us)"
+      },{
+        "time": "12:15",
+        "event": "We make room for around 5 incredibly ambitious mountain bikers coming down this rocky hillside"
+      },{
+        "time": "12:19",
+        "event": "Trig point at the fake hilltop, from which a treacherous path of wind and rain begins to the actual top and beyond, which supposedly showcases normal Dartmoor weather"
+      },{
+        "time": "13:01",
+        "event": "until we descend to a road. At the front of the group, we stop and wait for the back of the group; but I can't stay still for more than 2 minutes lest I freeze, so I walk around in circles of 2m radius until"
+      },{
+        "time": "13:04",
+        "event": "the back of the group reaches the road"
+      },{
+        "time": "13:20–13:48",
+        "event": "Lunch break. Thomas also runs for best trip master by lending me a dry fleece because it seems all my waterproof effects are only waterproof in historical promotional material"
+      },{
+        "time": "14:23",
+        "event": "We reach a bridge which we crossed earlier but it looks so different now in good weather that we hardly recognise the place"
+      },{
+        "time": "14:40",
+        "event": "Walk ends back at the car park which, faith will have it, is near a pub whose fire has been burning since 1845"
+      },{
+        "time": "14:54",
+        "event": "This pub, its placement, the sudden uncovering of the sky, and just about everything is indescribably great"
+      }
+    ]
+  },{
+    "name": "Isle of Wight Day Walk (2021)",
+    "date": "2021-10-09",
+    "start": "Yarmouth",
+    "finish": "Yarmouth",
+    "ringLeader": "Matt C., Will, James, Tom",
+    "headCount": "40+63",
+    "committeeCount": "2+3",
+    "checkpoints": [
+      {
+        "time": "★",
+        "event": "Interesting train+feery scheduling idiosincracies on the Journey Planner"
+      },{
+        "time": "9:45",
+        "event": "Having only been on the ferry for a bit, we can't see the Isle of Wight yet, but we can already intercept radio comms which the earlier group are emitting"
+      },{
+        "time": "10:25",
+        "event": "Walk begins"
+      },{
+        "time": "11:04",
+        "event": "Break where you can see Hurst Castle"
+      },{
+        "time": "11:56–12:05",
+        "event": "Totland pier, where we're too many for the toilets"
+      },{
+        "time": "12:15",
+        "event": "End of the main coastal walkway"
+      },{
+        "time": "12:48–13:16",
+        "event": "Lunch at the edge where the Needles are in view, whence we also see the early group atop the hill across the valley"
+      },{
+        "time": "13:27–13:41",
+        "event": "The needles signpost and toilets"
+      },{
+        "time": "13:59",
+        "event": "Atop near the Needles bastion, we realise we'd left some people behind in the café down hill"
+      },{
+        "time": "14:08",
+        "event": "Edge at bastion rocket store"
+      },{
+        "time": "14:40",
+        "event": "Tom: Reminder for all the experienced walkers that, if you see a fresher trying to pose for a photo near the cliff edge, kick them off!"
+      },{
+        "time": "",
+        "event": "Me: Wait, towards the land or towards the edge?"
+      },{
+        "time": "14:51",
+        "event": "Monument"
+      },{
+        "time": "15:22",
+        "event": "Pre-cow compaction"
+      },{
+        "time": "16:45",
+        "event": "Official word was that we'd take it easy and aim for the 18:04 ferry. But Ben just hijacked the walk! It seems unlikely we can get to the 17:04 one from here in time (especially with the 15 minutes in advance for \"operational reasons\"), but he gets us to try anyway"
+      },{
+        "time": "17:00",
+        "event": "and we do make it. Walk ends"
+      }
+    ]
+  },{
     "date": "2021-09-04",
     "start": "Dorchester",
     "finish": "Dorchester",
