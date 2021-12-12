@@ -1,5 +1,50 @@
 [
   {
+    "name": "Towing Trail Day Walk",
+    "date": "2021-12-11",
+    "start": "Winchfield",
+    "finish": "Hook",
+    "ringLeader": "James",
+    "headCount": 28,
+    "committeeCount": 4,
+    "km": 19,
+    "checkpoints": [
+      {
+        "time": "9:19",
+        "event": "The rammedness of this train is second only to that one we took from Reading on the day of festival end. Initially I think it's just people going on holiday, but I later learn it's mostly football fans (from Southampton onward)"
+      },{
+        "time": "10:19",
+        "event": "Walk begins"
+      },{
+        "time": "10:49",
+        "event": "Graveyard"
+      },{
+        "time": "11:15",
+        "event": "What a moment to run out of camera film"
+      },{
+        "time": "11:29",
+        "event": "James's unruly water bottle exits his bag and gets caught on a tree branch, where we towards the back of the group find it hanging as if left by a finder long ago"
+      },{
+        "time": "12:10–12:35",
+        "event": "Lunch"
+      },{
+        "time": "13:25",
+        "event": "We cross the quad railway over a bridge situated halfway between the start and end stations, such that both can be seen"
+      },{
+        "time": "14:30",
+        "event": "Odiham Castle"
+      },{
+        "time": "15:03",
+        "event": "We're lost!"
+      },{
+        "time": "15:58",
+        "event": "Closing speech"
+      },{
+        "time": "16:35",
+        "event": "In the pub, we calculate train times with respect to disgruntled football fans who may likely overrun them and whom we would prefer to avoid"
+      }
+    ]
+  },{
     "name": "Nun's Cross Weekend",
     "date": "2021-10-22 – 24",
     "start": "Dartmoor",
