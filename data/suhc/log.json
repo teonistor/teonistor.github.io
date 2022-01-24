@@ -1,5 +1,56 @@
 [
   {
+    "name": "Turn that Frown Up Black Down Day Walk",
+    "date": "2022-01-22",
+    "start": "Haslemere",
+    "finish": "Liphook",
+    "ringLeader": "Will",
+    "headCount": 37,
+    "committeeCount": 6,
+    "km": 21,
+    "checkpoints": [
+      {
+        "time": "10:31",
+        "event": "Walk begins"
+      },{
+        "time": "10:59",
+        "event": "This is the definition of slippery slope"
+      },{
+        "time": "11:05",
+        "event": "Oh great! Now we're walking through water!"
+      },{
+        "time": "11:40",
+        "event": "Break at camera-supervised bollard gate"
+      },{
+        "time": "11:58",
+        "event": "A view"
+      },{
+        "time": "12:15",
+        "event": "Another view"
+      },{
+        "time": "12:18–12:44",
+        "event": "Lunch"
+      },{
+        "time": "13:25",
+        "event": "The river decided to take a walk on our path, so we take our walk through the forest"
+      },{
+        "time": "13:59",
+        "event": "Get over the stile, then have a water break"
+      },{
+        "time": "15:06",
+        "event": "Third top"
+      },{
+        "time": "15:13",
+        "event": "Pause to wait for Maxwell to search for his glasses which went astray somewhere in the woods"
+      },{
+        "time": "15:52",
+        "event": "Walk ends"
+      },{
+        "time": "16:01",
+        "event": "14 of us go to a rather inconveniently located pub"
+      }
+    ]
+  },{
     "name": "Towing Trail Day Walk",
     "date": "2021-12-11",
     "start": "Winchfield",
