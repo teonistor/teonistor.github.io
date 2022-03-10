@@ -26,7 +26,7 @@ You try your best to sensibly choose one record out of the set. That's hard; not
 
 In the subsequent code review, colleagues ask what TSNH means and you calmly explain that it stands for _This Should Never Happen_. In other words, there’s no room within the business rules for such a case to occur; if it does, it's either because of a bug in your or a partner system, or due to a misadventurous manual intervention which placed the system in a state it could not have reached on its own.
 
-All in all, _This Should Never Happen_ is a complaint about the _postconditions_ of a previously executed process. It's not a complaint about bad users and their bad input – that would be _preconditions_ not being met and we deal with it all the time, quietly. When postconditions aren't met, the system violated itself; the system is acting mysteryously; the system has gone nuts. **This should never happen.**
+All in all, _This Should Never Happen_ is a complaint about the _postconditions_ of a previously executed process. It's not a complaint about bad users and their bad input – that would be _preconditions_ not being met and we deal with it all the time, quietly. When postconditions aren't met, the system violated itself; the system is acting mysteriously; the system has gone nuts. **This should never happen.**
 
 Still, you have to code around it.
   _____________
