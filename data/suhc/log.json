@@ -1,5 +1,71 @@
 [
   {
+    "name": "Arundel Amble Daywalk with Sussex Uni Hillwalking Club",
+    "date": "2022-03-19",
+    "start": "Arundel",
+    "finish": "Arundel",
+    "ringLeader": "James",
+    "headCount": 70,
+    "committeeCount": 6,
+    "km": 17,
+    "checkpoints": [
+      {
+        "time": "9:00",
+        "event": "I arrive at Southampton Central and look around and wait for people. A Southern train is cancelled and everyone who wanted it will naturally pile onto our train"
+      },{
+        "time": "9:28",
+        "event": "Yes, it's rammed, but at least it's on time"
+      },{
+        "time": "10:30",
+        "event": "A massive exodus of people to change trains at Barnham, but the next train is late because of course it is"
+      },{
+        "time": "10:41",
+        "event": "The 10:36 comes and it has a welcome capacity of 8 coaches"
+      },{
+        "time": "10:51",
+        "event": "We arrive at Arundel, but we must wait for an unspecified amount of time for the Sussex Uni group"
+      },{
+        "time": "11:?",
+        "event": "Walk begins"
+      },{
+        "time": "11:30",
+        "event": "Walking past, and peeling our eyes at, Arundel castle"
+      },{
+        "time": "11:59",
+        "event": "Self-proclaimed snack stop, before steep hill"
+      },{
+        "time": "12:05",
+        "event": "Actual snack stop, after steep hill"
+      },{
+        "time": "13:00",
+        "event": "Bridge between South Stoke and North Stoke"
+      },{
+        "time": "13:26",
+        "event": "Lunch break by now disused St Mary's Church, under the diligent supervision of some chickens"
+      },{
+        "time": "13:48",
+        "event": "Tom's in-church history talk"
+      },{
+        "time": "14:04",
+        "event": "We leave the lunch zone"
+      },{
+        "time": "14:57",
+        "event": "Playground!!!"
+      },{
+        "time": "15:18",
+        "event": "Who rides a grasscutter down a country road?!"
+      },{
+        "time": "15:33",
+        "event": "A little mispathing situation"
+      },{
+        "time": "15:58",
+        "event": "Closing loop of walk between River Arun and the railway of very disturbed Southern trains"
+      },{
+        "time": "16:17",
+        "event": "Closing speech"
+      }
+    ]
+  },{
     "name": "Runway Ramble Re-Run",
     "date": "2022-03-12",
     "start": "Blackwater",
