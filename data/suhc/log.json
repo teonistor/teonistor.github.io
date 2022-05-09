@@ -1,5 +1,84 @@
 [
   {
+    "name": "The Heart of Wessex Triple",
+    "date": "2022-03-28",
+    "start": "Yetminster/Castle Cary/Weymouth",
+    "finish": "Chetnole/Castle Cary/Weymouth",
+    "ringLeader": "Teo",
+    "headCount": 1,
+    "km": 25,
+    "external": "external",
+    "misc": ["https://teodor.nistor.uk/data/maps/20220328-115042_The_Heart_of_Wessex_Triple.html"],
+    "checkpoints": [
+      {
+        "time": "07:something",
+        "event": "I was supposed to take this train, but it's messed up; luckily, I found out before even getting out of bed, but unluckily, it means my ideal timing is botched; but no matter – I can still pull it off"
+      },{
+        "time": "10:04",
+        "event": "I take the train from Bournemouth"
+      },{
+        "time": "11:01",
+        "event": "I get off the train at Upwey"
+      },{
+        "time": "11:16",
+        "event": "I take another train"
+      },{
+        "time": "11:50",
+        "event": "I get off at Yetminster (request stop)"
+      },{
+        "time": "11:54",
+        "event": "I finally finish the coffee which I'd bought at Bournemouth station, quite perfectly just by the only rubbish bin along the hike"
+      },{
+        "time": "12:00",
+        "event": "There is a very strong farm animal smell on this one"
+      },{
+        "time": "13:41",
+        "event": "Reach Thornford (request stop), after throwing in a small extra loop through the village itself for good measure"
+      },{
+        "time": "13:53",
+        "event": "Take the 13:52 onwards, after discussing this train line with a very nice old lady"
+      },{
+        "time": "14:16",
+        "event": "Get off at Castle Cary (which is so not in town!)"
+      },{
+        "time": "*",
+        "event": "Most of the first path often vanishes into fields without a trace"
+      },{
+        "time": "15:30",
+        "event": "I decide that, especially given I've just been making useless detours around DPD and other logistics warehouses, I can't catch the 16:02 back if I am to reach the old Cary Castle site, so the timing is botched once more; but no matter – I can still pull it off"
+      },{
+        "time": "15:45",
+        "event": "I'm sad to report that indeed not even a single stone seems to be left of Cary Castle"
+      },{
+        "time": "16:05",
+        "event": "Pub time... for drinks only"
+      },{
+        "time": "17:02",
+        "event": "I leave the pub"
+      },{
+        "time": "17:26",
+        "event": "Back at Castle Cary station, I discover that the train after next is cancelled because of course it is; now the timing is proper botched and I won't be able to pull off the Maiden Newton part. Then I have a very late and very sad meal"
+      },{
+        "time": "18:01",
+        "event": "I get a train back"
+      },{
+        "time": "19:07",
+        "event": "I get off at Weymouth"
+      },{
+        "time": "19:12",
+        "event": "Fish&chips, then proceed with an evening replacement walk"
+      },{
+        "time": "*",
+        "event": "Sandsfoot Castle"
+      },{
+        "time": "*",
+        "event": "I Return via Rodwell Trail"
+      },{
+        "time": "21:00",
+        "event": "I board one final train from Weymouth"
+      }
+    ]
+  },{
     "name": "Arundel Amble Daywalk with Sussex Uni Hillwalking Club",
     "date": "2022-03-19",
     "start": "Arundel",
