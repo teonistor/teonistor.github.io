@@ -1,5 +1,74 @@
 [
   {
+    "name": "Jurassic Coast (Revived and Intensified)",
+    "date": "2022-06-11",
+    "start": "Lulworth Cove Visitor Centre",
+    "finish": "Lulworth Cove Visitor Centre",
+    "via": "Osmington",
+    "ringLeader": "Jack Rajack",
+    "headCount": 34,
+    "committeeCount": 5,
+    "km": 21,
+    "avgMoveSpeed": "4 kph",
+    "misc": ["https://teodor.nistor.uk/data/maps/20220611-JurassicCoastX3.html"],
+    "checkpoints": [
+      {
+        "time": "10:24",
+        "event": "When I get to the Visitor Centre (by bike), our minibus (labelled 4) and a few cars are already here"
+      },{
+        "time": "10:50",
+        "event": "A group of 39 high-school-looking people pass as we wait for one final carful..."
+      },{
+        "time": "10:57",
+        "event": "...which now finally turns up"
+      },{
+        "time": "11:03",
+        "event": "Jack R gives customary pre-walk speech"
+      },{
+        "time": "11:07",
+        "event": "Walk begins"
+      },{
+        "time": "12:54",
+        "event": "Lunch (or slightly earlier/later for the faster/slower)"
+      },{
+        "time": "13:23",
+        "event": "Continue"
+      },{
+        "time": "13:56",
+        "event": "First aid kit crash-anti-course"
+      },{
+        "time": "14:37",
+        "event": "Ice cream etc place"
+      },{
+        "time": "15:05",
+        "event": "Finding ourselves in Osmington Mills, we come to the realisation that Jack double-extended the walk, so we're only just now at the furthest point"
+      },{
+        "time": "16:20",
+        "event": "Another first aid kit situation what's going on today"
+      },{
+        "time": "16:57",
+        "event": "A cow situation"
+      },{
+        "time": "17:18",
+        "event": "Scratchy bottom top"
+      },{
+        "time": "17:37",
+        "event": "Convenience store, but the public toilets are gone"
+      },{
+        "time": "18:40",
+        "event": "Walk ends at Lulworth Cove with a group photo"
+      },{
+        "time": "★",
+        "event": "We get double-fish-and-chips-shafted: first by the shop which spontaneously decided to change its opening times and no longer take orders by the time we return from the group pic, and second by Athena and [person whose name I forgot] who, having somehow misheard/misrepresented the announcement about the pic, managed to get fish and chips in the nick of time nonetheless"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "Kudos to the leaders for the tenacity to disallow splitting into fast/medium/slow groups, and to everyone in the group for pulling off this longest version of this walk."
+      }
+    ]
+  },{
     "name": "The Heart of Wessex Triple",
     "date": "2022-03-28",
     "start": "Yetminster/Castle Cary/Weymouth",
