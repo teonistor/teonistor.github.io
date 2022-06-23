@@ -8,3 +8,20 @@ But that would double the time acceptance testing takes, which is already the si
 Oh, I know! Pull the branch name from the environment and run one way if it's the PR build, and the other way if it's the branch build. Since we need two green builds for a merge, we might as well use them
 
 
+
+12 mar midnight thoughts
+And we went to the BA and he said that's expected, you have to store it.
+But... why?!
+Just store it.
+This brings me to the question of: when is storage a valid business requirement? And the corollary: when is storage a valid acceptance test?
+There is audit,
+
+
+
+Getting drunk on microservies / independent deployability
+
+The nasty about these microservices is we're not doing backwards and forwards compatibility; in fact it would be super hard, especially in the early stages where everything is so volatile. What if it were a P1 any time users got a 500 error 3 times in a row? And if users were as many and permanent as they come? Like, we sent an email the other day: "Please don't use this for an hour; we're migrating." You couldn't send that if your user base was all Visa cardholders of the continent!
+
+I invented the word _macroservice_ in irony, but now I see the balance.
+Though I don't condemn _doing things because they're sexy_ when time permits, and appreciate workplaces that allow it.
+
