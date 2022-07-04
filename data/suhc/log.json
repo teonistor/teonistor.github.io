@@ -1,5 +1,49 @@
 [
   {
+    "date": "2022-07-02",
+    "start": "Amberley",
+    "finish": "Pulborough",
+    "ringLeader": "Tom D.",
+    "headCount": 9,
+    "committeeCount": 1,
+    "km": 19,
+    "avgMoveSpeed": "4.6 kph",
+    "external": "unofficial",
+    "misc": ["https://teodor.nistor.uk/data/maps/20220702-101818%20-%20Amberley%20to%20Pulborough.html"],
+    "checkpoints": [
+      {
+        "time": "10:18",
+        "event": "Walk starts"
+      },{
+        "time": "10:20",
+        "event": "Explanation as to the Steam Show poster"
+      },{
+        "time": "11:08",
+        "event": "The hill is about to begin"
+      },{
+        "time": "11:14",
+        "event": "Top of Amberley Quarry"
+      },{
+        "time": "12:41",
+        "event": "Lunch starts"
+      },{
+        "time": "13:01",
+        "event": "Lunch ends"
+      },{
+        "time": "13:27",
+        "event": "Are we crossing a runway again?"
+      },{
+        "time": "",
+        "event": "We are, but this time it's a gliders' airfield!"
+      },{
+        "time": "13:35",
+        "event": "An interesting atmospheric phenomenon"
+      },{
+        "time": "15:00",
+        "event": "Walk ends at The Lantern bar"
+      }
+    ]
+  },{
     "name": "Jurassic Coast (Revived and Intensified)",
     "date": "2022-06-11",
     "start": "Lulworth Cove Visitor Centre",
