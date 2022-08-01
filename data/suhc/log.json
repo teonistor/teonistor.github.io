@@ -1,5 +1,52 @@
 [
   {
+    "date": "2022-07-30",
+    "start": "Ford",
+    "finish": "Littlehampton",
+    "ringLeader": "Tom D.",
+    "headCount": 14,
+    "committeeCount": 2,
+    "km": 24,
+    "avgMoveSpeed": "4.54 kph",
+    "external": "unofficial",
+    "misc": ["https://teodor.nistor.uk/data/maps/20220730-195500%20-%20Ford.html"],
+    "checkpoints": [
+      {
+        "time": "10:43",
+        "event": "Walk begins"
+      },{
+        "time": "10:55",
+        "event": "Ship&Anchor pub lady be like"
+      },{
+        "time": "11:27",
+        "event": "Tom D.: Ford Prison is built in the old airport building."
+      },{
+        "time": "11:36",
+        "event": "Ben: So we've been told off both for trespassing and for not trespassing!"
+      },{
+        "time": "12:37–13:09",
+        "event": "Lunch break, which includes a book exchange box"
+      },{
+        "time": "15:23",
+        "event": "Bikes?! In this place?!"
+      },{
+        "time": "17:03–17:27",
+        "event": "Beach break, which includes a few brave people facing the seawater and me snoozing"
+      },{
+        "time": "18:15",
+        "event": "Walk soft-ends at Littlehampton station entrance"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "The disgruntled walker",
+        "what": "Do not, under any circumstance, attempt to access the Ship & Anchor Pub near Ford station. You see, according to the owner, it's private property, which means no one is allowed to set foot there, ever. This includes vast swathes of surrounding land. What, you think that contradicts the concept of a pub? Possibly too that of a public right of way? Guess nobody thought that far, huh. \n/s"
+      },{
+        "who": "Teo",
+        "what": "And this walk must surely set the record for the most doublebacks."
+      }
+    ]
+  },{
     "name": "The Knotted Walk",
     "date": "2022-07-23",
     "start": "Branksome",
