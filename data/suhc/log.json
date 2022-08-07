@@ -1,5 +1,35 @@
 [
   {
+    "name": "Bonus Thames",
+    "date": "2022-07-06",
+    "start": "Reading",
+    "finish": "Pangbourne",
+    "ringLeader": "Teo",
+    "headCount": 1,
+    "committeeCount": 0,
+    "km": 14,
+    "avgMoveSpeed": "5.4 kph",
+    "external": "unofficial",
+    "misc": ["https://teodor.nistor.uk/data/maps/20220806-140303%20-%20Bonus%20Thames.html"],
+    "checkpoints": [
+      {
+        "time": "14:03",
+        "event": "Walk soft-begins from a café in central Reading"
+      },{
+        "time": "14:49",
+        "event": "(Second) lunch"
+      },{
+        "time": "17:05",
+        "event": "Walk ends"
+      }
+    ],
+    "accounts": [
+      {
+        "who": "Teo",
+        "what": "It was a good little walk. Shame no one else joined \uD83D\uDE05"
+      }
+    ]
+  },{
     "date": "2022-07-30",
     "start": "Ford",
     "finish": "Littlehampton",
