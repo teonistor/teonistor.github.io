@@ -1,5 +1,42 @@
 [
   {
+    "name": "Bristol Balloon Fiesta Walking",
+    "date": "2022-08-14",
+    "start": "Bristol Temple Meads",
+    "finish": "Bristol Temple Meads",
+    "ringLeader": "Eto",
+    "headCount": 14,
+    "committeeCount": 1,
+    "km": 16,
+    "external": "unofficial",
+    "checkpoints": [
+      {
+        "time": "12:48",
+        "event": "Walk begins"
+      },{
+        "time": "13:11",
+        "event": "Designer counterweights"
+      },{
+        "time": "13:13",
+        "event": "A shiny ball so the sun can blind us from any angle!"
+      },{
+        "time": "14:15–14:37",
+        "event": "Lunch"
+      },{
+        "time": "15:35",
+        "event": "Having crossed through most of the festival site geared around the Hot Air Baloon Fiesta, we reach the field supposed to be used for takeoff and landing but all we see is a big X"
+      },{
+        "time": "17:30",
+        "event": "Walk soft-ends at a great viewpoint spot overlooking Clifton Suspension Bridge and the supposed baloon ascent, but we discover that owing to the extreme heat there will be no baloon ascent..."
+      },{
+        "time": "17:51",
+        "event": "...so we make for the main station when convinced of that fact"
+      },{
+        "time": "19:00",
+        "event": "Walk ends in a pub by the station"
+      }
+    ]
+  },{
     "name": "Bonus Thames",
     "date": "2022-07-06",
     "start": "Reading",
