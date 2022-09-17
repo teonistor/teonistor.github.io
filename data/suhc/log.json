@@ -1,5 +1,43 @@
 [
   {
+    "name": "Wareham Wombling",
+    "date": "2022-09-17",
+    "start": "Holton Heath",
+    "finish": "Wareham",
+    "ringLeader": "Amy K",
+    "headCount": 8,
+    "committeeCount": 2,
+    "km": 21,
+    "avgMoveSpeed": "4.3 kph",
+    "misc": ["https://teodor.nistor.uk/data/maps/20220917-103407-WarehamWombling.html"],
+    "checkpoints": [
+      {
+        "time": "10:26",
+        "event": "Walk begins"
+      },{
+        "time": "10:38",
+        "event": "Random piece of viaduct / tower"
+      },{
+        "time": "13:00",
+        "event": "Just a little bit of chaos"
+      },{
+        "time": "13:11–13:41",
+        "event": "Lunch at Woolsbarrow Viewpoint"
+      },{
+        "time": "15:15",
+        "event": "We can hear a party"
+      },{
+        "time": "15:18",
+        "event": "We can see the party"
+      },{
+        "time": "15:50",
+        "event": "Walk soft-ends at Wareham station, with impeccable timing, closing speech being given just as the Southampton-bound train pulls in"
+      },{
+        "time": "16:10",
+        "event": "After a failed pub attempt due to an incorrect vibe, walk ends at the Duke of Wellington, a pub with a No Swearing rule, which is a first for my life"
+      }
+    ]
+  },{
     "name": "Bristol Balloon Fiesta Walking",
     "date": "2022-08-14",
     "start": "Bristol Temple Meads",
